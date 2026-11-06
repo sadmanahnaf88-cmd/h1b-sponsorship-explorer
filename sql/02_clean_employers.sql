@@ -25,7 +25,7 @@ CREATE OR REPLACE MACRO normalize_employer(n) AS (
             replace(upper(trim(n)), '&', ' AND '),   -- 1. uppercase, & -> AND
           '[^A-Z0-9 ]', ' ', 'g'),
         '^\s*THE\s+', ''),
-      '(\s+(INC|INCORPORATED|LLC|L L C|LLP|L L P|LP|L P|LTD|LIMITED|CORP|CORPORATION|CO|COMPANY|PLC|PC|P C|PLLC|NA|N A|USA|US|U S|U S A|GROUP|HOLDINGS))+\s*$', ''),
+      '(\s+(INC|INCORPORATED|LLC|L L C|LLP|L L P|LP|L P|LTD|LIMITED|CORP|CORPORATION|CO|COMPANY|PLC|PC|P C|PLLC|NA|N A|USA|US|U S|U S A|GROUP|HOLDINGS|AND))+\s*$', ''),
     '\s+', ' ', 'g'))
 );
 
@@ -66,6 +66,10 @@ name_main_fein AS (              -- a name's main FEIN, only if it is clearly do
     SELECT norm1, arg_max(fein, n) AS fein, max(n) / sum(n) AS share
     FROM fein_counts
     WHERE length(fein) = 9 AND fein NOT IN ('000000000', '999999999', '123456789')
+      -- Public universities and governments share ONE state FEIN across
+      -- separate campuses/agencies (e.g. UMass Amherst vs UMass Chan Medical
+      -- School). Merging them would be wrong for a job seeker, so skip them.
+      AND NOT regexp_matches(norm1, '\b(UNIVERSITY|UNIV|COLLEGE|SCHOOL|STATE OF|COUNTY|CITY OF|DEPARTMENT)\b')
     GROUP BY norm1
     HAVING max(n) / sum(n) >= 0.8
 ),

@@ -2,7 +2,10 @@
 -- Q5a. "Hidden sponsors" - NATIONAL
 -- Employers OUTSIDE tech that sponsor data roles CONSISTENTLY.
 -- Definition (DECISIONS.md):
---   * not tech (is_tech = false), not a staffing agency (NAICS 5613)
+--   * not tech (is_tech = false)
+--   * not management consulting (NAICS 5416), accounting/Big-4 (5412)
+--     or staffing (5613): those firms place or advise; we want companies
+--     whose OWN business (bank, retailer, insurer, hospital...) hires data people
 --   * at least 5 certified data-role LCAs in EACH of FY2022..FY2025
 -- Technique: two-level aggregation - first per employer-year, then per
 -- employer; HAVING count(*) = 4 AND min(...) >= 5 means "every year".
@@ -14,7 +17,8 @@ WITH per_year AS (
     FROM lca_certified
     WHERE is_data_role
       AND NOT is_tech
-      AND coalesce(naics4, '') <> '5613'
+      -- not consulting/accounting/staffing (their business is placing or advising)
+      AND coalesce(naics4, '') NOT IN ('5416', '5412', '5613')
       AND fiscal_year BETWEEN 2022 AND 2025
     GROUP BY ALL
 )

@@ -1,0 +1,21 @@
+role_family,wage_level,n_national,median_national,n_nyc,median_nyc,nyc_premium_pct
+Analytics Manager,I,117,118061.0,26,94095.0,-20.3
+Analytics Manager,II,693,135000.0,102,131420.0,-2.7
+Analytics Manager,III,976,150993.5,78,155821.0,3.2
+Analytics Manager,IV,1593,170373.0,140,189500.0,11.2
+Business/BI Analyst,I,2141,81349.0,114,84500.0,3.9
+Business/BI Analyst,II,4978,104000.0,272,118500.0,13.9
+Business/BI Analyst,III,1699,128215.0,88,145000.0,13.1
+Business/BI Analyst,IV,800,145164.0,45,175000.0,20.6
+Data Analyst,I,1992,78894.0,133,83200.0,5.5
+Data Analyst,II,2760,100317.5,183,115200.0,14.8
+Data Analyst,III,1015,130000.0,66,152156.0,17.0
+Data Analyst,IV,528,146037.0,46,175390.5,20.1
+Data Engineer,I,1849,86955.0,55,100000.0,15.0
+Data Engineer,II,5776,111176.0,164,130688.5,17.6
+Data Engineer,III,2652,141832.0,83,170000.0,19.9
+Data Engineer,IV,1979,163550.0,76,200000.0,22.3
+Data Scientist,I,1603,90000.0,138,100981.5,12.2
+Data Scientist,II,4300,128398.0,426,150000.0,16.8
+Data Scientist,III,2639,159200.0,248,169325.0,6.4
+Data Scientist,IV,1749,178800.0,190,195150.0,9.1

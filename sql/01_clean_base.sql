@@ -145,10 +145,15 @@ SELECT
     left(naics_code, 4)                                          AS naics4,
 
     -- ---- Wage-quality flags (we FLAG, we never "fix" a wage) ----
-    -- Unit mistake suspected: hourly rate >= $500/h or annual salary < $1,000
-    -- almost always means the wrong unit was ticked on the form.
-    (wage_unit = 'Hour' AND wage_from >= 500)
-      OR (wage_unit = 'Year' AND wage_from < 1000)               AS flag_unit_suspect,
+    -- Unit mistake suspected: the number is far outside what that unit
+    -- can mean (e.g. "$120,000 per WEEK" is an annual salary with the wrong
+    -- unit ticked). Profiling: median "weekly" wage annualized to $4.5M.
+    -- Thresholds are each ~ $1M+/year when annualized.
+    (wage_unit = 'Hour'      AND wage_from >= 500)
+      OR (wage_unit = 'Week'      AND wage_from >= 20000)
+      OR (wage_unit = 'Bi-Weekly' AND wage_from >= 40000)
+      OR (wage_unit = 'Month'     AND wage_from >= 85000)
+      OR (wage_unit = 'Year'      AND wage_from < 1000)          AS flag_unit_suspect,
     -- Implausible annual values for a full-time professional role.
     (wage_from * wage_factor) < 30000                            AS flag_wage_too_low,
     (wage_from * wage_factor) > 1000000                          AS flag_wage_too_high,

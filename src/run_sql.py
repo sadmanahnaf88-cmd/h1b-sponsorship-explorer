@@ -22,7 +22,7 @@ TABLES = ROOT / "outputs" / "tables"
 def run_file(con, path: Path, save_csv: bool):
     sql = path.read_text(encoding="utf-8")
     # DuckDB's execute() runs all statements; the returned relation is the last one.
-    result = con.execute(sql)
+    result = con.execute(sql)  # runs every statement; result = last one
     try:
         df = result.fetchdf()
     except duckdb.InvalidInputException:

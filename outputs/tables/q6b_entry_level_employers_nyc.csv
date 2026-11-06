@@ -1,0 +1,26 @@
+employer_parent,level_1_2_data_lcas,level_1,role_families,median_wage,industry_sector,is_tech
+AMAZON,484,69,"Business/BI Analyst, Data Engineer, Data Scientist",150200.0,Retail Trade,True
+CAPITAL ONE,76,0,"Business/BI Analyst, Data Analyst, Data Engineer, Data Scientist",111966.0,Finance & Insurance,False
+MCKINSEY,51,15,"Business/BI Analyst, Data Engineer, Data Scientist",146600.0,"Professional, Scientific & Technical Services",False
+AETNA RESOURCES,42,1,"Data Engineer, Data Scientist",130000.0,Finance & Insurance,False
+EY,40,10,Data Scientist,124025.0,"Professional, Scientific & Technical Services",False
+BOSTON CONSULTING,35,24,Data Scientist,110000.0,"Professional, Scientific & Technical Services",False
+META,34,1,"Data Analyst, Data Engineer, Data Scientist",184791.5,Information,True
+AMERICAN EXPRESS,33,3,"Analytics Manager, Data Analyst, Data Scientist",129792.0,Finance & Insurance,False
+GROUPM WORLDWIDE,32,14,"Analytics Manager, Business/BI Analyst, Data Analyst, Data Scientist",104000.0,"Professional, Scientific & Technical Services",False
+MORGAN STANLEY,31,2,"Business/BI Analyst, Data Scientist",138000.0,Finance & Insurance,False
+CAREMARK,31,2,"Data Engineer, Data Scientist",127000.0,Retail Trade,False
+GOLDMAN SACHS,31,9,"Business/BI Analyst, Data Analyst, Data Scientist",115200.0,Finance & Insurance,False
+GOOGLE,28,0,"Business/BI Analyst, Data Analyst, Data Engineer, Data Scientist",166000.0,"Professional, Scientific & Technical Services",True
+AMERICAN EXPRESS TRAVEL RELATED SERVICES,25,3,"Analytics Manager, Data Analyst, Data Engineer, Data Scientist",128336.5,Finance & Insurance,False
+NYU GROSSMAN SCHOOL OF MEDICINE,24,14,"Data Analyst, Data Scientist",92750.0,Educational Services,False
+JPMORGAN CHASE,24,2,"Data Analyst, Data Scientist",135000.0,Management of Companies,False
+DELOITTE,24,4,"Business/BI Analyst, Data Analyst, Data Engineer, Data Scientist",91270.0,"Professional, Scientific & Technical Services",False
+ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI,19,1,"Analytics Manager, Data Analyst, Data Engineer, Data Scientist",90626.0,Health Care & Social Assistance,False
+MOODY S INVESTORS SERVICE,17,4,"Business/BI Analyst, Data Analyst, Data Engineer, Data Scientist",118000.0,Administrative & Support Services,False
+MICROSOFT,17,1,"Data Analyst, Data Scientist",165500.0,Information,True
+PWC,16,8,"Business/BI Analyst, Data Scientist",118500.0,"Professional, Scientific & Technical Services",False
+EXLSERVICE COM,16,9,"Business/BI Analyst, Data Analyst, Data Scientist",101842.5,"Professional, Scientific & Technical Services",False
+CAPGEMINI AMERICA,16,0,"Business/BI Analyst, Data Analyst",105559.5,"Professional, Scientific & Technical Services",True
+HORIZON MEDIA,16,7,"Analytics Manager, Business/BI Analyst, Data Analyst, Data Engineer, Data Scientist",105000.0,"Professional, Scientific & Technical Services",False
+BLOOMBERG,16,0,"Data Analyst, Data Scientist",112340.5,Information,True

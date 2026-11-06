@@ -1,6 +1,7 @@
 -- =====================================================================
 -- Q5b. "Hidden sponsors" - NYC
--- Same idea, NYC worksites only, with a lower bar (>= 2 data LCAs in
+-- Same definition as Q5a (non-tech, not consulting/accounting/staffing),
+-- NYC worksites only, with a lower bar (>= 2 data LCAs in
 -- each of the 4 complete years) because NYC volumes are smaller.
 -- Adds median wage and entry-level share so the list is actionable.
 -- Technique: CTE chain; the consistent-employer list is joined back to
@@ -10,7 +11,8 @@ WITH per_year AS (
     SELECT employer_parent, fiscal_year, count(*) AS lcas
     FROM lca_certified
     WHERE is_data_role AND is_nyc AND NOT is_tech
-      AND coalesce(naics4, '') <> '5613'
+      -- not consulting/accounting/staffing (their business is placing or advising)
+      AND coalesce(naics4, '') NOT IN ('5416', '5412', '5613')
       AND fiscal_year BETWEEN 2022 AND 2025
     GROUP BY ALL
 ),

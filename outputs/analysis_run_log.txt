@@ -1,0 +1,282 @@
+
+=== q1a_top_employers_national.sql ===
+              employer_parent  data_lcas_fy22_25  pct_of_all_data_lcas  data_scientist  data_engineer  data_analyst  business_bi_analyst  analytics_manager  median_wage  is_tech
+0                      AMAZON              14430                  8.60            4762           3240             8                 5757                663     142000.0     True
+1                        META               2892                  1.72            1436           1065           111                   28                252     187973.5     True
+2                     WALMART               2882                  1.72            1154            597           314                    0                817     144075.0    False
+3                   MICROSOFT               2555                  1.52            2103            312           129                    8                  3     160298.0     True
+4           CAPGEMINI AMERICA               1752                  1.04               6             97           281                 1355                 13     106933.0     True
+5                 CAPITAL ONE               1709                  1.02             376             74           801                  273                185     102274.0    False
+6                      GOOGLE               1365                  0.81             594            145           243                  367                 16     166000.0     True
+7                    CAREMARK                947                  0.56             314            467            33                   35                 98     138252.0    False
+8          TIKTOK / BYTEDANCE                861                  0.51             449            241           121                   34                 16     200000.0     True
+9   TATA CONSULTANCY SERVICES                834                  0.50              10            602             1                  221                  0      80787.0     True
+10             JPMORGAN CHASE                819                  0.49             251             60           150                   78                280     140000.0    False
+11                   MCKINSEY                802                  0.48             202            153            79                  364                  4     112000.0    False
+12            AETNA RESOURCES                730                  0.44             349            312            22                    2                 45     137078.5    False
+13                        IBM                702                  0.42             149            375            31                  144                  3     109429.0     True
+14            TIGER ANALYTICS                604                  0.36             112            260           182                   24                 26     150000.0     True
+15                     KFORCE                579                  0.35               0             32           159                  388                  0     100734.0    False
+16        FIDELITY TECHNOLOGY                555                  0.33              11            368            64                   12                100     120328.0    False
+17                         EY                544                  0.32             526              3             0                   15                  0     127033.0    False
+18                     INTUIT                532                  0.32             133             13           295                   38                 53     148699.0     True
+19          DISCOVER PRODUCTS                526                  0.31             401              3            31                   18                 73     104000.0    False
+20                      APPLE                525                  0.31             315            115            11                   82                  2     164509.0     True
+21         COMPUNNEL SOFTWARE                508                  0.30              27            154            29                  298                  0     104150.0     True
+22           WELLS FARGO BANK                485                  0.29               3             59           412                    1                 10     124883.0    False
+23                   DELOITTE                481                  0.29             171             20           156                   46                 88     105100.0    False
+24              ZS ASSOCIATES                479                  0.29              42              0           294                    0                143     165700.0    False
+
+=== q1b_top_employers_nyc.sql ===
+                             employer_parent  nyc_data_lcas_fy22_25  pct_of_nyc_data_lcas  national_rank     most_common_role  median_wage                                industry_sector  is_tech
+0                                     AMAZON                   1166                 10.83              1       Data Scientist     150395.5                                   Retail Trade     True
+1                                       META                    399                  3.71              2       Data Scientist     190000.0                                    Information     True
+2                            AETNA RESOURCES                    232                  2.15             13       Data Scientist     148835.0                            Finance & Insurance    False
+3                                CAPITAL ONE                    192                  1.78              6       Data Scientist     111966.0                            Finance & Insurance    False
+4                                     GOOGLE                    175                  1.63              7       Data Scientist     172900.0  Professional, Scientific & Technical Services     True
+5                                   MCKINSEY                    158                  1.47             12       Data Scientist     141800.0  Professional, Scientific & Technical Services    False
+6                             JPMORGAN CHASE                    122                  1.13             11       Data Scientist     159775.0                        Management of Companies    False
+7                           AMERICAN EXPRESS                    120                  1.11            124    Analytics Manager     135223.0                            Finance & Insurance    False
+8                                         EY                    116                  1.08             18       Data Scientist     142500.0  Professional, Scientific & Technical Services    False
+9                                   CAREMARK                    102                  0.95              8       Data Scientist     135000.0                                   Retail Trade    False
+10                         CAPGEMINI AMERICA                    100                  0.93              5  Business/BI Analyst     118102.5  Professional, Scientific & Technical Services     True
+11                                   SPOTIFY                     91                  0.85            102       Data Scientist     181140.0                                    Information     True
+12                                      CITI                     89                  0.83             36         Data Analyst     163238.0                            Finance & Insurance    False
+13  AMERICAN EXPRESS TRAVEL RELATED SERVICES                     84                  0.78             64    Analytics Manager     137025.0                            Finance & Insurance    False
+14                            MORGAN STANLEY                     83                  0.77            146       Data Scientist     150000.0                            Finance & Insurance    False
+15                             ZS ASSOCIATES                     75                  0.70             25         Data Analyst     175000.0  Professional, Scientific & Technical Services    False
+16                             GOLDMAN SACHS                     72                  0.67             39  Business/BI Analyst     121000.0                            Finance & Insurance    False
+17                                 BLOOMBERG                     72                  0.67            229         Data Analyst     112112.0                                    Information     True
+18                         BOSTON CONSULTING                     69                  0.64             73       Data Scientist     132000.0  Professional, Scientific & Technical Services    False
+19                                      UBER                     65                  0.60             32       Data Scientist     151000.0  Professional, Scientific & Technical Services     True
+20                          WELLS FARGO BANK                     59                  0.55             23         Data Analyst     144400.0                            Finance & Insurance    False
+21                                 MICROSOFT                     57                  0.53              4       Data Scientist     172000.0                                    Information     True
+22                         BARCLAYS SERVICES                     57                  0.53             39    Analytics Manager     150000.0                            Finance & Insurance    False
+23                                  DELOITTE                     56                  0.52             24         Data Analyst      93785.0  Professional, Scientific & Technical Services    False
+24                          GROUPM WORLDWIDE                     56                  0.52            170    Analytics Manager     112500.0  Professional, Scientific & Technical Services    False
+
+=== q2a_salary_by_role_family.sql ===
+  geography          role_family      n       p10       p25    median        p75       p90
+0       NYC    Analytics Manager    378  110000.0  132669.5  157655.5  190565.50  235040.2
+1  National    Analytics Manager   3730  113949.0  134861.0  155000.0  185393.50  221292.0
+2       NYC  Business/BI Analyst    545   83080.0  101294.0  120000.0  144880.00  170000.0
+3  National  Business/BI Analyst  10277   76000.0   89274.0  106000.0  128000.00  150000.0
+4       NYC         Data Analyst    454   82041.7   90000.5  113745.0  145712.50  173580.0
+5  National         Data Analyst   6655   70000.0   82680.0   99100.0  123124.00  150000.0
+6       NYC        Data Engineer    394  100000.0  123164.0  150000.0  182892.75  213357.8
+7  National        Data Engineer  12921   85530.0  102450.0  125571.0  151200.00  180000.0
+8       NYC       Data Scientist   1024  109491.0  125750.0  162825.0  185000.00  209720.0
+9  National       Data Scientist  11126   89040.0  110739.0  142773.0  175000.00  202427.0
+
+=== q2b_salary_by_wage_level.sql ===
+            role_family wage_level  n_national  median_national  n_nyc  median_nyc  nyc_premium_pct
+0     Analytics Manager          I         117         118061.0     26     94095.0            -20.3
+1     Analytics Manager         II         693         135000.0    102    131420.0             -2.7
+2     Analytics Manager        III         976         150993.5     78    155821.0              3.2
+3     Analytics Manager         IV        1593         170373.0    140    189500.0             11.2
+4   Business/BI Analyst          I        2141          81349.0    114     84500.0              3.9
+5   Business/BI Analyst         II        4978         104000.0    272    118500.0             13.9
+6   Business/BI Analyst        III        1699         128215.0     88    145000.0             13.1
+7   Business/BI Analyst         IV         800         145164.0     45    175000.0             20.6
+8          Data Analyst          I        1992          78894.0    133     83200.0              5.5
+9          Data Analyst         II        2760         100317.5    183    115200.0             14.8
+10         Data Analyst        III        1015         130000.0     66    152156.0             17.0
+11         Data Analyst         IV         528         146037.0     46    175390.5             20.1
+12        Data Engineer          I        1849          86955.0     55    100000.0             15.0
+13        Data Engineer         II        5776         111176.0    164    130688.5             17.6
+14        Data Engineer        III        2652         141832.0     83    170000.0             19.9
+15        Data Engineer         IV        1979         163550.0     76    200000.0             22.3
+16       Data Scientist          I        1603          90000.0    138    100981.5             12.2
+17       Data Scientist         II        4300         128398.0    426    150000.0             16.8
+18       Data Scientist        III        2639         159200.0    248    169325.0              6.4
+19       Data Scientist         IV        1749         178800.0    190    195150.0              9.1
+
+=== q2c_salary_by_city.sql ===
+                 city  data_lcas_fy25  median_all_data_roles  median_data_analyst  median_business_bi  median_data_scientist  median_data_engineer
+0   NEW YORK CITY, NY            2904               142636.0             113745.0            120000.0               162825.0              150000.0
+1         SEATTLE, WA            1876               150987.0             118414.0            118414.0               165000.0              151200.0
+2        BELLEVUE, WA            1109               145000.0             132329.5            119145.5               168100.0              151000.0
+3          AUSTIN, TX            1058               124700.0             104458.5            110000.0               139100.0              137350.0
+4         CHICAGO, IL             961               118000.0              95000.0            105237.5               120000.0              130000.0
+5   SAN FRANCISCO, CA             958               175000.0             145539.0            132629.5               185000.0              182000.0
+6           PLANO, TX             913               111311.5             101920.0            100000.0               119999.5              110300.0
+7         ATLANTA, GA             849               115000.0              96608.0            110200.0               119176.0              123139.0
+8          IRVING, TX             840               106000.0             106486.0            100714.0                97505.0              110000.0
+9       CHARLOTTE, NC             800               117000.0             111100.0            112986.0               125460.0              117807.0
+10       SAN JOSE, CA             782               172730.0             144425.0            152250.0               176349.0              172931.0
+11         BOSTON, MA             777               127268.0             102428.0            110196.0               136250.0              139508.0
+12         DALLAS, TX             745               107993.0              92040.0            105905.0                99112.5              118477.0
+13      SUNNYVALE, CA             725               171337.0             149000.0            155715.0               171337.0              153566.0
+14    JERSEY CITY, NJ             652               123656.0             104750.0            115067.0               130000.0              125497.0
+
+=== q3a_yoy_volume_and_pay.sql ===
+            role_family  fiscal_year   lcas  nyc_lcas  nyc_share_pct  lcas_yoy_pct  median_wage  wage_yoy_pct  nyc_median_wage
+0     Analytics Manager         2022   3109       326           10.5           NaN     147500.0           NaN         150000.0
+1     Analytics Manager         2023   2931       291            9.9          -5.7     150752.5           2.2         154800.0
+2     Analytics Manager         2024   3050       336           11.0           4.1     154482.0           2.5         154577.5
+3     Analytics Manager         2025   3751       384           10.2          23.0     155000.0           0.3         157655.5
+4   Business/BI Analyst         2022  12191       699            5.7           NaN      98000.0           NaN         101754.0
+5   Business/BI Analyst         2023   9996       518            5.2         -18.0     101200.0           3.3         110000.0
+6   Business/BI Analyst         2024  10434       546            5.2           4.4     104000.0           2.8         115000.0
+7   Business/BI Analyst         2025  10706       592            5.5           2.6     106000.0           1.9         120000.0
+8          Data Analyst         2022   6185       418            6.8           NaN      95181.0           NaN         103000.0
+9          Data Analyst         2023   5246       406            7.7         -15.2      99500.0           4.5         105700.0
+10         Data Analyst         2024   5942       423            7.1          13.3      97000.0          -2.5         110000.0
+11         Data Analyst         2025   6851       490            7.2          15.3      99100.0           2.2         113745.0
+12        Data Engineer         2022  12637       478            3.8           NaN     112000.0           NaN         134500.0
+13        Data Engineer         2023  10510       352            3.3         -16.8     115000.0           2.7         137550.0
+14        Data Engineer         2024  11407       387            3.4           8.5     120000.0           4.3         150000.0
+15        Data Engineer         2025  13077       397            3.0          14.6     125571.0           4.6         150000.0
+16       Data Scientist         2022  10109       971            9.6           NaN     130000.0           NaN         140000.0
+17       Data Scientist         2023   8699       779            9.0         -13.9     130416.0           0.3         140000.0
+18       Data Scientist         2024   9670       934            9.7          11.2     140000.0           7.3         153400.0
+19       Data Scientist         2025  11298      1041            9.2          16.8     142773.0           2.0         162825.0
+
+=== q3b_ytd_fy2026_vs_prior.sql ===
+   fiscal_year  all_lcas_q1_q3  data_lcas_q1_q3  nyc_data_lcas_q1_q3  data_share_of_all_pct  median_data_wage  nyc_median_data_wage
+0         2022          441022            36711                 2388                   8.32          108160.0              122500.0
+1         2023          359767            28704                 1803                   7.98          113090.0              130000.0
+2         2024          384726            32123                 2128                   8.35          114000.0              135782.0
+3         2025          427977            37210                 2424                   8.69          120000.0              141170.0
+4         2026          392175            35110                 2376                   8.95          123760.0              150000.0
+
+=== q4a_industry_breakdown.sql ===
+                                  industry_sector tech_group  national_lcas  national_pct  nyc_lcas  nyc_pct
+0                             Finance & Insurance   Non-tech          21969          13.1      2475     23.0
+1   Professional, Scientific & Technical Services       Tech          58717          35.0      2063     19.2
+2   Professional, Scientific & Technical Services   Non-tech          17823          10.6      1782     16.5
+3                                     Information       Tech          19429          11.6      1779     16.5
+4                                    Retail Trade       Tech          12160           7.2       987      9.2
+5                                    Retail Trade   Non-tech           8847           5.3       429      4.0
+6                 Health Care & Social Assistance   Non-tech           3695           2.2       231      2.1
+7                                   Manufacturing   Non-tech           7722           4.6       160      1.5
+8                            Educational Services   Non-tech           2764           1.6       159      1.5
+9               Administrative & Support Services   Non-tech           2475           1.5       153      1.4
+10                        Management of Companies   Non-tech           1530           0.9       137      1.3
+11                                Wholesale Trade   Non-tech           2173           1.3       135      1.3
+12                           Real Estate & Rental   Non-tech           1058           0.6        66      0.6
+13               Arts, Entertainment & Recreation   Non-tech            274           0.2        45      0.4
+14                   Transportation & Warehousing   Non-tech           1483           0.9        44      0.4
+15                                 Other Services   Non-tech            558           0.3        37      0.3
+16                                  Manufacturing       Tech           3100           1.8        31      0.3
+17                  Accommodation & Food Services   Non-tech            588           0.4        16      0.1
+18                                   Construction   Non-tech            301           0.2        12      0.1
+19                                      Utilities   Non-tech            519           0.3        11      0.1
+20                          Public Administration   Non-tech            293           0.2         6      0.1
+21                                        Unknown   Non-tech             14           0.0         5      0.0
+22       Agriculture, Forestry, Fishing & Hunting   Non-tech             51           0.0         4      0.0
+23                                   Construction       Tech              4           0.0         1      0.0
+24                   Mining, Quarrying, Oil & Gas   Non-tech            251           0.1         0      0.0
+25                            Finance & Insurance       Tech              1           0.0         0      0.0
+
+=== q4b_outside_tech_share.sql ===
+           role_family  national_lcas  national_pct_non_tech  nyc_lcas  nyc_pct_non_tech
+0    Analytics Manager          12841                   72.1      1337              78.1
+1  Business/BI Analyst          43327                   33.7      2355              43.1
+2         Data Analyst          24224                   56.7      1737              67.4
+3        Data Engineer          47631                   36.9      1614              44.4
+4       Data Scientist          39776                   48.3      3725              52.7
+5       ALL DATA ROLES         167799                   44.3     10768              54.9
+
+=== q5a_hidden_sponsors_national.sql ===
+                   employer_parent                                industry_sector  data_lcas_fy22_25  min_in_any_year  fy2022  fy2025
+0                          WALMART                                   Retail Trade             2882.0              587     593     843
+1                      CAPITAL ONE                            Finance & Insurance             1709.0              348     426     579
+2                         CAREMARK                                   Retail Trade              947.0              201     220     201
+3                   JPMORGAN CHASE                        Management of Companies              819.0              170     170     245
+4                         MCKINSEY  Professional, Scientific & Technical Services              802.0              186     203     186
+5                  AETNA RESOURCES                            Finance & Insurance              730.0              156     221     156
+6                           KFORCE  Professional, Scientific & Technical Services              579.0              117     117     180
+7              FIDELITY TECHNOLOGY                            Finance & Insurance              555.0               64      64     208
+8                               EY  Professional, Scientific & Technical Services              544.0               94      94     159
+9                DISCOVER PRODUCTS                            Finance & Insurance              526.0               98     185     116
+10                WELLS FARGO BANK                            Finance & Insurance              485.0              102     120     124
+11                        DELOITTE  Professional, Scientific & Technical Services              481.0              112     112     134
+12                   ZS ASSOCIATES  Professional, Scientific & Technical Services              479.0              110     141     112
+13                          PAYPAL                            Finance & Insurance              450.0               90     143     125
+14                       ACCENTURE  Professional, Scientific & Technical Services              442.0               65     127      65
+15  VISA TECHNOLOGY AND OPERATIONS                            Finance & Insurance              401.0               74     153      74
+16                           AMGEN  Professional, Scientific & Technical Services              339.0               72      82      72
+17                            CITI                            Finance & Insurance              338.0               67      68     109
+18                      FORD MOTOR                                  Manufacturing              333.0               52      88     127
+19               BARCLAYS SERVICES                            Finance & Insurance              326.0               72      72      75
+20                   GOLDMAN SACHS                            Finance & Insurance              326.0               65      85      89
+21                            VISA                            Finance & Insurance              325.0               62      92      94
+22                            NIKE                                  Manufacturing              296.0               63     102      67
+23                         WAYFAIR                                   Retail Trade              290.0               38     124      68
+24                          SLALOM  Professional, Scientific & Technical Services              281.0               36     135      51
+25           HOME DEPOT MANAGEMENT                                   Retail Trade              273.0               52      52      88
+26                           TESLA                                  Manufacturing              272.0               51      51      84
+27                           CHEWY                                   Retail Trade              266.0               41      76      90
+28                        VANGUARD                            Finance & Insurance              245.0               41      80      72
+29          DFS CORPORATE SERVICES                            Finance & Insurance              243.0               40      65      40
+
+=== q5b_hidden_sponsors_nyc.sql ===
+                             employer_parent                                industry_sector  data_lcas_fy22_25  min_in_any_year     most_common_role  median_wage  pct_level_1_2
+0                            AETNA RESOURCES                            Finance & Insurance              232.0               48       Data Scientist     148835.0           31.0
+1                                CAPITAL ONE                            Finance & Insurance              192.0               33       Data Scientist     111966.0           80.0
+2                                   MCKINSEY  Professional, Scientific & Technical Services              158.0               34       Data Scientist     141800.0           82.0
+3                             JPMORGAN CHASE                        Management of Companies              122.0               26       Data Scientist     159775.0           31.0
+4                           AMERICAN EXPRESS                            Finance & Insurance              120.0               23    Analytics Manager     135223.0           50.0
+5                                         EY  Professional, Scientific & Technical Services              116.0               24       Data Scientist     142500.0           64.0
+6                                   CAREMARK                                   Retail Trade              102.0               17       Data Scientist     135000.0           40.0
+7                                       CITI                            Finance & Insurance               89.0               17         Data Analyst     163238.0           38.0
+8   AMERICAN EXPRESS TRAVEL RELATED SERVICES                            Finance & Insurance               84.0               16    Analytics Manager     137025.0           58.0
+9                             MORGAN STANLEY                            Finance & Insurance               83.0               16       Data Scientist     150000.0           94.0
+10                             ZS ASSOCIATES  Professional, Scientific & Technical Services               75.0               16         Data Analyst     175000.0           36.0
+11                             GOLDMAN SACHS                            Finance & Insurance               72.0               10  Business/BI Analyst     121000.0           85.0
+12                         BOSTON CONSULTING  Professional, Scientific & Technical Services               69.0                9       Data Scientist     132000.0           66.0
+13                          WELLS FARGO BANK                            Finance & Insurance               59.0               12         Data Analyst     144400.0           24.0
+14                         BARCLAYS SERVICES                            Finance & Insurance               57.0                3    Analytics Manager     150000.0           33.0
+15                                  DELOITTE  Professional, Scientific & Technical Services               56.0                9         Data Analyst      93785.0           78.0
+16                          GROUPM WORLDWIDE  Professional, Scientific & Technical Services               56.0                7    Analytics Manager     112500.0           75.0
+17   ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI                Health Care & Social Assistance               53.0                7       Data Scientist      86500.0           87.0
+18                                   POINT72                            Finance & Insurance               50.0                5       Data Scientist     190000.0            8.0
+19                   NEW YORK LIFE INSURANCE                            Finance & Insurance               42.0                5       Data Scientist     126359.5           43.0
+20                            MPG OPERATIONS                            Finance & Insurance               38.0                7       Data Scientist     109491.0           74.0
+21                                    SLALOM  Professional, Scientific & Technical Services               38.0                5  Business/BI Analyst     125000.0           49.0
+22           NYU GROSSMAN SCHOOL OF MEDICINE                           Educational Services               38.0                3         Data Analyst      94299.5           87.0
+23                             HORIZON MEDIA  Professional, Scientific & Technical Services               36.0                3    Analytics Manager     110983.0           78.0
+24                                       PWC  Professional, Scientific & Technical Services               34.0                8  Business/BI Analyst     117000.0          100.0
+25                      MOUNT SINAI HOSPITAL                Health Care & Social Assistance               31.0                4       Data Scientist     104365.0           40.0
+26                       PELOTON INTERACTIVE                                   Retail Trade               30.0                4         Data Analyst     135782.0           27.0
+27                            DIA ASSOCIATES  Professional, Scientific & Technical Services               30.0                6  Business/BI Analyst     105000.0           67.0
+28    MEMORIAL SLOAN KETTERING CANCER CENTER                Health Care & Social Assistance               30.0                4       Data Scientist     136500.0           30.0
+29                 GLOBAL ATLANTIC FINANCIAL                            Finance & Insurance               27.0                4         Data Analyst     120000.0           77.0
+
+=== q6a_entry_level_share.sql ===
+           role_family  national_lcas  national_pct_level_1_2  national_pct_level_1  nyc_lcas  nyc_pct_level_1_2  nyc_median_wage_level_1_2
+0    Analytics Manager           3399                    24.1                   3.5       351               37.6                   130000.0
+1  Business/BI Analyst          10046                    74.9                  23.9       566               76.3                   111966.0
+2         Data Analyst           6491                    76.0                  32.6       464               75.4                   103258.5
+3        Data Engineer          12410                    62.2                  15.1       381               58.3                   125000.0
+4       Data Scientist          10463                    57.7                  16.0      1019               56.7                   135914.0
+5       ALL DATA ROLES          42809                    63.1                  19.1      2781               61.6                   119200.0
+
+=== q6b_entry_level_employers_nyc.sql ===
+                             employer_parent  level_1_2_data_lcas  level_1                                      role_families  median_wage                                industry_sector  is_tech
+0                                     AMAZON                  484       69  Business/BI Analyst, Data Engineer, Data Scien...     150200.0                                   Retail Trade     True
+1                                CAPITAL ONE                   76        0  Business/BI Analyst, Data Analyst, Data Engine...     111966.0                            Finance & Insurance    False
+2                                   MCKINSEY                   51       15  Business/BI Analyst, Data Engineer, Data Scien...     146600.0  Professional, Scientific & Technical Services    False
+3                            AETNA RESOURCES                   42        1                      Data Engineer, Data Scientist     130000.0                            Finance & Insurance    False
+4                                         EY                   40       10                                     Data Scientist     124025.0  Professional, Scientific & Technical Services    False
+5                          BOSTON CONSULTING                   35       24                                     Data Scientist     110000.0  Professional, Scientific & Technical Services    False
+6                                       META                   34        1        Data Analyst, Data Engineer, Data Scientist     184791.5                                    Information     True
+7                           AMERICAN EXPRESS                   33        3    Analytics Manager, Data Analyst, Data Scientist     129792.0                            Finance & Insurance    False
+8                           GROUPM WORLDWIDE                   32       14  Analytics Manager, Business/BI Analyst, Data A...     104000.0  Professional, Scientific & Technical Services    False
+9                             MORGAN STANLEY                   31        2                Business/BI Analyst, Data Scientist     138000.0                            Finance & Insurance    False
+10                                  CAREMARK                   31        2                      Data Engineer, Data Scientist     127000.0                                   Retail Trade    False
+11                             GOLDMAN SACHS                   31        9  Business/BI Analyst, Data Analyst, Data Scientist     115200.0                            Finance & Insurance    False
+12                                    GOOGLE                   28        0  Business/BI Analyst, Data Analyst, Data Engine...     166000.0  Professional, Scientific & Technical Services     True
+13  AMERICAN EXPRESS TRAVEL RELATED SERVICES                   25        3  Analytics Manager, Data Analyst, Data Engineer...     128336.5                            Finance & Insurance    False
+14           NYU GROSSMAN SCHOOL OF MEDICINE                   24       14                       Data Analyst, Data Scientist      92750.0                           Educational Services    False
+15                            JPMORGAN CHASE                   24        2                       Data Analyst, Data Scientist     135000.0                        Management of Companies    False
+16                                  DELOITTE                   24        4  Business/BI Analyst, Data Analyst, Data Engine...      91270.0  Professional, Scientific & Technical Services    False
+17   ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI                   19        1  Analytics Manager, Data Analyst, Data Engineer...      90626.0                Health Care & Social Assistance    False
+18                 MOODY S INVESTORS SERVICE                   17        4  Business/BI Analyst, Data Analyst, Data Engine...     118000.0              Administrative & Support Services    False
+19                                 MICROSOFT                   17        1                       Data Analyst, Data Scientist     165500.0                                    Information     True
+20                                       PWC                   16        8                Business/BI Analyst, Data Scientist     118500.0  Professional, Scientific & Technical Services    False
+21                            EXLSERVICE COM                   16        9  Business/BI Analyst, Data Analyst, Data Scientist     101842.5  Professional, Scientific & Technical Services    False
+22                         CAPGEMINI AMERICA                   16        0                  Business/BI Analyst, Data Analyst     105559.5  Professional, Scientific & Technical Services     True
+23                             HORIZON MEDIA                   16        7  Analytics Manager, Business/BI Analyst, Data A...     105000.0  Professional, Scientific & Technical Services    False
+24                                 BLOOMBERG                   16        0                       Data Analyst, Data Scientist     112340.5                                    Information     True

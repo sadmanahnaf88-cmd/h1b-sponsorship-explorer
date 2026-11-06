@@ -1,0 +1,334 @@
+running 00_ref_naics_sectors.sql ...
+running 01_clean_base.sql ...
+running 02_clean_employers.sql ...
+running 03_clean_roles_final.sql ...
+
+## 1. Row counts through the pipeline
+                                  step   n_rows
+0     lca_raw (all rows from 17 files)  2865776
+1  lca_dedup (one row per case_number)  2695890
+2            lca_all (typed, enriched)  2695890
+3     lca_certified (Certified + H-1B)  2415525
+4               ...of which data roles   202909
+5           ...of which NYC data roles    13144
+
+## 2. Status x visa class (lca_all, after dedup)
+              case_status       visa_class        n
+0               Certified             H-1B  2415525
+1   Certified - Withdrawn             H-1B   154286
+2               Withdrawn             H-1B    45336
+3               Certified   E-3 Australian    42821
+4                  Denied             H-1B    14635
+5               Certified      H-1B1 Chile     9019
+6               Certified  H-1B1 Singapore     6287
+7   Certified - Withdrawn   E-3 Australian     3319
+8                  Denied   E-3 Australian     1475
+9               Withdrawn   E-3 Australian     1094
+10  Certified - Withdrawn      H-1B1 Chile      631
+11  Certified - Withdrawn  H-1B1 Singapore      521
+12                 Denied      H-1B1 Chile      390
+13              Withdrawn      H-1B1 Chile      242
+14                 Denied  H-1B1 Singapore      156
+15              Withdrawn  H-1B1 Singapore      153
+
+## 3. Cases by fiscal year and quarter (lca_certified)
+    fiscal_year  fiscal_quarter       n
+0          2022               1  100165
+1          2022               2  132554
+2          2022               3  208303
+3          2022               4   97058
+4          2023               1   80906
+5          2023               2  114793
+6          2023               3  164068
+7          2023               4  107626
+8          2024               1   82270
+9          2024               2  108411
+10         2024               3  194045
+11         2024               4  103691
+12         2025               1   92944
+13         2025               2  117275
+14         2025               3  217758
+15         2025               4  101483
+16         2026               1   71631
+17         2026               2  107837
+18         2026               3  212707
+
+## 4. Type-conversion failures (should be ~0)
+   null_decision_date  null_annual_wage  bad_soc_code  null_naics  null_worksite_state
+0                 0.0               1.0           2.0         0.0                  1.0
+
+## 5. Wage quality flags (lca_certified)
+     total  part_time  unit_suspect  below_30k  above_1m  below_95pct_prevailing  usable_for_salary_stats  pct_usable
+0  2415525    38500.0        2285.0      524.0    2419.0                     4.0                2374126.0       98.29
+
+## 6. Wage unit mix (lca_certified)
+   wage_unit        n  median_annualized
+0       Year  2266410           116416.0
+1       Hour   145227            93600.0
+2      Month     2512           100032.0
+3       Week      739          4558944.0
+4  Bi-Weekly      636           148009.0
+5        NaN        1                NaN
+
+## 7. Salary sanity by role family (usable wages, all years)
+           role_family        n       p05       p25    median       p75       p95
+0    Analytics Manager    15387  97992.30  130000.0  153621.0  185000.0  241473.6
+1       Data Scientist    49305  78042.00  107682.0  137946.0  170000.0  215000.0
+2        Data Engineer    56736  76900.00   98000.0  120000.0  145600.0  192500.0
+3                Other  2174536  63606.00   90000.0  115000.0  150762.0  220000.0
+4  Business/BI Analyst    49296  68925.75   86500.0  102993.0  124202.0  159610.0
+5         Data Analyst    28866  65000.00   82000.0   98174.5  120000.0  163988.0
+
+## 8. Role-family coverage by rule (lca_certified)
+              role_rule          role_family        n  pct_of_all
+0     R0_excluded_title                Other   131552        5.45
+1      R1_manager_title    Analytics Manager    15444        0.64
+2    R2_scientist_title       Data Scientist    48187        1.99
+3     R3_engineer_title        Data Engineer    57221        2.37
+4      R4_analyst_title         Data Analyst    29597        1.23
+5  R5_business_bi_title  Business/BI Analyst    49575        2.05
+6       R6_soc_fallback  Business/BI Analyst     1137        0.05
+7       R6_soc_fallback        Data Engineer       51        0.00
+8       R6_soc_fallback       Data Scientist     1697        0.07
+9           R9_no_match                Other  2081064       86.15
+
+## 9. How much of each data-related SOC code do we capture?
+     soc_code                                           soc_title      n  pct_classified_as_data_role
+0  15-2051.00                                     Data Scientists  60020                         78.2
+1  15-2051.01                      Business Intelligence Analysts  39977                         67.6
+2  15-2031.00                        Operations Research Analysts  38398                         27.4
+3  13-1161.00  Market Research Analysts and Marketing Specialists  20085                          6.5
+4  15-2041.00                                       Statisticians  19469                         62.1
+5  15-1243.00                                  Database Architect  11818                         64.6
+6  15-1199.08                      Business Intelligence Analysts  10391                         70.2
+7  15-1243.01                        Data Warehousing Specialists   3991                         79.3
+8  15-2041.01                                    Biostatisticians   3571                         48.6
+9  15-1199.07                        Data Warehousing Specialists   1883                         82.5
+
+## 10. Top titles that matched NO rule but sit in data SOC codes (possible misses)
+                            job_title_upper    soc_code    n
+0                 MACHINE LEARNING ENGINEER  15-2051.00  971
+1                           PRODUCT MANAGER  15-2051.01  398
+2                          BUSINESS MANAGER  15-2051.00  297
+3                     CLINICAL DATA MANAGER  15-2051.02  257
+4             SENIOR STATISTICAL PROGRAMMER  15-2041.00  248
+5          SENIOR MACHINE LEARNING ENGINEER  15-2051.00  242
+6          PRINCIPAL STATISTICAL PROGRAMMER  15-2041.00  236
+7                         SOFTWARE ENGINEER  15-2051.00  203
+8                        PRODUCT MANAGEMENT  15-2051.01  192
+9                   QUANTITATIVE RESEARCHER  15-2041.00  185
+10                   SENIOR PRODUCT MANAGER  15-2051.01  184
+11                              AI ENGINEER  15-2051.00  150
+12             TECHNICAL PROGRAM MANAGEMENT  15-2051.01  138
+13                       RESEARCH SCIENTIST  15-2051.00  118
+14                   STATISTICAL PROGRAMMER  15-2041.00  110
+15                        RESEARCH SCIENCES  15-2051.00  102
+16                    STAFF PRODUCT MANAGER  15-2051.01  100
+17             MACHINE LEARNING ENGINEER II  15-2051.00   99
+18                                  MANAGER  15-2051.01   98
+19      SOFTWARE ENGINEER, MACHINE LEARNING  15-2051.00   94
+20  SR. SOFTWARE ENGINEER, MACHINE LEARNING  15-2051.00   94
+21                           VICE PRESIDENT  15-2041.00   87
+22                           AI/ML ENGINEER  15-2051.00   87
+23                   SEARCH QUALITY ANALYST  15-2051.00   86
+24                     SOLUTIONS CONSULTANT  15-2051.01   85
+
+-- sample Data Analyst
+                                        job_title    soc_code         role_rule                                                    employer_clean
+0                             Senior Data Analyst  15-1211.00  R4_analyst_title                                                        TECHNOSOFT
+1                             Senior Data Analyst  15-2031.00  R4_analyst_title                                               GENMARK DIAGNOSTICS
+2                        Data Analytics Associate  13-2051.00  R4_analyst_title                                                      RSH STAFFING
+3                                  Data Analytics  15-2051.00  R4_analyst_title                                                         MICROSOFT
+4   Data Analyst/Laboratory Operations Specialist  19-4021.00  R4_analyst_title  EUROFINS LANCASTER LABORATORIES PROFESSIONAL SCIENTIFIC SERVICES
+5                                    Data Analyst  15-2051.00  R4_analyst_title                                  RENSSELAER POLYTECHNIC INSTITUTE
+6                     Data Analytics Architect L2  15-1243.00  R4_analyst_title                                                             WIPRO
+7                                    Data Analyst  15-2051.00  R4_analyst_title                                                SOLSTICE SOLUTIONS
+8                                    Data Analyst  15-1211.00  R4_analyst_title                                                  RANDSTAD DIGITAL
+9                           Research Data Analyst  19-1029.01  R4_analyst_title                                     LELAND STANFORD JR UNIVERSITY
+10                                   Data Analyst  15-2031.00  R4_analyst_title                                              LIEPIN NORTH AMERICA
+11                              Reporting Analyst  15-1132.00  R4_analyst_title                                             DELICATESSEN SERVICES
+12       Marketing Performance & Insights Analyst  13-1161.00  R4_analyst_title                                                     DISH WIRELESS
+13             Operations Research & Data Analyst  15-2031.00  R4_analyst_title                                                         TEKTYCOON
+14                            Health Data Analyst  15-1199.08  R4_analyst_title                                                              NUNA
+15                           Analytics Consultant  15-2031.00  R4_analyst_title                                                   TIGER ANALYTICS
+16                                   Data Analyst  15-2051.01  R4_analyst_title                                       MARVEL TECHNOLOGY SOLUTIONS
+17                         Technical Data Analyst  15-2051.00  R4_analyst_title                                                       CAPITALROCK
+18                     Analyst II, Data Analytics  15-2051.01  R4_analyst_title                                               WAL MART ASSOCIATES
+19                         Senior Product Analyst  15-2051.01  R4_analyst_title                                         INTERCONTINENTAL EXCHANGE
+
+-- sample Business/BI Analyst
+                                                 job_title    soc_code             role_rule              employer_clean
+0                                  Senior Business Analyst  15-2031.00  R5_business_bi_title  MUNICH REINSURANCE AMERICA
+1                                            DW/BI ANALYST  15-2051.01  R5_business_bi_title    DAS TECHNOLOGY SOLUTIONS
+2                      Business Systems Analyst 1615.54749  15-1199.08  R5_business_bi_title                      GOOGLE
+3                             Global BI & Reporting Expert  15-1242.00  R5_business_bi_title     CEVA CONTRACT LOGISTICS
+4                               Business Intel Engineer II  15-2051.01  R5_business_bi_title         AMAZON COM SERVICES
+5                               Business Systems Analyst 2  15-1211.00  R5_business_bi_title           CAPGEMINI AMERICA
+6                                         BUSINESS ANALYST  15-1211.00  R5_business_bi_title            SUNIXA SOLUTIONS
+7                             Sr. IT Lead Business Analyst  13-1111.00  R5_business_bi_title                       S2 IT
+8                                         Business Analyst  15-1121.00  R5_business_bi_title       RANDSTAD TECHNOLOGIES
+9                               Business Systems Analyst 2  15-1211.00  R5_business_bi_title           CAPGEMINI AMERICA
+10                   Senior Business Intelligence Engineer  15-2051.01  R5_business_bi_title                      HUMANA
+11                         Business Analyst - Applications  15-1252.00  R5_business_bi_title                  SCHAEFFLER
+12                                        Business Analyst  15-2051.01  R5_business_bi_title      CHARTER COMMUNICATIONS
+13                                        Business Analyst  15-1211.00  R5_business_bi_title                    BONGOSYS
+14                                        BUSINESS ANALYST  15-1211.00  R5_business_bi_title                    INFOGAIN
+15                              Executive Business Analyst  15-2051.01  R5_business_bi_title                AVYXA PHARMA
+16                         Business Intelligence Developer  15-2051.01  R5_business_bi_title         NOBLESOFT SOLUTIONS
+17                             Business Intel Engineer III  15-2051.01  R5_business_bi_title         AMAZON COM SERVICES
+18                             Senior Business Analyst AFI  15-1242.00  R5_business_bi_title                      PAYPAL
+19  Business Intelligence, Credit, and Market Risk Analyst  15-2051.01  R5_business_bi_title               IRIS SOFTWARE
+
+-- sample Data Scientist
+                                                job_title    soc_code           role_rule                        employer_clean
+0                                  Senior Biostatistician  15-2041.01  R2_scientist_title                                 CYTEL
+1                        Data Scientist, Customer Success  15-2051.00  R2_scientist_title                                 BLOCK
+2                                          Data Scientist  15-2051.00  R2_scientist_title                        META PLATFORMS
+3   Associate Director, Principal Clinical Data Scientist  15-2041.01  R2_scientist_title  BOEHRINGER INGELHEIM PHARMACEUTICALS
+4                                          Data Scientist  15-2051.00  R2_scientist_title                                 APPLE
+5                                       Data Scientist II  15-2051.00  R2_scientist_title        SCHNEIDER ENTERPRISE RESOURCES
+6                                          Data Scientist  15-2051.00  R2_scientist_title                    CITIZENS FINANCIAL
+7                                          Data Scientist  15-2041.00  R2_scientist_title                             BRUNSWICK
+8                                     Lead Data Scientist  15-2041.00  R2_scientist_title                       AETNA RESOURCES
+9                                          Data Scientist  15-2041.00  R2_scientist_title                                 INTEL
+10                                 Senior Biostatistician  15-2041.01  R2_scientist_title                       BECKMAN COULTER
+11                            Data Scientist - 1615.44504  15-2041.00  R2_scientist_title                                GOOGLE
+12                                         Data Scientist  15-2051.00  R2_scientist_title                   BJ S WHOLESALE CLUB
+13                                        Data Scientists  15-2051.00  R2_scientist_title                        JPMORGAN CHASE
+14                             Data Scientist 20516.881.9  15-2041.00  R2_scientist_title                                 AMGEN
+15      Data Scientist, Software Developer, IT Specialist  13-1082.00  R2_scientist_title                           SANSHA SOFT
+16                              Scientist 2, Data Science  15-2051.00  R2_scientist_title          WESTERN DIGITAL TECHNOLOGIES
+17                                  Senior Data Scientist  15-2051.00  R2_scientist_title                                HUMANA
+18                                         Data Scientist  15-2051.00  R2_scientist_title                        META PLATFORMS
+19                                   Data Science Advisor  15-2031.00  R2_scientist_title                              ADEPT ID
+
+-- sample Data Engineer
+                    job_title    soc_code          role_rule                    employer_clean
+0               Data Engineer  15-1242.00  R3_engineer_title                            GOOGLE
+1            Data Engineer II  15-2051.00  R3_engineer_title               AMAZON COM SERVICES
+2   Data Integration Engineer  15-1141.00  R3_engineer_title                         CARIS MPI
+3   Data Engineer, E-Commerce  15-2051.00  R3_engineer_title                            TIKTOK
+4           BIG DATA ENGINEER  15-1199.00  R3_engineer_title                      FIRST OBJECT
+5            Data Engineer II  15-2041.00  R3_engineer_title               AMAZON COM SERVICES
+6            Data Engineer II  15-1243.00  R3_engineer_title         AMAZON DEVELOPMENT CENTER
+7     Senior BI Data Engineer  15-1242.00  R3_engineer_title                               RSM
+8               DATA ENGINEER  15-1132.00  R3_engineer_title                 SAVI TECHNOLOGIES
+9            DATA ENGINEER II  15-1253.00  R3_engineer_title                   SIRIUS XM RADIO
+10       SENIOR DATA ENGINEER  15-1252.00  R3_engineer_title                           CALISTO
+11       Senior Data Engineer  15-1252.00  R3_engineer_title           HCA MANAGEMENT SERVICES
+12              Data Engineer  15-1252.00  R3_engineer_title                 ADROTEK SOLUTIONS
+13          Sr. Data Engineer  15-1243.01  R3_engineer_title                   COREWELL HEALTH
+14              Data Engineer  15-2051.00  R3_engineer_title  TEAMSUCCESS LLC DBA HIED SUCCESS
+15         Database Architect  15-1199.06  R3_engineer_title           VERTEX COMPUTER SYSTEMS
+16   Sr. Data Engineer (USCA)  15-1252.00  R3_engineer_title                     ADI WORLDLINK
+17          Sr. Data Engineer  15-1251.00  R3_engineer_title                           BITWISE
+18              Data Engineer  15-1252.00  R3_engineer_title                           SAGE IT
+19       Senior Data Engineer  15-2051.00  R3_engineer_title                     VERSANT MEDIA
+
+-- sample Analytics Manager
+                                                  job_title    soc_code         role_rule                   employer_clean
+0                             Applied Data Science Director  15-2051.00  R1_manager_title                        IPG DXTRA
+1              Manager, US Business Analytics Product Owner  15-2031.00  R1_manager_title                          METLIFE
+2                                        Manager, Analytics  13-1161.00  R1_manager_title                        IPSOS MMA
+3                  Vice President, Technology Data Strategy  15-1252.00  R1_manager_title                 TRADEWEB MARKETS
+4                             Business Intelligence Manager  15-2051.01  R1_manager_title                   FLUENCE ENERGY
+5                            Senior Manager, Data Analytics  15-2051.01  R1_manager_title              WAL MART ASSOCIATES
+6                 Manager of Data Engineering and Analytics  11-3021.00  R1_manager_title                  DECKERS OUTDOOR
+7                             MANAGER III, DATA ENGINEERING  15-2051.00  R1_manager_title              AMAZON COM SERVICES
+8                            Manager, Business Intelligence  15-2051.01  R1_manager_title                    HORIZON MEDIA
+9                              Senior Manager, Data Science  15-2051.00  R1_manager_title                           INDEED
+10                      Manager of Data Science & Analytics  15-2051.00  R1_manager_title                 REPUBLIC FINANCE
+11  Manager, Data Integration, Research IT Data Engineering  15-2051.00  R1_manager_title             BRISTOL MYERS SQUIBB
+12                                     Data Science Manager  15-2051.00  R1_manager_title      INFINITE COMPUTER SOLUTIONS
+13                 DATA MANAGEMENT & OPERATIONS SR. MANAGER  11-3021.00  R1_manager_title                          PEPSICO
+14                       Manager, Global Business Analytics  15-2031.00  R1_manager_title                          WAYFAIR
+15                    Director, Data Management & Analytics  15-2051.00  R1_manager_title  COMMUNITIES FOUNDATION OF TEXAS
+16             Senior Software and Data Engineering Manager  11-3021.00  R1_manager_title                       FORD MOTOR
+17         Associate Director, Sales Analytics & Operations  11-3021.00  R1_manager_title                  GILEAD SCIENCES
+18           Data Science Manager, Opportunity Intelligence  15-2051.00  R1_manager_title                         COTIVITI
+19                      Manager of Data Science & Analytics  15-2051.00  R1_manager_title                 REPUBLIC FINANCE
+
+-- sample Other
+                                          job_title    soc_code          role_rule                              employer_clean
+0                        Quality Assurance Engineer  15-1253.00        R9_no_match                                      SYDATA
+1                                 Software Engineer  15-1252.00        R9_no_match                                   MICROSOFT
+2                             MIDDLE SCHOOL TEACHER  25-2022.00        R9_no_match         NORTH SLOPE BOROUGH SCHOOL DISTRICT
+3                         Assistant Project Manager  13-1082.00  R0_excluded_title                              BQE INDUSTRIES
+4                     SAP Senior Functional Analyst  15-1121.00        R9_no_match                           MOHAWK INDUSTRIES
+5          Advanced Packaging Senior Staff Engineer  17-2141.00        R9_no_match                       MARVELL SEMICONDUCTOR
+6                  Engineer Senior Systems Software  15-1252.00        R9_no_match                                      NVIDIA
+7                   Postdoctoral Research Associate  19-2041.00        R9_no_match            TRUSTEES OF PRINCETON UNIVERSITY
+8   Operations Research Analysts - KBOEYTEST4691-38  15-2031.00        R9_no_match                             ERNST AND YOUNG
+9                         Tech Architecture Manager  15-1252.00        R9_no_match                                   ACCENTURE
+10                                        Developer  15-1251.00        R9_no_match                   TATA CONSULTANCY SERVICES
+11                            Application Developer  15-1252.00        R9_no_match                                EPIC SYSTEMS
+12                               Software Developer  15-1252.00        R9_no_match                   THOUGHT CIRCUITS SERVICES
+13                                Software Engineer  15-1132.00        R9_no_match                                    SYNOPSYS
+14                                 Senior Associate  15-1251.00        R9_no_match                                         PWC
+15            Principal Software Engineer/Developer  15-1252.00        R9_no_match                         FIDELITY TECHNOLOGY
+16                    Network and Radio Engineer II  15-1244.00        R9_no_match                                     STADLER
+17                               Research Associate  19-1029.02        R9_no_match  RUTGERS THE STATE UNIVERSITY OF NEW JERSEY
+18                                Non-Share Partner  23-1011.00        R9_no_match                          KIRKLAND AND ELLIS
+19                           DATABASE ADMINISTRATOR  15-1242.00  R0_excluded_title                              EGROVE SYSTEMS
+
+## 12. Employer name standardization summary
+   raw_names  after_text_normalization  after_spacing_merge  after_fein_merge  after_parent_rollup
+0     182508                    144708               143616            139670               139560
+
+## 13. Largest employer merges (full list: outputs/employer_merge_log.csv)
+                                  employer_clean                                                   merged_from merge_rule  n_rows
+0                            FIDELITY TECHNOLOGY      FIDELITY TECHNOLOGY GROUP LLC D B A FIDELITY INVESTMENTS       fein  3914.0
+1                                            IBM                               INTERNATIONAL BUSINESS MACHINES       fein  2472.0
+2                                    LTIMINDTREE                                    LARSEN AND TOUBRO INFOTECH       fein  2045.0
+3   GOVERNMENT EMPLOYEES INSURANCE COMPANY GEICO                   GOVERNMENT EMPLOYEE INSURANCE COMPANY GEICO       fein   791.0
+4                                ELEVANCE HEALTH                                                        ANTHEM       fein   601.0
+5                       CIGNA EVERNORTH SERVICES                                 EVERNORTH ENTERPRISE SERVICES       fein   591.0
+6                              QUADRANT RESOURCE                                         QUADRANT TECHNOLOGIES       fein   485.0
+7                      ZOOM VIDEO COMMUNICATIONS                                           ZOOM COMMUNICATIONS       fein   407.0
+8                    CLEVELAND CLINIC FOUNDATION                                              CLEVELAND CLINIC       fein   380.0
+9                                           RELX                                                    LEXISNEXIS       fein   261.0
+10                          BEACON HILL STAFFING                                         BEACON HILL SOLUTIONS       fein   246.0
+11                             AURORA OPERATIONS                                             AURORA INNOVATION       fein   240.0
+12            CALIFORNIA INSTITUTE OF TECHNOLOGY  CALIFORNIA INSTITUTE OF TECHNOLOGY JET PROPULSION LABORATORY       fein   228.0
+13                                   LTIMINDTREE                                                           LTM       fein   218.0
+14                    ROCKET LIMITED PARTNERSHIP                                                  ROCK CENTRAL       fein   212.0
+15              PEOPLE CENTER INC D B A RIPPLING                                                 PEOPLE CENTER       fein   205.0
+16                      TIKTOK U S DATA SECURITY                                     TIKTOK USDS JOINT VENTURE       fein   178.0
+17                                           NCR                                                     NCR VOYIX       fein   172.0
+18      ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE             ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE INC ESRI       fein   168.0
+19                                       AKKODIS                                         ADECCO GROUP NA MODIS       fein   155.0
+20                                           FMR                            FMR LLC D B A FIDELITY INVESTMENTS       fein   151.0
+21                                     TEMPUS AI                                                   TEMPUS LABS       fein   138.0
+22                RIVIAN AND VW GROUP TECHNOLOGY                      RIVIAN AND VOLKSWAGEN GROUP TECHNOLOGIES       fein   130.0
+23                                      VEN SOFT                                                       VENSOFT    spacing   128.0
+24                                        DEXIAN                                  DIGITAL INTELLIGENCE SYSTEMS       fein   126.0
+
+## 14. Well-known employer spot-checks (lca_certified, all years)
+  employer_parent  all_lcas  data_role_lcas  legal_entities                                    main_sector  median_data_wage
+0          AMAZON    105188         17389.0              25                                   Retail Trade          144900.0
+1       COGNIZANT     54545           325.0               4  Professional, Scientific & Technical Services          136000.0
+2          GOOGLE     45379          1658.0               3  Professional, Scientific & Technical Services          170000.0
+3       MICROSOFT     42636          2998.0               1                                    Information          163322.0
+4        DELOITTE     29586           587.0              10  Professional, Scientific & Technical Services          105700.0
+5            META     27245          3459.0               4                                    Information          190000.0
+6         WALMART     15807          3470.0               1                                   Retail Trade          144402.0
+7  JPMORGAN CHASE     15740          1065.0               1                        Management of Companies          140000.0
+8   GOLDMAN SACHS     11139           414.0               5                            Finance & Insurance           96500.0
+9     CAPITAL ONE      5012          2387.0               2                            Finance & Insurance          108098.0
+
+## 15. NYC flag check: top worksite cities/counties counted as NYC
+       worksite_city  worksite_county       n
+0           NEW YORK         NEW YORK  101153
+1           NEW YORK  NEW YORK COUNTY   24002
+2           BROOKLYN            KINGS    5172
+3           NEW YORK              NaN    4429
+4              BRONX            BRONX    2162
+5   LONG ISLAND CITY           QUEENS    1719
+6           BROOKLYN     KINGS COUNTY    1270
+7      NEW YORK CITY         NEW YORK    1008
+8           FLUSHING           QUEENS     897
+9              BRONX     BRONX COUNTY     556
+10  LONG ISLAND CITY    QUEENS COUNTY     424
+11          BROOKLYN         NEW YORK     406
+
+wrote docs/validation_report.md

@@ -114,27 +114,27 @@ JOIN dim_location l ON l.worksite_state IS NOT DISTINCT FROM c.worksite_state
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     con = duckdb.connect(str(DB))
-    con.execute(BUILD_SQL)
+    con.execute(BUILD_SQL).fetchall()
 
     # Validation: the fact must have exactly one row per certified case
     # (a bad join would silently duplicate or drop rows).
-    n_cert = con.sql("SELECT count(*) FROM lca_certified").fetchone()[0]
-    n_fact = con.sql("SELECT count(*) FROM fact_lca").fetchone()[0]
-    n_keys = con.sql("SELECT count(DISTINCT case_number) FROM fact_lca").fetchone()[0]
+    n_cert = con.sql("SELECT count(*) FROM lca_certified").fetchall()[0][0]
+    n_fact = con.sql("SELECT count(*) FROM fact_lca").fetchall()[0][0]
+    n_keys = con.sql("SELECT count(DISTINCT case_number) FROM fact_lca").fetchall()[0][0]
     assert n_cert == n_fact == n_keys, (n_cert, n_fact, n_keys)
-    orphan_dates = con.sql("SELECT count(*) FROM fact_lca f ANTI JOIN dim_date d USING (date_key)").fetchone()[0]
+    orphan_dates = con.sql("SELECT count(*) FROM fact_lca f ANTI JOIN dim_date d USING (date_key)").fetchall()[0][0]
     assert orphan_dates == 0, f"{orphan_dates} fact rows have no matching date"
     print(f"fact_lca rows = lca_certified rows = {n_fact:,}; no orphan dates")
 
     for t in ["dim_employer", "dim_role", "dim_location", "dim_date", "dim_industry", "fact_lca"]:
-        con.execute(f"COPY {t} TO '{(OUT / (t + '.csv')).as_posix()}' (HEADER, DELIMITER ',')")
-        print(f"{t}: {con.sql(f'SELECT count(*) FROM {t}').fetchone()[0]:,} rows")
+        con.execute(f"COPY {t} TO '{(OUT / (t + '.csv')).as_posix()}' (HEADER, DELIMITER ',')").fetchall()
+        print(f"{t}: {con.sql(f'SELECT count(*) FROM {t}').fetchall()[0][0]:,} rows")
 
     con.execute(f"""
         COPY (SELECT f.* FROM fact_lca f JOIN dim_role r USING (role_key) WHERE r.is_data_role)
         TO '{(OUT / 'fact_lca_data_roles.csv').as_posix()}' (HEADER, DELIMITER ',')
-    """)
-    n_data = con.sql("SELECT count(*) FROM fact_lca f JOIN dim_role r USING (role_key) WHERE r.is_data_role").fetchone()[0]
+    """).fetchall()
+    n_data = con.sql("SELECT count(*) FROM fact_lca f JOIN dim_role r USING (role_key) WHERE r.is_data_role").fetchall()[0][0]
     print(f"fact_lca_data_roles: {n_data:,} rows")
     for p in sorted(OUT.glob("*.csv")):
         print(f"  {p.name}: {p.stat().st_size / 1e6:.1f} MB")

@@ -36,7 +36,7 @@ WITH roles AS (
 
             -- R2: data scientists (incl. statisticians, applied/ML scientists)
             WHEN regexp_matches(job_title_upper,
-                 'DATA SCIEN|APPLIED SCIENTIST|MACHINE LEARNING SCIENTIST|\bML SCIENTIST|DECISION SCIENTIST|'
+                 'DATA SCIEN|APPLIED SCIEN|MACHINE LEARNING SCIENTIST|\bML SCIENTIST|DECISION SCIENTIST|'
               || 'STATISTICIAN|DATA AND APPLIED SCIENTIST')
                 THEN 'R2_scientist_title'
 
@@ -49,7 +49,7 @@ WITH roles AS (
             -- R4: data analysts (checked BEFORE business analyst so that
             --     "Business Data Analyst" counts as a data analyst)
             WHEN regexp_matches(job_title_upper,
-                 'DATA ANALY|ANALYTICS (ANALYST|SPECIALIST|CONSULTANT|ASSOCIATE)|DATA ANALYTICS|'
+                 'DATA ANALY|STATISTICAL ANALYST|ANALYTICS (ANALYST|SPECIALIST|CONSULTANT|ASSOCIATE)|DATA ANALYTICS|'
               || 'REPORTING ANALYST|INSIGHTS? ANALYST|PRODUCT ANALYST|MARKETING ANALYTICS|PEOPLE ANALYTICS|'
               || 'ANALYST.*ANALYTICS|ANALYTICS.*ANALYST')
                 THEN 'R4_analyst_title'
@@ -131,6 +131,18 @@ SELECT
         WHEN m.employer_clean LIKE 'UBER TECHNOLOGIES%'         THEN 'UBER'
         WHEN m.employer_clean LIKE 'NETFLIX%'                   THEN 'NETFLIX'
         WHEN m.employer_clean LIKE 'MCKINSEY%'                  THEN 'MCKINSEY'
+        WHEN m.employer_clean LIKE 'AMERICAN EXPRESS%'          THEN 'AMERICAN EXPRESS'
+        WHEN m.employer_clean = 'VISA'
+          OR m.employer_clean LIKE 'VISA TECHNOLOGY%'           THEN 'VISA'
+        WHEN m.employer_clean IN ('DISCOVER PRODUCTS', 'DFS CORPORATE SERVICES',
+                                  'DFS SERVICES', 'DISCOVER BANK') THEN 'DISCOVER FINANCIAL'
+        -- Caremark is CVS's pharmacy-benefits arm. Aetna (also CVS-owned)
+        -- is kept separate on purpose: candidates apply to it as its own brand.
+        WHEN m.employer_clean = 'CAREMARK'
+          OR m.employer_clean LIKE 'CVS PHARMACY%'
+          OR m.employer_clean LIKE 'CVS SHARED SERVICES%'
+          OR m.employer_clean LIKE 'CVS RX SERVICES%'
+          OR m.employer_clean LIKE 'CVS HEALTH%'                THEN 'CVS HEALTH'
         ELSE coalesce(m.employer_clean, normalize_employer(f.employer_name))
     END                                                      AS employer_parent
 FROM families f
