@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw DOL downloads (~80 MB each) - re-download with src/01_download.py
+data/raw/*
+!data/raw/.gitkeep
+*.part
+
+# Large intermediate files (rebuild with the pipeline)
+data/processed/*.parquet
+data/*.duckdb
+data/*.duckdb.wal
+
+# Power BI CSVs are kept small enough to commit EXCEPT the fact table
+outputs/powerbi/fact_lca.csv
