@@ -124,14 +124,16 @@ derived AS (
 
         -- NYC = the five boroughs (counties). Fallback to city names when
         -- the county field is blank or written differently.
-        worksite_state = 'NY' AND (
+        -- coalesce(..., false): a blank state/county would otherwise make
+        -- the whole expression NULL (SQL three-valued logic), not FALSE.
+        coalesce(worksite_state = 'NY' AND (
             regexp_replace(worksite_county, '\s+COUNTY$', '') IN
                 ('NEW YORK', 'KINGS', 'QUEENS', 'BRONX', 'RICHMOND')
             OR worksite_city IN ('NEW YORK', 'NEW YORK CITY', 'NYC', 'MANHATTAN',
                                  'BROOKLYN', 'BRONX', 'THE BRONX', 'QUEENS',
                                  'STATEN ISLAND', 'LONG ISLAND CITY', 'ASTORIA',
                                  'FLUSHING', 'JAMAICA')
-        )                                                        AS is_nyc
+        ), false)                                                AS is_nyc
     FROM typed
 )
 SELECT

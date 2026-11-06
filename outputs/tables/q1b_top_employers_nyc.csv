@@ -1,26 +1,26 @@
 employer_parent,nyc_data_lcas_fy22_25,pct_of_nyc_data_lcas,national_rank,most_common_role,median_wage,industry_sector,is_tech
 AMAZON,1166,10.83,1,Data Scientist,150395.5,Retail Trade,True
 META,399,3.71,2,Data Scientist,190000.0,Information,True
-AETNA RESOURCES,232,2.15,13,Data Scientist,148835.0,Finance & Insurance,False
+AETNA RESOURCES,232,2.15,14,Data Scientist,148835.0,Finance & Insurance,False
+AMERICAN EXPRESS,219,2.03,35,Analytics Manager,135392.5,Finance & Insurance,False
 CAPITAL ONE,192,1.78,6,Data Scientist,111966.0,Finance & Insurance,False
 GOOGLE,175,1.63,7,Data Scientist,172900.0,"Professional, Scientific & Technical Services",True
-MCKINSEY,158,1.47,12,Data Scientist,141800.0,"Professional, Scientific & Technical Services",False
-JPMORGAN CHASE,122,1.13,11,Data Scientist,159775.0,Management of Companies,False
-AMERICAN EXPRESS,120,1.11,124,Analytics Manager,135223.0,Finance & Insurance,False
-EY,116,1.08,18,Data Scientist,142500.0,"Professional, Scientific & Technical Services",False
-CAREMARK,102,0.95,8,Data Scientist,135000.0,Retail Trade,False
+MCKINSEY,158,1.47,13,Data Scientist,141800.0,"Professional, Scientific & Technical Services",False
+CVS HEALTH,133,1.24,8,Data Scientist,138000.0,Retail Trade,False
+JPMORGAN CHASE,122,1.13,12,Data Scientist,159775.0,Management of Companies,False
+EY,116,1.08,20,Data Scientist,142500.0,"Professional, Scientific & Technical Services",False
 CAPGEMINI AMERICA,100,0.93,5,Business/BI Analyst,118102.5,"Professional, Scientific & Technical Services",True
-SPOTIFY,91,0.85,102,Data Scientist,181140.0,Information,True
-CITI,89,0.83,36,Data Analyst,163238.0,Finance & Insurance,False
-AMERICAN EXPRESS TRAVEL RELATED SERVICES,84,0.78,64,Analytics Manager,137025.0,Finance & Insurance,False
-MORGAN STANLEY,83,0.77,146,Data Scientist,150000.0,Finance & Insurance,False
-ZS ASSOCIATES,75,0.7,25,Data Analyst,175000.0,"Professional, Scientific & Technical Services",False
-GOLDMAN SACHS,72,0.67,39,Business/BI Analyst,121000.0,Finance & Insurance,False
-BLOOMBERG,72,0.67,229,Data Analyst,112112.0,Information,True
-BOSTON CONSULTING,69,0.64,73,Data Scientist,132000.0,"Professional, Scientific & Technical Services",False
+SPOTIFY,91,0.85,99,Data Scientist,181140.0,Information,True
+CITI,89,0.83,37,Data Analyst,163238.0,Finance & Insurance,False
+MORGAN STANLEY,83,0.77,142,Data Scientist,150000.0,Finance & Insurance,False
+ZS ASSOCIATES,75,0.7,26,Data Analyst,175000.0,"Professional, Scientific & Technical Services",False
+GOLDMAN SACHS,72,0.67,40,Business/BI Analyst,121000.0,Finance & Insurance,False
+BLOOMBERG,72,0.67,224,Data Analyst,112112.0,Information,True
+BOSTON CONSULTING,69,0.64,70,Data Scientist,132000.0,"Professional, Scientific & Technical Services",False
 UBER,65,0.6,32,Data Scientist,151000.0,"Professional, Scientific & Technical Services",True
-WELLS FARGO BANK,59,0.55,23,Data Analyst,144400.0,Finance & Insurance,False
+WELLS FARGO BANK,59,0.55,24,Data Analyst,144400.0,Finance & Insurance,False
 MICROSOFT,57,0.53,4,Data Scientist,172000.0,Information,True
-BARCLAYS SERVICES,57,0.53,39,Analytics Manager,150000.0,Finance & Insurance,False
-DELOITTE,56,0.52,24,Data Analyst,93785.0,"Professional, Scientific & Technical Services",False
-GROUPM WORLDWIDE,56,0.52,170,Analytics Manager,112500.0,"Professional, Scientific & Technical Services",False
+BARCLAYS SERVICES,57,0.53,40,Analytics Manager,150000.0,Finance & Insurance,False
+GROUPM WORLDWIDE,56,0.52,166,Analytics Manager,112500.0,"Professional, Scientific & Technical Services",False
+DELOITTE,56,0.52,25,Data Analyst,93785.0,"Professional, Scientific & Technical Services",False
+ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI,53,0.49,327,Data Scientist,86500.0,Health Care & Social Assistance,False

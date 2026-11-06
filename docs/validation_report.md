@@ -126,7 +126,7 @@ Data Scientist SOC (15-2051.00) should be mostly captured. Operations research /
 | 15-2031.00 | Operations Research Analysts | 38,398 | 27.400 |
 | 13-1161.00 | Market Research Analysts and Marketing Specialists | 20,085 | 6.500 |
 | 15-2041.00 | Statisticians | 19,469 | 62.100 |
-| 15-1243.00 | Database Architect | 11,818 | 64.600 |
+| 15-1243.00 | Database Architects | 11,818 | 64.600 |
 | 15-1199.08 | Business Intelligence Analysts | 10,391 | 70.200 |
 | 15-1243.01 | Data Warehousing Specialists | 3,991 | 79.300 |
 | 15-2041.01 | Biostatisticians | 3,571 | 48.600 |
@@ -157,8 +157,8 @@ Read this list to judge what the rules leave out. Most are deliberate exclusions
 | STAFF PRODUCT MANAGER | 15-2051.01 | 100 |
 | MACHINE LEARNING ENGINEER II | 15-2051.00 | 99 |
 | MANAGER | 15-2051.01 | 98 |
-| SOFTWARE ENGINEER, MACHINE LEARNING | 15-2051.00 | 94 |
 | SR. SOFTWARE ENGINEER, MACHINE LEARNING | 15-2051.00 | 94 |
+| SOFTWARE ENGINEER, MACHINE LEARNING | 15-2051.00 | 94 |
 | VICE PRESIDENT | 15-2041.00 | 87 |
 | AI/ML ENGINEER | 15-2051.00 | 87 |
 | SEARCH QUALITY ANALYST | 15-2051.00 | 86 |
@@ -322,7 +322,7 @@ Manually reviewed. See the accuracy verdict in docs/DECISIONS.md.
 
 | raw_names | after_text_normalization | after_spacing_merge | after_fein_merge | after_parent_rollup |
 |---|---|---|---|---|
-| 182,508 | 144,708 | 143,616 | 139,670 | 139,560 |
+| 182,508 | 144,708 | 143,616 | 139,671 | 139,561 |
 
 ## 13. Largest employer merges (full list: outputs/employer_merge_log.csv)
 

@@ -1,31 +1,31 @@
 employer_parent,industry_sector,data_lcas_fy22_25,min_in_any_year,fy2022,fy2025
 WALMART,Retail Trade,2882.0,587,593,843
 CAPITAL ONE,Finance & Insurance,1709.0,348,426,579
-CAREMARK,Retail Trade,947.0,201,220,201
+CVS HEALTH,Retail Trade,1235.0,256,256,340
+DISCOVER FINANCIAL,Finance & Insurance,881.0,181,273,181
 JPMORGAN CHASE,Management of Companies,819.0,170,170,245
-MCKINSEY,"Professional, Scientific & Technical Services",802.0,186,203,186
 AETNA RESOURCES,Finance & Insurance,730.0,156,221,156
-KFORCE,"Professional, Scientific & Technical Services",579.0,117,117,180
+VISA,Finance & Insurance,726.0,155,245,168
 FIDELITY TECHNOLOGY,Finance & Insurance,555.0,64,64,208
-EY,"Professional, Scientific & Technical Services",544.0,94,94,159
-DISCOVER PRODUCTS,Finance & Insurance,526.0,98,185,116
 WELLS FARGO BANK,Finance & Insurance,485.0,102,120,124
-DELOITTE,"Professional, Scientific & Technical Services",481.0,112,112,134
-ZS ASSOCIATES,"Professional, Scientific & Technical Services",479.0,110,141,112
 PAYPAL,Finance & Insurance,450.0,90,143,125
-ACCENTURE,"Professional, Scientific & Technical Services",442.0,65,127,65
-VISA TECHNOLOGY AND OPERATIONS,Finance & Insurance,401.0,74,153,74
+AMERICAN EXPRESS,Finance & Insurance,357.0,63,79,141
 AMGEN,"Professional, Scientific & Technical Services",339.0,72,82,72
 CITI,Finance & Insurance,338.0,67,68,109
 FORD MOTOR,Manufacturing,333.0,52,88,127
-BARCLAYS SERVICES,Finance & Insurance,326.0,72,72,75
 GOLDMAN SACHS,Finance & Insurance,326.0,65,85,89
-VISA,Finance & Insurance,325.0,62,92,94
+BARCLAYS SERVICES,Finance & Insurance,326.0,72,72,75
 NIKE,Manufacturing,296.0,63,102,67
 WAYFAIR,Retail Trade,290.0,38,124,68
-SLALOM,"Professional, Scientific & Technical Services",281.0,36,135,51
 HOME DEPOT MANAGEMENT,Retail Trade,273.0,52,52,88
 TESLA,Manufacturing,272.0,51,51,84
 CHEWY,Retail Trade,266.0,41,76,90
 VANGUARD,Finance & Insurance,245.0,41,80,72
-DFS CORPORATE SERVICES,Finance & Insurance,243.0,40,65,40
+ABBVIE,Manufacturing,230.0,37,62,68
+ELEVANCE HEALTH,Finance & Insurance,223.0,46,70,47
+TRUIST BANK,Finance & Insurance,207.0,46,54,59
+FEDEX DATAWORKS,"Professional, Scientific & Technical Services",204.0,20,25,110
+LATENTVIEW ANALYTICS,"Professional, Scientific & Technical Services",190.0,36,38,79
+FIDELITY BROKERAGE SERVICES,Finance & Insurance,175.0,39,51,46
+EBAY,Retail Trade,174.0,28,55,50
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Finance & Insurance,164.0,14,45,73
