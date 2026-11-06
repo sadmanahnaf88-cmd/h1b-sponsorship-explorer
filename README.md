@@ -90,7 +90,7 @@ Full write-up with every supporting number: **[docs/FINDINGS.md](docs/FINDINGS.m
 Requirements: Python 3.12, ~6 GB free disk, ~30 minutes (most of it reading Excel).
 
 ```bash
-git clone <this repo> && cd h1b-sponsorship-explorer
+git clone https://github.com/sadmanahnaf88-cmd/h1b-sponsorship-explorer.git && cd h1b-sponsorship-explorer
 ```
 
 ```bash
