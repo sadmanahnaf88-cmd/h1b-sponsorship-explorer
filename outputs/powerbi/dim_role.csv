@@ -1,0 +1,1666 @@
+role_key,role_family,is_data_role,soc_code,soc_title
+1,Analytics Manager,true,11-1011.00,Chief Executives
+2,Analytics Manager,true,11-1021.00,General and Operations Managers
+3,Analytics Manager,true,11-2011.00,Advertising and Promotions Managers
+4,Analytics Manager,true,11-2021.00,Marketing Managers
+5,Analytics Manager,true,11-2022.00,Sales Managers
+6,Analytics Manager,true,11-2033.00,Fundraising Managers
+7,Analytics Manager,true,11-3012.00,Administrative Services Managers
+8,Analytics Manager,true,11-3021.00,Computer and Information Systems Managers
+9,Analytics Manager,true,11-3031.00,Financial Managers
+10,Analytics Manager,true,11-3031.01,Treasurers and Controllers
+11,Analytics Manager,true,11-3031.03,Investment Fund Managers
+12,Analytics Manager,true,11-3051.00,Industrial Production Managers
+13,Analytics Manager,true,11-3051.01,Quality Control Systems Managers
+14,Analytics Manager,true,11-3061.00,Purchasing Managers
+15,Analytics Manager,true,11-3071.00,"Transportation, Storage, and Distribution Managers"
+16,Analytics Manager,true,11-3071.03,Logistics Managers
+17,Analytics Manager,true,11-3071.04,Supply Chain Managers
+18,Analytics Manager,true,11-3111.00,Compensation and Benefits Managers
+19,Analytics Manager,true,11-3121.00,Human Resources Managers
+20,Analytics Manager,true,11-3131.00,Training and Development Managers
+21,Analytics Manager,true,11-9021.00,Construction Managers
+22,Analytics Manager,true,11-9032.00,"Education Administrators, Elementary and Secondary School"
+23,Analytics Manager,true,11-9033.00,"Education Administrators, Postsecondary"
+24,Analytics Manager,true,11-9041.00,Architectural and Engineering Managers
+25,Analytics Manager,true,11-9111.00,Medical and Health Services Managers
+26,Analytics Manager,true,11-9121.00,Natural Sciences Managers
+27,Analytics Manager,true,11-9121.01,Clinical Research Coordinators
+28,Analytics Manager,true,11-9151.00,Social and Community Service Managers
+29,Analytics Manager,true,11-9199.00,"Managers, All Other"
+30,Analytics Manager,true,11-9199.01,Regulatory Affairs Managers
+31,Analytics Manager,true,11-9199.02,Compliance Managers
+32,Analytics Manager,true,11-9199.04,Supply Chain Managers
+33,Analytics Manager,true,12-2051.00,Data Scientists
+34,Analytics Manager,true,13-1051.00,Cost Estimators
+35,Analytics Manager,true,13-1071.00,Human Resources Specialists
+36,Analytics Manager,true,13-1081.00,Logisticians
+37,Analytics Manager,true,13-1081.01,Logistics Engineers
+38,Analytics Manager,true,13-1081.02,Logistics Analysts
+39,Analytics Manager,true,13-1082.00,Project Management Specialists
+40,Analytics Manager,true,13-1111.00,Management Analysts
+41,Analytics Manager,true,13-1141.00,"Compensation, Benefits, and Job Analysis Specialists"
+42,Analytics Manager,true,13-1161.00,Market Research Analysts and Marketing Specialists
+43,Analytics Manager,true,13-1161.01,Search Marketing Strategists
+44,Analytics Manager,true,13-1199.00,"Business Operations Specialists, All Other"
+45,Analytics Manager,true,13-1199.05,Sustainability Specialists
+46,Analytics Manager,true,13-1199.06,Online Merchants
+47,Analytics Manager,true,13-2011.00,Accountants and Auditors
+48,Analytics Manager,true,13-2031.00,Budget Analysts
+49,Analytics Manager,true,13-2041.00,Credit Analysts
+50,Analytics Manager,true,13-2051.00,Financial and Investment Analysts
+51,Analytics Manager,true,13-2053.00,Insurance Underwriters
+52,Analytics Manager,true,13-2054.00,Financial Risk Specialists
+53,Analytics Manager,true,13-2099.00,"Financial Specialists, All Other"
+54,Analytics Manager,true,13-2099.01,Financial Quantitative Analysts
+55,Analytics Manager,true,13-2099.02,Risk Management Specialists
+56,Analytics Manager,true,13-2099.04,"Fraud Examiners, Investigators and Analysts"
+57,Analytics Manager,true,15-1111.00,Computer and Information Research Scientists
+58,Analytics Manager,true,15-1121.00,Computer Systems Analysts
+59,Analytics Manager,true,15-1122.00,Information Security Analysts
+60,Analytics Manager,true,15-1132.00,"Software Developers, Applications"
+61,Analytics Manager,true,15-1133.00,"Software Developers, Systems Software"
+62,Analytics Manager,true,15-1141.00,Database Administrators
+63,Analytics Manager,true,15-1199.00,"Computer Occupations, All Other"
+64,Analytics Manager,true,15-1199.01,Software Quality Assurance Engineers and Testers
+65,Analytics Manager,true,15-1199.02,Computer Systems Engineers/Architects
+66,Analytics Manager,true,15-1199.04,Geospatial Information Scientists and Technologists
+67,Analytics Manager,true,15-1199.06,Database Architects
+68,Analytics Manager,true,15-1199.07,Data Warehousing Specialists
+69,Analytics Manager,true,15-1199.08,Business Intelligence Analysts
+70,Analytics Manager,true,15-1199.09,Information Technology Project Managers
+71,Analytics Manager,true,15-1199.10,Search Marketing Strategists
+72,Analytics Manager,true,15-1199.12,Document Management Specialists
+73,Analytics Manager,true,15-1211.00,Computer Systems Analysts
+74,Analytics Manager,true,15-1212.00,Information Security Analysts
+75,Analytics Manager,true,15-1221.00,Computer and Information Research Scientists
+76,Analytics Manager,true,15-1229.00,Information Technology Project Managers
+77,Analytics Manager,true,15-1241.00,Computer Network Architects
+78,Analytics Manager,true,15-1242.00,Database Administrators
+79,Analytics Manager,true,15-1243.00,Database Architects
+80,Analytics Manager,true,15-1243.01,Data Warehousing Specialists
+81,Analytics Manager,true,15-1244.00,Network and Computer Systems Administrators
+82,Analytics Manager,true,15-1251.00,Computer Programmers
+83,Analytics Manager,true,15-1252.00,Software Developers
+84,Analytics Manager,true,15-1253.00,Software Quality Assurance Analysts and Testers
+85,Analytics Manager,true,15-1295.00,"Software Developers, Non R&D"
+86,Analytics Manager,true,15-1299.00,"Computer Occupations, All Other"
+87,Analytics Manager,true,15-1299.02,Geographic Information Systems Technologists and Technicians
+88,Analytics Manager,true,15-1299.03,Document Management Specialists
+89,Analytics Manager,true,15-1299.05,Information Security Engineers
+90,Analytics Manager,true,15-1299.06,Digital Forensics Analysts
+91,Analytics Manager,true,15-1299.08,Computer Systems Engineers/Architects
+92,Analytics Manager,true,15-1299.09,Information Technology Project Managers
+93,Analytics Manager,true,15-2011.00,Actuaries
+94,Analytics Manager,true,15-2021.00,Mathematicians
+95,Analytics Manager,true,15-2021.01,BUSINESS INTELLIGENCE ANALYSTS
+96,Analytics Manager,true,15-2031.00,Operations Research Analysts
+97,Analytics Manager,true,15-2041.00,Statisticians
+98,Analytics Manager,true,15-2041.01,Biostatisticians
+99,Analytics Manager,true,15-2041.02,Clinical Data Managers
+100,Analytics Manager,true,15-2051.00,Data Scientists
+101,Analytics Manager,true,15-2051.01,Business Intelligence Analysts
+102,Analytics Manager,true,15-2051.02,Clinical Data Managers
+103,Analytics Manager,true,17-2031.00,Bioengineers and Biomedical Engineers
+104,Analytics Manager,true,17-2041.00,Chemical Engineers
+105,Analytics Manager,true,17-2051.00,Civil Engineers
+106,Analytics Manager,true,17-2071.00,Electrical Engineers
+107,Analytics Manager,true,17-2112.00,Industrial Engineers
+108,Analytics Manager,true,17-2112.01,Human Factors Engineers and Ergonomists
+109,Analytics Manager,true,17-2112.02,Validation Engineers
+110,Analytics Manager,true,17-2112.03,Manufacturing Engineers
+111,Analytics Manager,true,17-2131.00,Materials Engineers
+112,Analytics Manager,true,17-2141.00,Mechanical Engineers
+113,Analytics Manager,true,17-2171.00,Petroleum Engineers
+114,Analytics Manager,true,17-2199.03,"Energy Engineers, Except Wind and Solar"
+115,Analytics Manager,true,17-2199.10,Wind Energy Engineers
+116,Analytics Manager,true,19-1012.00,Food Scientists and Technologists
+117,Analytics Manager,true,19-1021.00,Biochemists and Biophysicists
+118,Analytics Manager,true,19-1029.00,"Biological Scientists, All Other"
+119,Analytics Manager,true,19-1029.01,Bioinformatics Scientists
+120,Analytics Manager,true,19-1029.02,Molecular and Cellular Biologists
+121,Analytics Manager,true,19-1041.00,Epidemiologists
+122,Analytics Manager,true,19-1042.00,"Medical Scientists, Except Epidemiologists"
+123,Analytics Manager,true,19-2012.00,Physicists
+124,Analytics Manager,true,19-2031.00,Chemists
+125,Analytics Manager,true,19-2041.00,"Environmental Scientists and Specialists, Including Health"
+126,Analytics Manager,true,19-2042.00,"Geoscientists, Except Hydrologists and Geographers"
+127,Analytics Manager,true,19-3011.00,Economists
+128,Analytics Manager,true,19-3011.01,Environmental Economists
+129,Analytics Manager,true,19-3022.00,Survey Researchers
+130,Analytics Manager,true,19-3032.00,Industrial-Organizational Psychologists
+131,Analytics Manager,true,19-3041.00,Sociologists
+132,Analytics Manager,true,19-3092.00,Geographers
+133,Analytics Manager,true,19-3094.00,Political Scientists
+134,Analytics Manager,true,21-1091.00,Health Education Specialists
+135,Analytics Manager,true,23-1011.00,Lawyers
+136,Analytics Manager,true,25-1021.00,"Computer Science Teachers, Postsecondary"
+137,Analytics Manager,true,25-1022.00,"Mathematical Science Teachers, Postsecondary"
+138,Analytics Manager,true,25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary"
+139,Analytics Manager,true,25-4022.00,Librarians and Media Collections Specialists
+140,Analytics Manager,true,27-1014.00,Special Effects Artists and Animators
+141,Analytics Manager,true,27-1021.00,Commercial and Industrial Designers
+142,Analytics Manager,true,27-2012.03,Program Directors
+143,Analytics Manager,true,27-2022.00,Coaches and Scouts
+144,Analytics Manager,true,27-3031.00,Public Relations Specialists
+145,Analytics Manager,true,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents"
+146,Analytics Manager,true,41-9031.00,Sales Engineers
+147,Business/BI Analyst,true,.00,"Data Processing, Hosting, and Related Services"
+148,Business/BI Analyst,true,11-1021.00,General and Operations Managers
+149,Business/BI Analyst,true,11-2021.00,Marketing Managers
+150,Business/BI Analyst,true,11-2022.00,Sales Managers
+151,Business/BI Analyst,true,11-3012.00,Administrative Services Managers
+152,Business/BI Analyst,true,11-3021.00,Computer and Information Systems Managers
+153,Business/BI Analyst,true,11-3031.00,Financial Managers
+154,Business/BI Analyst,true,11-3051.00,Industrial Production Managers
+155,Business/BI Analyst,true,11-3071.00,"Transportation, Storage, and Distribution Managers"
+156,Business/BI Analyst,true,11-3071.04,Supply Chain Managers
+157,Business/BI Analyst,true,11-9021.00,Construction Managers
+158,Business/BI Analyst,true,11-9032.00,"Education Administrators, Kindergarten through Secondary"
+159,Business/BI Analyst,true,11-9041.00,Architectural and Engineering Managers
+160,Business/BI Analyst,true,11-9111.00,Medical and Health Services Managers
+161,Business/BI Analyst,true,11-9121.00,Natural Sciences Managers
+162,Business/BI Analyst,true,11-9141.00,"Property, Real Estate, and Community Association Managers"
+163,Business/BI Analyst,true,11-9199.00,"Managers, All Other"
+164,Business/BI Analyst,true,11-9199.02,Compliance Managers
+165,Business/BI Analyst,true,12-2051.01,Business Intelligence Analysts
+166,Business/BI Analyst,true,13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+167,Business/BI Analyst,true,13-1041.00,Compliance Officers
+168,Business/BI Analyst,true,13-1041.07,Regulatory Affairs Specialists
+169,Business/BI Analyst,true,13-1051.00,Cost Estimators
+170,Business/BI Analyst,true,13-1071.00,Human Resources Specialists
+171,Business/BI Analyst,true,13-1081.00,Logisticians
+172,Business/BI Analyst,true,13-1081.01,Logistics Engineers
+173,Business/BI Analyst,true,13-1081.02,Logistics Analysts
+174,Business/BI Analyst,true,13-1082.00,Project Management Specialists
+175,Business/BI Analyst,true,13-1111.00,Management Analysts
+176,Business/BI Analyst,true,13-1141.00,"Compensation, Benefits, and Job Analysis Specialists"
+177,Business/BI Analyst,true,13-1151.00,Training and Development Specialists
+178,Business/BI Analyst,true,13-1161.00,Market Research Analysts and Marketing Specialists
+179,Business/BI Analyst,true,13-1161.01,Search Marketing Strategists
+180,Business/BI Analyst,true,13-1199.00,"Business Operations Specialists, All Other"
+181,Business/BI Analyst,true,13-1199.04,Business Continuity Planners
+182,Business/BI Analyst,true,13-1199.05,Sustainability Specialists
+183,Business/BI Analyst,true,13-1199.06,Online Merchants
+184,Business/BI Analyst,true,13-1199.07,Security Management Specialists
+185,Business/BI Analyst,true,13-2011.00,Accountants and Auditors
+186,Business/BI Analyst,true,13-2011.01,Accountants
+187,Business/BI Analyst,true,13-2031.00,Budget Analysts
+188,Business/BI Analyst,true,13-2041.00,Credit Analysts
+189,Business/BI Analyst,true,13-2051.00,Financial and Investment Analysts
+190,Business/BI Analyst,true,13-2054.00,Financial Risk Specialists
+191,Business/BI Analyst,true,13-2061.00,Financial Examiners
+192,Business/BI Analyst,true,13-2099.00,"Financial Specialists, All Other"
+193,Business/BI Analyst,true,13-2099.01,Financial Quantitative Analysts
+194,Business/BI Analyst,true,13-2099.04,"Fraud Examiners, Investigators and Analysts"
+195,Business/BI Analyst,true,15-1034.00,"Software Developers, Applications, Non R&D"
+196,Business/BI Analyst,true,15-1036.00,"Software Developers, Systems Software, Non R&D"
+197,Business/BI Analyst,true,15-1052.00,"Computer Systems Analysts, Non R&D"
+198,Business/BI Analyst,true,15-1111.00,Computer and Information Research Scientists
+199,Business/BI Analyst,true,15-1121.00,Computer Systems Analysts
+200,Business/BI Analyst,true,15-1122.00,Information Security Analysts
+201,Business/BI Analyst,true,15-1131.00,Computer Programmers
+202,Business/BI Analyst,true,15-1132.00,"Software Developers, Applications"
+203,Business/BI Analyst,true,15-1133.00,"Software Developers, Systems Software"
+204,Business/BI Analyst,true,15-1134.00,Web Developers
+205,Business/BI Analyst,true,15-1141.00,Database Administrators
+206,Business/BI Analyst,true,15-1142.00,Network and Computer Systems Administrators
+207,Business/BI Analyst,true,15-1143.00,Computer Network Architects
+208,Business/BI Analyst,true,15-1151.00,Computer User Support Specialists
+209,Business/BI Analyst,true,15-1152.00,Computer Network Support Specialists
+210,Business/BI Analyst,true,15-1199.00,"Computer Occupations, All Other"
+211,Business/BI Analyst,true,15-1199.01,Software Quality Assurance Engineers and Testers
+212,Business/BI Analyst,true,15-1199.02,Computer Systems Engineers/Architects
+213,Business/BI Analyst,true,15-1199.06,Database Architects
+214,Business/BI Analyst,true,15-1199.07,Data Warehousing Specialists
+215,Business/BI Analyst,true,15-1199.08,Business Intelligence Analysts
+216,Business/BI Analyst,true,15-1199.09,Information Technology Project Managers
+217,Business/BI Analyst,true,15-1199.10,Search Marketing Strategists
+218,Business/BI Analyst,true,15-1211.00,Computer Systems Analysts
+219,Business/BI Analyst,true,15-1211.01,Health Informatics Specialists
+220,Business/BI Analyst,true,15-1212.00,Information Security Analysts
+221,Business/BI Analyst,true,15-1217.00,"Computer Systems Analysts, Non R&D"
+222,Business/BI Analyst,true,15-1218.00,"Computer Systems Analysts, R&D"
+223,Business/BI Analyst,true,15-1221.00,Computer and Information Research Scientists
+224,Business/BI Analyst,true,15-1231.00,Computer Network Support Specialists
+225,Business/BI Analyst,true,15-1232.00,Computer User Support Specialists
+226,Business/BI Analyst,true,15-1241.00,Computer Network Architects
+227,Business/BI Analyst,true,15-1242.00,Database Administrators
+228,Business/BI Analyst,true,15-1243.00,Database Architects
+229,Business/BI Analyst,true,15-1243.01,Data Warehousing Specialists
+230,Business/BI Analyst,true,15-1244.00,Network and Computer Systems Administrators
+231,Business/BI Analyst,true,15-1251.00,Computer Programmers
+232,Business/BI Analyst,true,15-1251.01,Business Intelligence Analysts
+233,Business/BI Analyst,true,15-1252.00,Software Developers
+234,Business/BI Analyst,true,15-1253.00,Software Quality Assurance Analysts and Testers
+235,Business/BI Analyst,true,15-1254.00,Web Developers
+236,Business/BI Analyst,true,15-1255.00,Web and Digital Interface Designers
+237,Business/BI Analyst,true,15-1293.00,"Computer Programmers, Non R&D"
+238,Business/BI Analyst,true,15-1295.00,"Software Developers, Non R&D"
+239,Business/BI Analyst,true,15-1296.00,"Software Developers, R&D"
+240,Business/BI Analyst,true,15-1297.00,"Software Quality Assurance Analysts and Testers, Non R&D"
+241,Business/BI Analyst,true,15-1299.00,"Computer Occupations, All Other"
+242,Business/BI Analyst,true,15-1299.01,Web Administrators
+243,Business/BI Analyst,true,15-1299.02,Geographic Information Systems Technologists and Technicians
+244,Business/BI Analyst,true,15-1299.03,Document Management Specialists
+245,Business/BI Analyst,true,15-1299.05,Information Security Engineers
+246,Business/BI Analyst,true,15-1299.08,Computer Systems Engineers/Architects
+247,Business/BI Analyst,true,15-1299.09,Information Technology Project Managers
+248,Business/BI Analyst,true,15-2021.00,Mathematicians
+249,Business/BI Analyst,true,15-2031.00,Operations Research Analysts
+250,Business/BI Analyst,true,15-2041.00,Statisticians
+251,Business/BI Analyst,true,15-2041.01,Biostatisticians
+252,Business/BI Analyst,true,15-2041.02,Clinical Data Managers
+253,Business/BI Analyst,true,15-2051.00,Data Scientists
+254,Business/BI Analyst,true,15-2051.01,Business Intelligence Analysts
+255,Business/BI Analyst,true,15-2051.02,Clinical Data Managers
+256,Business/BI Analyst,true,15-2051.08,Business Intelligence Analysts
+257,Business/BI Analyst,true,15-2099.00,"Mathematical Science Occupations, All Other"
+258,Business/BI Analyst,true,15-2099.01,Bioinformatics Technicians
+259,Business/BI Analyst,true,17-2011.00,Aerospace Engineers
+260,Business/BI Analyst,true,17-2031.00,Bioengineers and Biomedical Engineers
+261,Business/BI Analyst,true,17-2041.00,Chemical Engineers
+262,Business/BI Analyst,true,17-2051.01,Transportation Engineers
+263,Business/BI Analyst,true,17-2071.00,Electrical Engineers
+264,Business/BI Analyst,true,17-2072.00,"Electronics Engineers, Except Computer"
+265,Business/BI Analyst,true,17-2081.00,Environmental Engineers
+266,Business/BI Analyst,true,17-2112.00,Industrial Engineers
+267,Business/BI Analyst,true,17-2112.02,Validation Engineers
+268,Business/BI Analyst,true,17-2112.03,Manufacturing Engineers
+269,Business/BI Analyst,true,17-2131.00,Materials Engineers
+270,Business/BI Analyst,true,17-2141.00,Mechanical Engineers
+271,Business/BI Analyst,true,17-2141.02,Automotive Engineers
+272,Business/BI Analyst,true,17-2199.00,"Engineers, All Other"
+273,Business/BI Analyst,true,17-2199.02,Validation Engineers
+274,Business/BI Analyst,true,19-1029.01,Bioinformatics Scientists
+275,Business/BI Analyst,true,19-1029.02,Molecular and Cellular Biologists
+276,Business/BI Analyst,true,19-2031.00,Chemists
+277,Business/BI Analyst,true,19-3011.00,Economists
+278,Business/BI Analyst,true,19-3092.00,Geographers
+279,Business/BI Analyst,true,21-1014.00,Mental Health Counselors
+280,Business/BI Analyst,true,21-1029.00,"Social Workers, All Other"
+281,Business/BI Analyst,true,21-1093.00,Social and Human Service Assistants
+282,Business/BI Analyst,true,25-1011.00,"Business Teachers, Postsecondary"
+283,Business/BI Analyst,true,25-1021.00,"Computer Science Teachers, Postsecondary"
+284,Business/BI Analyst,true,25-1066.00,"Psychology Teachers, Postsecondary"
+285,Business/BI Analyst,true,25-2011.00,"Preschool Teachers, Except Special Education"
+286,Business/BI Analyst,true,25-2021.00,"Elementary School Teachers, Except Special Education"
+287,Business/BI Analyst,true,25-9031.00,Instructional Coordinators
+288,Business/BI Analyst,true,27-1014.00,Multimedia Artists and Animators
+289,Business/BI Analyst,true,27-3042.00,Technical Writers
+290,Business/BI Analyst,true,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents"
+291,Business/BI Analyst,true,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+292,Business/BI Analyst,true,41-9031.00,Sales Engineers
+293,Data Analyst,true,11-2021.00,Marketing Managers
+294,Data Analyst,true,11-2022.00,Sales Managers
+295,Data Analyst,true,11-2033.00,Fundraising Managers
+296,Data Analyst,true,11-3021.00,Computer and Information Systems Managers
+297,Data Analyst,true,11-3031.00,Financial Managers
+298,Data Analyst,true,11-3051.01,Quality Control Systems Managers
+299,Data Analyst,true,11-3071.00,"Transportation, Storage, and Distribution Managers"
+300,Data Analyst,true,11-3071.04,Supply Chain Managers
+301,Data Analyst,true,11-9021.00,Construction Managers
+302,Data Analyst,true,11-9033.00,"Education Administrators, Postsecondary"
+303,Data Analyst,true,11-9039.00,"Education Administrators, All Other"
+304,Data Analyst,true,11-9111.00,Medical and Health Services Managers
+305,Data Analyst,true,11-9121.01,Clinical Research Coordinators
+306,Data Analyst,true,11-9199.01,Regulatory Affairs Managers
+307,Data Analyst,true,11-9199.04,Supply Chain Managers
+308,Data Analyst,true,13-1041.00,Compliance Officers
+309,Data Analyst,true,13-1041.07,Regulatory Affairs Specialists
+310,Data Analyst,true,13-1051.00,Cost Estimators
+311,Data Analyst,true,13-1071.00,Human Resources Specialists
+312,Data Analyst,true,13-1081.00,Logisticians
+313,Data Analyst,true,13-1081.01,Logistics Engineers
+314,Data Analyst,true,13-1081.02,Logistics Analysts
+315,Data Analyst,true,13-1082.00,Project Management Specialists
+316,Data Analyst,true,13-1111.00,Management Analysts
+317,Data Analyst,true,13-1141.00,"Compensation, Benefits, and Job Analysis Specialists"
+318,Data Analyst,true,13-1151.00,Training and Development Specialists
+319,Data Analyst,true,13-1161.00,Market Research Analysts and Marketing Specialists
+320,Data Analyst,true,13-1161.01,Search Marketing Strategists
+321,Data Analyst,true,13-1199.00,"Business Operations Specialists, All Other"
+322,Data Analyst,true,13-1199.05,Sustainability Specialists
+323,Data Analyst,true,13-2011.00,Accountants and Auditors
+324,Data Analyst,true,13-2011.01,Accountants
+325,Data Analyst,true,13-2011.02,Auditors
+326,Data Analyst,true,13-2031.00,Budget Analysts
+327,Data Analyst,true,13-2041.00,Credit Analysts
+328,Data Analyst,true,13-2051.00,Financial and Investment Analysts
+329,Data Analyst,true,13-2051.01,Business Intelligence Analysts
+330,Data Analyst,true,13-2054.00,Financial Risk Specialists
+331,Data Analyst,true,13-2061.00,Financial Examiners
+332,Data Analyst,true,13-2082.00,Tax Preparers
+333,Data Analyst,true,13-2099.00,"Financial Specialists, All Other"
+334,Data Analyst,true,13-2099.01,Financial Quantitative Analysts
+335,Data Analyst,true,13-2099.02,Risk Management Specialists
+336,Data Analyst,true,13-2099.04,"Fraud Examiners, Investigators and Analysts"
+337,Data Analyst,true,15-1034.00,"Software Developers, Applications, Non R&D"
+338,Data Analyst,true,15-1052.00,"Computer Systems Analysts, Non R&D"
+339,Data Analyst,true,15-1053.00,"Computer Systems Analysts, R&D"
+340,Data Analyst,true,15-1111.00,Computer and Information Research Scientists
+341,Data Analyst,true,15-1121.00,Computer Systems Analysts
+342,Data Analyst,true,15-1122.00,Information Security Analysts
+343,Data Analyst,true,15-1131.00,Computer Programmers
+344,Data Analyst,true,15-1132.00,"Software Developers, Applications"
+345,Data Analyst,true,15-1133.00,"Software Developers, Systems Software"
+346,Data Analyst,true,15-1141.00,Database Administrators
+347,Data Analyst,true,15-1142.00,Network and Computer Systems Administrators
+348,Data Analyst,true,15-1143.00,Computer Network Architects
+349,Data Analyst,true,15-1199.00,"Computer Occupations, All Other"
+350,Data Analyst,true,15-1199.01,Software Quality Assurance Engineers and Testers
+351,Data Analyst,true,15-1199.02,Computer Systems Engineers/Architects
+352,Data Analyst,true,15-1199.04,Geospatial Information Scientists and Technologists
+353,Data Analyst,true,15-1199.06,Database Architects
+354,Data Analyst,true,15-1199.07,Data Warehousing Specialists
+355,Data Analyst,true,15-1199.08,Business Intelligence Analysts
+356,Data Analyst,true,15-1199.09,Information Technology Project Managers
+357,Data Analyst,true,15-1199.10,Search Marketing Strategists
+358,Data Analyst,true,15-1199.12,Document Management Specialists
+359,Data Analyst,true,15-1211.00,Computer Systems Analysts
+360,Data Analyst,true,15-1211.01,Health Informatics Specialists
+361,Data Analyst,true,15-1212.00,Information Security Analysts
+362,Data Analyst,true,15-1217.00,"Computer Systems Analysts, Non R&D"
+363,Data Analyst,true,15-1218.00,"Computer Systems Analysts, R&D"
+364,Data Analyst,true,15-1221.00,Computer and Information Research Scientists
+365,Data Analyst,true,15-1231.00,Computer Network Support Specialists
+366,Data Analyst,true,15-1241.00,Computer Network Architects
+367,Data Analyst,true,15-1242.00,Database Administrators
+368,Data Analyst,true,15-1243.00,Database Architects
+369,Data Analyst,true,15-1243.01,Data Warehousing Specialists
+370,Data Analyst,true,15-1244.00,Network and Computer Systems Administrators
+371,Data Analyst,true,15-1251.00,Computer Programmers
+372,Data Analyst,true,15-1252.00,Software Developers
+373,Data Analyst,true,15-1253.00,Software Quality Assurance Analysts and Testers
+374,Data Analyst,true,15-1254.00,Web Developers
+375,Data Analyst,true,15-1255.00,Web and Digital Interface Designers
+376,Data Analyst,true,15-1295.00,"Software Developers, Non R&D"
+377,Data Analyst,true,15-1296.00,"Software Developers, R&D"
+378,Data Analyst,true,15-1299.00,"Computer Occupations, All Other"
+379,Data Analyst,true,15-1299.02,Geographic Information Systems Technologists and Technicians
+380,Data Analyst,true,15-1299.03,Document Management Specialists
+381,Data Analyst,true,15-1299.04,Penetration Testers
+382,Data Analyst,true,15-1299.05,Information Security Engineers
+383,Data Analyst,true,15-1299.06,Digital Forensics Analysts
+384,Data Analyst,true,15-1299.08,Computer Systems Engineers/Architects
+385,Data Analyst,true,15-1299.09,Information Technology Project Managers
+386,Data Analyst,true,15-2011.00,Actuaries
+387,Data Analyst,true,15-2021.00,Mathematicians
+388,Data Analyst,true,15-2031.00,Operations Research Analysts
+389,Data Analyst,true,15-2041.00,Statisticians
+390,Data Analyst,true,15-2041.01,Biostatisticians
+391,Data Analyst,true,15-2041.02,Clinical Data Managers
+392,Data Analyst,true,15-2051.00,Data Scientists
+393,Data Analyst,true,15-2051.01,Business Intelligence Analysts
+394,Data Analyst,true,15-2051.02,Clinical Data Managers
+395,Data Analyst,true,15-2099.00,"Mathematical Science Occupations, All Other"
+396,Data Analyst,true,15-2099.01,Bioinformatics Technicians
+397,Data Analyst,true,17-1011.00,"Architects, Except Landscape and Naval"
+398,Data Analyst,true,17-1012.00,Landscape Architects
+399,Data Analyst,true,17-1021.00,Cartographers and Photogrammetrists
+400,Data Analyst,true,17-2011.00,Aerospace Engineers
+401,Data Analyst,true,17-2031.00,Bioengineers and Biomedical Engineers
+402,Data Analyst,true,17-2041.00,Chemical Engineers
+403,Data Analyst,true,17-2051.00,Civil Engineers
+404,Data Analyst,true,17-2051.01,Transportation Engineers
+405,Data Analyst,true,17-2053.00,"Civil Engineers, R&D"
+406,Data Analyst,true,17-2061.00,Computer Hardware Engineers
+407,Data Analyst,true,17-2071.00,Electrical Engineers
+408,Data Analyst,true,17-2072.00,"Electronics Engineers, Except Computer"
+409,Data Analyst,true,17-2074.00,"Electrical Engineers, R&D"
+410,Data Analyst,true,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+411,Data Analyst,true,17-2112.00,Industrial Engineers
+412,Data Analyst,true,17-2112.01,Human Factors Engineers and Ergonomists
+413,Data Analyst,true,17-2112.02,Validation Engineers
+414,Data Analyst,true,17-2112.03,Manufacturing Engineers
+415,Data Analyst,true,17-2131.00,Materials Engineers
+416,Data Analyst,true,17-2141.00,Mechanical Engineers
+417,Data Analyst,true,17-2141.01,Fuel Cell Engineers
+418,Data Analyst,true,17-2141.02,Automotive Engineers
+419,Data Analyst,true,17-2161.00,Nuclear Engineers
+420,Data Analyst,true,17-2171.00,Petroleum Engineers
+421,Data Analyst,true,17-2199.00,"Engineers, All Other"
+422,Data Analyst,true,17-2199.02,Validation Engineers
+423,Data Analyst,true,17-2199.03,"Energy Engineers, Except Wind and Solar"
+424,Data Analyst,true,17-2199.05,Mechatronics Engineers
+425,Data Analyst,true,17-2199.07,Photonics Engineers
+426,Data Analyst,true,17-2199.10,Wind Energy Engineers
+427,Data Analyst,true,17-2199.11,Solar Energy Systems Engineers
+428,Data Analyst,true,19-1011.00,Animal Scientists
+429,Data Analyst,true,19-1012.00,Food Scientists and Technologists
+430,Data Analyst,true,19-1021.00,Biochemists and Biophysicists
+431,Data Analyst,true,19-1022.00,Microbiologists
+432,Data Analyst,true,19-1029.00,"Biological Scientists, All Other"
+433,Data Analyst,true,19-1029.01,Bioinformatics Scientists
+434,Data Analyst,true,19-1029.02,Molecular and Cellular Biologists
+435,Data Analyst,true,19-1041.00,Epidemiologists
+436,Data Analyst,true,19-1042.00,"Medical Scientists, Except Epidemiologists"
+437,Data Analyst,true,19-2012.00,Physicists
+438,Data Analyst,true,19-2021.00,Atmospheric and Space Scientists
+439,Data Analyst,true,19-2031.00,Chemists
+440,Data Analyst,true,19-2032.00,Materials Scientists
+441,Data Analyst,true,19-2041.00,"Environmental Scientists and Specialists, Including Health"
+442,Data Analyst,true,19-2041.02,Environmental Restoration Planners
+443,Data Analyst,true,19-2042.00,"Geoscientists, Except Hydrologists and Geographers"
+444,Data Analyst,true,19-2043.00,Hydrologists
+445,Data Analyst,true,19-2099.01,Remote Sensing Scientists and Technologists
+446,Data Analyst,true,19-3011.00,Economists
+447,Data Analyst,true,19-3011.01,Environmental Economists
+448,Data Analyst,true,19-3022.00,Survey Researchers
+449,Data Analyst,true,19-3032.00,Industrial-Organizational Psychologists
+450,Data Analyst,true,19-3039.00,"Psychologists, All Other"
+451,Data Analyst,true,19-3039.02,Neuropsychologists
+452,Data Analyst,true,19-3041.00,Sociologists
+453,Data Analyst,true,19-3051.00,Urban and Regional Planners
+454,Data Analyst,true,19-3092.00,Geographers
+455,Data Analyst,true,19-3094.00,Political Scientists
+456,Data Analyst,true,19-3099.00,"Social Scientists and Related Workers, All Other"
+457,Data Analyst,true,19-3099.01,Transportation Planners
+458,Data Analyst,true,19-4021.00,Biological Technicians
+459,Data Analyst,true,19-4043.00,"Geological Technicians, Except Hydrologic Technicians"
+460,Data Analyst,true,19-4061.00,Social Science Research Assistants
+461,Data Analyst,true,19-4099.01,Quality Control Analysts
+462,Data Analyst,true,21-1091.00,Health Educators
+463,Data Analyst,true,25-1011.00,"Business Teachers, Postsecondary"
+464,Data Analyst,true,25-1021.00,"Computer Science Teachers, Postsecondary"
+465,Data Analyst,true,25-1022.00,"Mathematical Science Teachers, Postsecondary"
+466,Data Analyst,true,25-1032.00,"Engineering Teachers, Postsecondary"
+467,Data Analyst,true,25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+468,Data Analyst,true,25-1063.00,"Economics Teachers, Postsecondary"
+469,Data Analyst,true,25-1069.00,"Social Sciences Teachers, Postsecondary, All Other"
+470,Data Analyst,true,25-1122.00,"Communications Teachers, Postsecondary"
+471,Data Analyst,true,25-3099.00,"Teachers and Instructors, All Other"
+472,Data Analyst,true,25-9031.00,Instructional Coordinators
+473,Data Analyst,true,27-1021.00,Commercial and Industrial Designers
+474,Data Analyst,true,27-1024.00,Graphic Designers
+475,Data Analyst,true,27-3022.00,Reporters and Correspondents
+476,Data Analyst,true,27-3023.00,"News Analysts, Reporters, and Journalists"
+477,Data Analyst,true,27-3031.00,Public Relations Specialists
+478,Data Analyst,true,27-3042.00,Technical Writers
+479,Data Analyst,true,29-2011.00,Medical and Clinical Laboratory Technologists
+480,Data Analyst,true,29-9021.00,Health Information Technologists and Medical Registrars
+481,Data Analyst,true,41-9031.00,Sales Engineers
+482,Data Analyst,true,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks"
+483,Data Analyst,true,43-6011.00,Executive Secretaries and Executive Administrative Assistants
+484,Data Analyst,true,43-9111.00,Statistical Assistants
+485,Data Analyst,true,43-9111.01,Bioinformatics Technicians
+486,Data Analyst,true,43-9199.00,"Office and Administrative Support Workers, All Other"
+487,Data Engineer,true,11-2021.00,Marketing Managers
+488,Data Engineer,true,11-3021.00,Computer and Information Systems Managers
+489,Data Engineer,true,11-3051.00,Industrial Production Managers
+490,Data Engineer,true,11-3071.04,Supply Chain Managers
+491,Data Engineer,true,11-9041.00,Architectural and Engineering Managers
+492,Data Engineer,true,11-9199.04,Supply Chain Managers
+493,Data Engineer,true,13-1081.00,Logisticians
+494,Data Engineer,true,13-1081.01,Logistics Engineers
+495,Data Engineer,true,13-1081.02,Logistics Analysts
+496,Data Engineer,true,13-1111.00,Management Analysts
+497,Data Engineer,true,13-1151.00,Training and Development Specialists
+498,Data Engineer,true,13-1161.00,Market Research Analysts and Marketing Specialists
+499,Data Engineer,true,13-1161.01,Search Marketing Strategists
+500,Data Engineer,true,13-2051.00,Financial and Investment Analysts
+501,Data Engineer,true,13-2054.00,Financial Risk Specialists
+502,Data Engineer,true,13-2099.01,Financial Quantitative Analysts
+503,Data Engineer,true,15-1022.00,"Computer Programmers, Non R&D"
+504,Data Engineer,true,15-1034.00,"Software Developers, Applications, Non R&D"
+505,Data Engineer,true,15-1035.00,"Software Developers, Applications, R&D"
+506,Data Engineer,true,15-1036.00,"Software Developers, Systems Software, Non R&D"
+507,Data Engineer,true,15-1052.00,"Computer Systems Analysts, Non R&D"
+508,Data Engineer,true,15-1111.00,Computer and Information Research Scientists
+509,Data Engineer,true,15-1121.00,Computer Systems Analysts
+510,Data Engineer,true,15-1121.01,Informatics Nurse Specialists
+511,Data Engineer,true,15-1122.00,Information Security Analysts
+512,Data Engineer,true,15-1131.00,Computer Programmers
+513,Data Engineer,true,15-1132.00,"Software Developers, Applications"
+514,Data Engineer,true,15-1133.00,"Software Developers, Systems Software"
+515,Data Engineer,true,15-1141.00,Database Administrators
+516,Data Engineer,true,15-1142.00,Network and Computer Systems Administrators
+517,Data Engineer,true,15-1143.00,Computer Network Architects
+518,Data Engineer,true,15-1199.00,"Computer Occupations, All Other"
+519,Data Engineer,true,15-1199.01,Software Quality Assurance Engineers and Testers
+520,Data Engineer,true,15-1199.02,Computer Systems Engineers/Architects
+521,Data Engineer,true,15-1199.03,Web Administrators
+522,Data Engineer,true,15-1199.06,Database Architects
+523,Data Engineer,true,15-1199.07,Data Warehousing Specialists
+524,Data Engineer,true,15-1199.08,Business Intelligence Analysts
+525,Data Engineer,true,15-1199.09,Information Technology Project Managers
+526,Data Engineer,true,15-1211.00,Computer Systems Analysts
+527,Data Engineer,true,15-1212.00,Information Security Analysts
+528,Data Engineer,true,15-1217.00,"Computer Systems Analysts, Non R&D"
+529,Data Engineer,true,15-1218.00,"Computer Systems Analysts, R&D"
+530,Data Engineer,true,15-1221.00,Computer and Information Research Scientists
+531,Data Engineer,true,15-1231.00,Computer Network Support Specialists
+532,Data Engineer,true,15-1232.00,Computer User Support Specialists
+533,Data Engineer,true,15-1241.00,Computer Network Architects
+534,Data Engineer,true,15-1241.01,Telecommunications Engineering Specialists
+535,Data Engineer,true,15-1242.00,Database Administrators
+536,Data Engineer,true,15-1243.00,Database Architects
+537,Data Engineer,true,15-1243.01,Data Warehousing Specialists
+538,Data Engineer,true,15-1244.00,Network and Computer Systems Administrators
+539,Data Engineer,true,15-1251.00,Computer Programmers
+540,Data Engineer,true,15-1252.00,Software Developers
+541,Data Engineer,true,15-1253.00,Software Quality Assurance Analysts and Testers
+542,Data Engineer,true,15-1254.00,Web Developers
+543,Data Engineer,true,15-1255.00,Web and Digital Interface Designers
+544,Data Engineer,true,15-1293.00,"Computer Programmers, Non R&D"
+545,Data Engineer,true,15-1295.00,"Software Developers, Non R&D"
+546,Data Engineer,true,15-1296.00,"Software Developers, R&D"
+547,Data Engineer,true,15-1298.00,"Software Quality Assurance Analysts and Testers, R&D"
+548,Data Engineer,true,15-1299.00,"Computer Occupations, All Other"
+549,Data Engineer,true,15-1299.02,Geographic Information Systems Technologists and Technicians
+550,Data Engineer,true,15-1299.05,Information Security Engineers
+551,Data Engineer,true,15-1299.07,Data Warehousing Specialists
+552,Data Engineer,true,15-1299.08,Computer Systems Engineers/Architects
+553,Data Engineer,true,15-1299.09,Information Technology Project Managers
+554,Data Engineer,true,15-2021.00,Mathematicians
+555,Data Engineer,true,15-2031.00,Operations Research Analysts
+556,Data Engineer,true,15-2041.00,Statisticians
+557,Data Engineer,true,15-2041.01,Biostatisticians
+558,Data Engineer,true,15-2041.02,Clinical Data Managers
+559,Data Engineer,true,15-2051.00,Data Scientists
+560,Data Engineer,true,15-2051.01,Business Intelligence Analysts
+561,Data Engineer,true,15-2051.02,Clinical Data Managers
+562,Data Engineer,true,15-2099.00,"Mathematical Science Occupations, All Other"
+563,Data Engineer,true,15-2099.01,Bioinformatics Technicians
+564,Data Engineer,true,17-2011.00,Aerospace Engineers
+565,Data Engineer,true,17-2031.00,Bioengineers and Biomedical Engineers
+566,Data Engineer,true,17-2041.00,Chemical Engineers
+567,Data Engineer,true,17-2051.00,Civil Engineers
+568,Data Engineer,true,17-2051.01,Transportation Engineers
+569,Data Engineer,true,17-2051.02,Water/Wastewater Engineers
+570,Data Engineer,true,17-2061.00,Computer Hardware Engineers
+571,Data Engineer,true,17-2071.00,Electrical Engineers
+572,Data Engineer,true,17-2072.00,"Electronics Engineers, Except Computer"
+573,Data Engineer,true,17-2074.00,"Electrical Engineers, R&D"
+574,Data Engineer,true,17-2112.00,Industrial Engineers
+575,Data Engineer,true,17-2112.02,Validation Engineers
+576,Data Engineer,true,17-2112.03,Manufacturing Engineers
+577,Data Engineer,true,17-2141.00,Mechanical Engineers
+578,Data Engineer,true,17-2141.02,Automotive Engineers
+579,Data Engineer,true,17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers"
+580,Data Engineer,true,17-2161.00,Nuclear Engineers
+581,Data Engineer,true,17-2171.00,Petroleum Engineers
+582,Data Engineer,true,17-2199.00,"Engineers, All Other"
+583,Data Engineer,true,17-2199.03,"Energy Engineers, Except Wind and Solar"
+584,Data Engineer,true,17-2199.04,Manufacturing Engineers
+585,Data Engineer,true,17-2199.05,Mechatronics Engineers
+586,Data Engineer,true,17-2199.08,Robotics Engineers
+587,Data Engineer,true,17-2199.11,Solar Energy Systems Engineers
+588,Data Engineer,true,19-1029.01,Bioinformatics Scientists
+589,Data Engineer,true,19-2012.00,Physicists
+590,Data Engineer,true,19-2031.00,Chemists
+591,Data Engineer,true,19-2099.01,Remote Sensing Scientists and Technologists
+592,Data Engineer,true,19-3011.00,Economists
+593,Data Engineer,true,19-3092.00,Geographers
+594,Data Engineer,true,19-4061.00,Social Science Research Assistants
+595,Data Engineer,true,27-1014.00,Special Effects Artists and Animators
+596,Data Engineer,true,27-1021.00,Commercial and Industrial Designers
+597,Data Engineer,true,29-1031.00,Dietitians and Nutritionists
+598,Data Engineer,true,41-9031.00,Sales Engineers
+599,Data Engineer,true,43-9111.00,Statistical Assistants
+600,Data Scientist,true,11-1021.00,General and Operations Managers
+601,Data Scientist,true,11-2021.00,Marketing Managers
+602,Data Scientist,true,11-3021.00,Computer and Information Systems Managers
+603,Data Scientist,true,11-3031.00,Financial Managers
+604,Data Scientist,true,11-3051.00,Industrial Production Managers
+605,Data Scientist,true,11-3051.01,Quality Control Systems Managers
+606,Data Scientist,true,11-3061.00,Purchasing Managers
+607,Data Scientist,true,11-3071.00,"Transportation, Storage, and Distribution Managers"
+608,Data Scientist,true,11-3071.03,Logistics Managers
+609,Data Scientist,true,11-3071.04,Supply Chain Managers
+610,Data Scientist,true,11-9021.00,Construction Managers
+611,Data Scientist,true,11-9041.00,Architectural and Engineering Managers
+612,Data Scientist,true,11-9111.00,Medical and Health Services Managers
+613,Data Scientist,true,11-9121.00,Natural Sciences Managers
+614,Data Scientist,true,11-9199.04,Supply Chain Managers
+615,Data Scientist,true,12-2051.00,Business Intelligence Analysts
+616,Data Scientist,true,13-1071.00,Human Resources Specialists
+617,Data Scientist,true,13-1081.00,Logisticians
+618,Data Scientist,true,13-1081.01,Logistics Engineers
+619,Data Scientist,true,13-1081.02,Logistics Analysts
+620,Data Scientist,true,13-1082.00,Project Management Specialists
+621,Data Scientist,true,13-1111.00,Management Analysts
+622,Data Scientist,true,13-1151.00,Training and Development Specialists
+623,Data Scientist,true,13-1161.00,Market Research Analysts and Marketing Specialists
+624,Data Scientist,true,13-2011.00,Accountants and Auditors
+625,Data Scientist,true,13-2041.00,Credit Analysts
+626,Data Scientist,true,13-2051.00,Financial and Investment Analysts
+627,Data Scientist,true,13-2054.00,Financial Risk Specialists
+628,Data Scientist,true,13-2099.00,"Financial Specialists, All Other"
+629,Data Scientist,true,13-2099.01,Financial Quantitative Analysts
+630,Data Scientist,true,13-2099.04,"Fraud Examiners, Investigators and Analysts"
+631,Data Scientist,true,15-1035.00,"Software Developers, Applications, R&D"
+632,Data Scientist,true,15-1053.00,"Computer Systems Analysts, R&D"
+633,Data Scientist,true,15-1111.00,Computer and Information Research Scientists
+634,Data Scientist,true,15-1121.00,Computer Systems Analysts
+635,Data Scientist,true,15-1122.00,Information Security Analysts
+636,Data Scientist,true,15-1131.00,Computer Programmers
+637,Data Scientist,true,15-1132.00,"Software Developers, Applications"
+638,Data Scientist,true,15-1133.00,"Software Developers, Systems Software"
+639,Data Scientist,true,15-1141.00,Database Administrators
+640,Data Scientist,true,15-1143.00,Computer Network Architects
+641,Data Scientist,true,15-1199.00,"Computer Occupations, All Other"
+642,Data Scientist,true,15-1199.01,Software Quality Assurance Engineers and Testers
+643,Data Scientist,true,15-1199.02,Computer Systems Engineers/Architects
+644,Data Scientist,true,15-1199.03,Web Administrators
+645,Data Scientist,true,15-1199.04,Geospatial Information Scientists and Technologists
+646,Data Scientist,true,15-1199.05,Geographic Information Systems Technicians
+647,Data Scientist,true,15-1199.06,Database Architects
+648,Data Scientist,true,15-1199.07,Data Warehousing Specialists
+649,Data Scientist,true,15-1199.08,Business Intelligence Analysts
+650,Data Scientist,true,15-1199.09,Information Technology Project Managers
+651,Data Scientist,true,15-1199.10,Search Marketing Strategists
+652,Data Scientist,true,15-1211.00,Computer Systems Analysts
+653,Data Scientist,true,15-1211.01,Health Informatics Specialists
+654,Data Scientist,true,15-1212.00,Information Security Analysts
+655,Data Scientist,true,15-1218.00,"Computer Systems Analysts, R&D"
+656,Data Scientist,true,15-1221.00,Computer and Information Research Scientists
+657,Data Scientist,true,15-1241.00,Computer Network Architects
+658,Data Scientist,true,15-1242.00,Database Administrators
+659,Data Scientist,true,15-1243.00,Database Architects
+660,Data Scientist,true,15-1243.01,Data Warehousing Specialists
+661,Data Scientist,true,15-1244.00,Network and Computer Systems Administrators
+662,Data Scientist,true,15-1251.00,Computer Programmers
+663,Data Scientist,true,15-1252.00,Software Developers
+664,Data Scientist,true,15-1253.00,Software Quality Assurance Analysts and Testers
+665,Data Scientist,true,15-1254.00,Web Developers
+666,Data Scientist,true,15-1295.00,"Software Developers, Non R&D"
+667,Data Scientist,true,15-1296.00,"Software Developers, R&D"
+668,Data Scientist,true,15-1299.00,"Computer Occupations, All Other"
+669,Data Scientist,true,15-1299.02,Geographic Information Systems Technologists and Technicians
+670,Data Scientist,true,15-1299.05,Information Security Engineers
+671,Data Scientist,true,15-1299.08,Computer Systems Engineers/Architects
+672,Data Scientist,true,15-1299.09,Information Technology Project Managers
+673,Data Scientist,true,15-2011.00,Actuaries
+674,Data Scientist,true,15-2021.00,Mathematicians
+675,Data Scientist,true,15-2031.00,Operations Research Analysts
+676,Data Scientist,true,15-2041.00,Statisticians
+677,Data Scientist,true,15-2041.01,Biostatisticians
+678,Data Scientist,true,15-2041.02,Clinical Data Managers
+679,Data Scientist,true,15-2051.00,Data Scientists
+680,Data Scientist,true,15-2051.01,Business Intelligence Analysts
+681,Data Scientist,true,15-2051.02,Clinical Data Managers
+682,Data Scientist,true,15-2091.00,Mathematical Technicians
+683,Data Scientist,true,15-2099.00,"Mathematical Science Occupations, All Other"
+684,Data Scientist,true,15-2099.01,Bioinformatics Technicians
+685,Data Scientist,true,17-1021.00,Cartographers and Photogrammetrists
+686,Data Scientist,true,17-2011.00,Aerospace Engineers
+687,Data Scientist,true,17-2021.00,Agricultural Engineers
+688,Data Scientist,true,17-2031.00,Bioengineers and Biomedical Engineers
+689,Data Scientist,true,17-2041.00,Chemical Engineers
+690,Data Scientist,true,17-2051.00,Civil Engineers
+691,Data Scientist,true,17-2051.01,Transportation Engineers
+692,Data Scientist,true,17-2052.00,"Civil Engineers, NonR&D"
+693,Data Scientist,true,17-2053.00,"Civil Engineers, R&D"
+694,Data Scientist,true,17-2071.00,Electrical Engineers
+695,Data Scientist,true,17-2072.00,"Electronics Engineers, Except Computer"
+696,Data Scientist,true,17-2074.00,"Electrical Engineers, R&D"
+697,Data Scientist,true,17-2081.00,Environmental Engineers
+698,Data Scientist,true,17-2112.00,Industrial Engineers
+699,Data Scientist,true,17-2112.01,Human Factors Engineers and Ergonomists
+700,Data Scientist,true,17-2112.03,Manufacturing Engineers
+701,Data Scientist,true,17-2131.00,Materials Engineers
+702,Data Scientist,true,17-2141.00,Mechanical Engineers
+703,Data Scientist,true,17-2141.02,Automotive Engineers
+704,Data Scientist,true,17-2144.00,"Mechanical Engineers, R&D"
+705,Data Scientist,true,17-2161.00,Nuclear Engineers
+706,Data Scientist,true,17-2171.00,Petroleum Engineers
+707,Data Scientist,true,17-2199.00,"Engineers, All Other"
+708,Data Scientist,true,17-2199.01,Biochemical Engineers
+709,Data Scientist,true,17-2199.03,"Energy Engineers, Except Wind and Solar"
+710,Data Scientist,true,17-2199.04,Manufacturing Engineers
+711,Data Scientist,true,17-2199.05,Mechatronics Engineers
+712,Data Scientist,true,17-2199.08,Robotics Engineers
+713,Data Scientist,true,17-2199.09,Nanosystems Engineers
+714,Data Scientist,true,17-3031.00,Surveying and Mapping Technicians
+715,Data Scientist,true,19-1011.00,Animal Scientists
+716,Data Scientist,true,19-1012.00,Food Scientists and Technologists
+717,Data Scientist,true,19-1013.00,Soil and Plant Scientists
+718,Data Scientist,true,19-1021.00,Biochemists and Biophysicists
+719,Data Scientist,true,19-1022.00,Microbiologists
+720,Data Scientist,true,19-1029.00,"Biological Scientists, All Other"
+721,Data Scientist,true,19-1029.01,Bioinformatics Scientists
+722,Data Scientist,true,19-1029.04,Biologists
+723,Data Scientist,true,19-1041.00,Epidemiologists
+724,Data Scientist,true,19-1042.00,"Medical Scientists, Except Epidemiologists"
+725,Data Scientist,true,19-2011.00,Astronomers
+726,Data Scientist,true,19-2012.00,Physicists
+727,Data Scientist,true,19-2021.00,Atmospheric and Space Scientists
+728,Data Scientist,true,19-2031.00,Chemists
+729,Data Scientist,true,19-2032.00,Materials Scientists
+730,Data Scientist,true,19-2041.00,"Environmental Scientists and Specialists, Including Health"
+731,Data Scientist,true,19-2042.00,"Geoscientists, Except Hydrologists and Geographers"
+732,Data Scientist,true,19-2099.00,"Physical Scientists, All Other"
+733,Data Scientist,true,19-2099.01,Remote Sensing Scientists and Technologists
+734,Data Scientist,true,19-3011.00,Economists
+735,Data Scientist,true,19-3022.00,Survey Researchers
+736,Data Scientist,true,19-3032.00,Industrial-Organizational Psychologists
+737,Data Scientist,true,19-3051.00,Urban and Regional Planners
+738,Data Scientist,true,19-3092.00,Geographers
+739,Data Scientist,true,19-3094.00,Political Scientists
+740,Data Scientist,true,19-3099.01,Transportation Planners
+741,Data Scientist,true,19-4061.00,Social Science Research Assistants
+742,Data Scientist,true,21-1012.00,"Educational, Guidance, and Career Counselors and Advisors"
+743,Data Scientist,true,23-1011.00,Lawyers
+744,Data Scientist,true,25-1011.00,"Business Teachers, Postsecondary"
+745,Data Scientist,true,25-1021.00,"Computer Science Teachers, Postsecondary"
+746,Data Scientist,true,25-1022.00,"Mathematical Science Teachers, Postsecondary"
+747,Data Scientist,true,25-1032.00,"Engineering Teachers, Postsecondary"
+748,Data Scientist,true,25-1041.00,"Agricultural Sciences Teachers, Postsecondary"
+749,Data Scientist,true,25-1053.00,"Environmental Science Teachers, Postsecondary"
+750,Data Scientist,true,25-1054.00,"Physics Teachers, Postsecondary"
+751,Data Scientist,true,25-1063.00,"Economics Teachers, Postsecondary"
+752,Data Scientist,true,25-1065.00,"Political Science Teachers, Postsecondary"
+753,Data Scientist,true,25-1067.00,"Sociology Teachers, Postsecondary"
+754,Data Scientist,true,25-1199.00,"Postsecondary Teachers, All Other"
+755,Data Scientist,true,25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education"
+756,Data Scientist,true,25-2032.00,"Career/Technical Education Teachers, Secondary School"
+757,Data Scientist,true,25-4021.00,Librarians
+758,Data Scientist,true,25-4022.00,Librarians and Media Collections Specialists
+759,Data Scientist,true,25-9044.00,"Teaching Assistants, Postsecondary"
+760,Data Scientist,true,27-1021.00,Commercial and Industrial Designers
+761,Data Scientist,true,27-3042.00,Technical Writers
+762,Data Scientist,true,43-9111.00,Statistical Assistants
+763,Other,false,.00,Other Management Consulting Services
+764,Other,false,11-1011.00,Chief Executives
+765,Other,false,11-1011.03,Chief Sustainability Officers
+766,Other,false,11-1021.00,General and Operations Managers
+767,Other,false,11-1031.00,Finance Managers
+768,Other,false,11-2011.00,Advertising and Promotions Managers
+769,Other,false,11-2011.01,Green Marketers
+770,Other,false,11-2021.00,Marketing Managers
+771,Other,false,11-2022.00,Sales Managers
+772,Other,false,11-2031.00,Public Relations and Fundraising Managers
+773,Other,false,11-2032.00,Public Relations Managers
+774,Other,false,11-2033.00,Fundraising Managers
+775,Other,false,11-3011.00,Administrative Services Managers
+776,Other,false,11-3012.00,Administrative Services Managers
+777,Other,false,11-3013.00,Facilities Managers
+778,Other,false,11-3013.01,Security Managers
+779,Other,false,11-3021.00,Computer and Information Systems Managers
+780,Other,false,11-3031.00,Financial Managers
+781,Other,false,11-3031.01,Treasurers and Controllers
+782,Other,false,11-3031.02,"Financial Managers, Branch or Department"
+783,Other,false,11-3031.03,Investment Fund Managers
+784,Other,false,11-3051.00,Industrial Production Managers
+785,Other,false,11-3051.01,Quality Control Systems Managers
+786,Other,false,11-3051.03,Biofuels Production Managers
+787,Other,false,11-3051.04,Biomass Power Plant Managers
+788,Other,false,11-3051.06,Hydroelectric Production Managers
+789,Other,false,11-3061.00,Purchasing Managers
+790,Other,false,11-3071.00,"Transportation, Storage, and Distribution Managers"
+791,Other,false,11-3071.01,Transportation Managers
+792,Other,false,11-3071.02,Storage and Distribution Managers
+793,Other,false,11-3071.03,Logistics Managers
+794,Other,false,11-3071.04,Supply Chain Managers
+795,Other,false,11-3111.00,Compensation and Benefits Managers
+796,Other,false,11-3121.00,Human Resources Managers
+797,Other,false,11-3131.00,Training and Development Managers
+798,Other,false,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers"
+799,Other,false,11-9013.02,Farm and Ranch Managers
+800,Other,false,11-9013.03,Aquacultural Managers
+801,Other,false,11-9021.00,Construction Managers
+802,Other,false,11-9031.00,"Education and Childcare Administrators, Preschool and Daycare"
+803,Other,false,11-9032.00,"Education Administrators, Kindergarten through Secondary"
+804,Other,false,11-9033.00,"Education Administrators, Postsecondary"
+805,Other,false,11-9039.00,"Education Administrators, All Other"
+806,Other,false,11-9039.01,Distance Learning Coordinators
+807,Other,false,11-9039.02,Fitness and Wellness Coordinators
+808,Other,false,11-9041.00,Architectural and Engineering Managers
+809,Other,false,11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers
+810,Other,false,11-9051.00,Food Service Managers
+811,Other,false,11-9072.00,"Entertainment and Recreation Managers, Except Gambling"
+812,Other,false,11-9081.00,Lodging Managers
+813,Other,false,11-9111.00,Medical and Health Services Managers
+814,Other,false,11-9121.00,Natural Sciences Managers
+815,Other,false,11-9121.01,Clinical Research Coordinators
+816,Other,false,11-9121.02,Water Resource Specialists
+817,Other,false,11-9141.00,"Property, Real Estate, and Community Association Managers"
+818,Other,false,11-9151.00,Social and Community Service Managers
+819,Other,false,11-9161.00,Emergency Management Directors
+820,Other,false,11-9179.00,"Personal Service Managers, All Other"
+821,Other,false,11-9179.01,Fitness and Wellness Coordinators
+822,Other,false,11-9179.02,Spa Managers
+823,Other,false,11-9199.00,"Managers, All Other"
+824,Other,false,11-9199.01,Regulatory Affairs Managers
+825,Other,false,11-9199.02,Compliance Managers
+826,Other,false,11-9199.03,Investment Fund Managers
+827,Other,false,11-9199.04,Supply Chain Managers
+828,Other,false,11-9199.07,Security Managers
+829,Other,false,11-9199.08,Loss Prevention Managers
+830,Other,false,11-9199.09,Wind Energy Operations Managers
+831,Other,false,11-9199.10,Wind Energy Development Managers
+832,Other,false,12-1051.00,Cost Estimators
+833,Other,false,12-1229.00,"Physicians, All Other"
+834,Other,false,12-1252.00,Software Developers
+835,Other,false,12-1253.00,Software Quality Assurance Analysts and Testers
+836,Other,false,12-1299.09,Information Technology Project Managers
+837,Other,false,12-2011.00,Accountants and Auditors
+838,Other,false,12-5021.00,Data Scientists
+839,Other,false,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes"
+840,Other,false,13-1021.00,"Buyers and Purchasing Agents, Farm Products"
+841,Other,false,13-1022.00,"Wholesale and Retail Buyers, Except Farm Products"
+842,Other,false,13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+843,Other,false,13-1031.00,"Claims Adjusters, Examiners, and Investigators"
+844,Other,false,13-1031.01,"Claims Examiners, Property and Casualty Insurance"
+845,Other,false,13-1031.02,"Insurance Adjusters, Examiners, and Investigators"
+846,Other,false,13-1041.00,Compliance Officers
+847,Other,false,13-1041.01,Environmental Compliance Inspectors
+848,Other,false,13-1041.03,Equal Opportunity Representatives and Officers
+849,Other,false,13-1041.04,Government Property Inspectors and Investigators
+850,Other,false,13-1041.07,Regulatory Affairs Specialists
+851,Other,false,13-1041.08,Customs Brokers
+852,Other,false,13-1051.00,Cost Estimators
+853,Other,false,13-1071.00,Human Resources Specialists
+854,Other,false,13-1075.00,Labor Relations Specialists
+855,Other,false,13-1081.00,Logisticians
+856,Other,false,13-1081.01,Logistics Engineers
+857,Other,false,13-1081.02,Logistics Analysts
+858,Other,false,13-1082.00,Project Management Specialists
+859,Other,false,13-1111.00,Management Analysts
+860,Other,false,13-1121.00,"Meeting, Convention, and Event Planners"
+861,Other,false,13-1131.00,Fundraisers
+862,Other,false,13-1141.00,"Compensation, Benefits, and Job Analysis Specialists"
+863,Other,false,13-1151.00,Training and Development Specialists
+864,Other,false,13-1161.00,Market Research Analysts and Marketing Specialists
+865,Other,false,13-1161.01,Search Marketing Strategists
+866,Other,false,13-1199.00,"Business Operations Specialists, All Other"
+867,Other,false,13-1199.01,Energy Auditors
+868,Other,false,13-1199.02,Security Management Specialists
+869,Other,false,13-1199.04,Business Continuity Planners
+870,Other,false,13-1199.05,Sustainability Specialists
+871,Other,false,13-1199.06,Online Merchants
+872,Other,false,13-1199.07,Security Management Specialists
+873,Other,false,13-2011.00,Accountants and Auditors
+874,Other,false,13-2011.01,Accountants
+875,Other,false,13-2011.02,Auditors
+876,Other,false,13-2021.00,Appraisers and Assessors of Real Estate
+877,Other,false,13-2021.01,Assessors
+878,Other,false,13-2021.02,"Appraisers, Real Estate"
+879,Other,false,13-2022.00,Appraisers of Personal and Business Property
+880,Other,false,13-2023.00,Appraisers and Assessors of Real Estate
+881,Other,false,13-2031.00,Budget Analysts
+882,Other,false,13-2041.00,Credit Analysts
+883,Other,false,13-2051.00,Financial and Investment Analysts
+884,Other,false,13-2051.01,Business Intelligence Analysts
+885,Other,false,13-2052.00,Personal Financial Advisors
+886,Other,false,13-2053.00,Insurance Underwriters
+887,Other,false,13-2054.00,Financial Risk Specialists
+888,Other,false,13-2061.00,Financial Examiners
+889,Other,false,13-2071.00,Credit Counselors
+890,Other,false,13-2071.01,Loan Counselors
+891,Other,false,13-2072.00,Loan Officers
+892,Other,false,13-2081.00,"Tax Examiners and Collectors, and Revenue Agents"
+893,Other,false,13-2082.00,Tax Preparers
+894,Other,false,13-2099.00,"Financial Specialists, All Other"
+895,Other,false,13-2099.01,Financial Quantitative Analysts
+896,Other,false,13-2099.02,Risk Management Specialists
+897,Other,false,13-2099.03,Investment Underwriters
+898,Other,false,13-2099.04,"Fraud Examiners, Investigators and Analysts"
+899,Other,false,14-1252.00,Software Developers
+900,Other,false,15-1022.00,"Computer Programmers, Non R&D"
+901,Other,false,15-1023.00,"Computer Programmers, R&D"
+902,Other,false,15-1031.00,Operations Research Analysts
+903,Other,false,15-1034.00,"Software Developers, Applications, Non R&D"
+904,Other,false,15-1035.00,"Software Developers, Applications, R&D"
+905,Other,false,15-1036.00,"Software Developers, Systems Software, Non R&D"
+906,Other,false,15-1037.00,"Software Developers, Systems Software, R&D"
+907,Other,false,15-1051.00,Cost Estimators
+908,Other,false,15-1052.00,"Computer Systems Analysts, Non R&D"
+909,Other,false,15-1053.00,"Computer Systems Analysts, R&D"
+910,Other,false,15-1054.00,"Computer Network Architects, Non R&D"
+911,Other,false,15-1055.00,"Computer Network Architects, R&D"
+912,Other,false,15-1111.00,Computer and Information Research Scientists
+913,Other,false,15-1121.00,Computer Systems Analysts
+914,Other,false,15-1121.01,Informatics Nurse Specialists
+915,Other,false,15-1122.00,Information Security Analysts
+916,Other,false,15-1131.00,Computer Programmers
+917,Other,false,15-1132.00,"Software Developers, Applications"
+918,Other,false,15-1133.00,"Software Developers, Systems Software"
+919,Other,false,15-1134.00,Web Developers
+920,Other,false,15-1141.00,Database Administrators
+921,Other,false,15-1142.00,Network and Computer Systems Administrators
+922,Other,false,15-1143.00,Computer Network Architects
+923,Other,false,15-1143.01,Telecommunications Engineering Specialists
+924,Other,false,15-1151.00,Computer User Support Specialists
+925,Other,false,15-1152.00,Computer Network Support Specialists
+926,Other,false,15-1199.00,"Computer Occupations, All Other"
+927,Other,false,15-1199.01,Software Quality Assurance Engineers and Testers
+928,Other,false,15-1199.02,Computer Systems Engineers/Architects
+929,Other,false,15-1199.03,Web Administrators
+930,Other,false,15-1199.04,Geospatial Information Scientists and Technologists
+931,Other,false,15-1199.05,Geographic Information Systems Technicians
+932,Other,false,15-1199.06,Database Architects
+933,Other,false,15-1199.07,Data Warehousing Specialists
+934,Other,false,15-1199.08,Business Intelligence Analysts
+935,Other,false,15-1199.09,Information Technology Project Managers
+936,Other,false,15-1199.10,Search Marketing Strategists
+937,Other,false,15-1199.11,Video Game Designers
+938,Other,false,15-1199.12,Document Management Specialists
+939,Other,false,15-1211.00,Computer Systems Analysts
+940,Other,false,15-1211.01,Health Informatics Specialists
+941,Other,false,15-1211.09,Computer Systems Analysts
+942,Other,false,15-1212.00,Information Security Analysts
+943,Other,false,15-1217.00,"Computer Systems Analysts, Non R&D"
+944,Other,false,15-1218.00,"Computer Systems Analysts, R&D"
+945,Other,false,15-1221.00,Computer and Information Research Scientists
+946,Other,false,15-1231.00,Computer Network Support Specialists
+947,Other,false,15-1232.00,Computer User Support Specialists
+948,Other,false,15-1241.00,Computer Network Architects
+949,Other,false,15-1241.01,Telecommunications Engineering Specialists
+950,Other,false,15-1242.00,Database Administrators
+951,Other,false,15-1243.00,Database Architects
+952,Other,false,15-1243.01,Data Warehousing Specialists
+953,Other,false,15-1244.00,Network and Computer Systems Administrators
+954,Other,false,15-1247.00,"Computer Network Architects, Non R&D"
+955,Other,false,15-1248.00,"Computer Network Architects, R&D"
+956,Other,false,15-1251.00,Computer Programmers
+957,Other,false,15-1252.00,Software Developers
+958,Other,false,15-1253.00,Software Quality Assurance Analysts and Testers
+959,Other,false,15-1254.00,Web Developers
+960,Other,false,15-1255.00,Web and Digital Interface Designers
+961,Other,false,15-1255.01,Video Game Designers
+962,Other,false,15-1263.00,Software Quality Assurance Analysts and Testers
+963,Other,false,15-1282.00,Software Developers
+964,Other,false,15-1293.00,"Computer Programmers, Non R&D"
+965,Other,false,15-1294.00,"Computer Programmers, R&D"
+966,Other,false,15-1295.00,"Software Developers, Non R&D"
+967,Other,false,15-1296.00,"Software Developers, R&D"
+968,Other,false,15-1297.00,"Software Quality Assurance Analysts and Testers, Non R&D"
+969,Other,false,15-1298.00,"Software Quality Assurance Analysts and Testers, R&D"
+970,Other,false,15-1299.00,"Computer Occupations, All Other"
+971,Other,false,15-1299.01,Web Administrators
+972,Other,false,15-1299.02,Geographic Information Systems Technologists and Technicians
+973,Other,false,15-1299.03,Document Management Specialists
+974,Other,false,15-1299.04,Penetration Testers
+975,Other,false,15-1299.05,Information Security Engineers
+976,Other,false,15-1299.06,Digital Forensics Analysts
+977,Other,false,15-1299.07,Blockchain Engineers
+978,Other,false,15-1299.08,Computer Systems Engineers/Architects
+979,Other,false,15-1299.09,Information Technology Project Managers
+980,Other,false,15-1299.99,Information Technology Project Managers
+981,Other,false,15-1399.08,Computer Systems Engineers/Architects
+982,Other,false,15-1521.00,Computer Programmers
+983,Other,false,15-2011.00,Actuaries
+984,Other,false,15-2021.00,Mathematicians
+985,Other,false,15-2031.00,Operations Research Analysts
+986,Other,false,15-2041.00,Statisticians
+987,Other,false,15-2041.01,Biostatisticians
+988,Other,false,15-2041.02,Clinical Data Managers
+989,Other,false,15-2043.00,Database Architects
+990,Other,false,15-2051.00,Data Scientists
+991,Other,false,15-2051.01,Business Intelligence Analysts
+992,Other,false,15-2051.02,Clinical Data Managers
+993,Other,false,15-2052.00,Software Developers
+994,Other,false,15-2071.00,Electrical Engineers
+995,Other,false,15-2099.00,"Mathematical Science Occupations, All Other"
+996,Other,false,15-2099.01,Bioinformatics Technicians
+997,Other,false,15-2141.00,Computer Network Architects
+998,Other,false,17-1011.00,"Architects, Except Landscape and Naval"
+999,Other,false,17-1012.00,Landscape Architects
+1000,Other,false,17-1021.00,Cartographers and Photogrammetrists
+1001,Other,false,17-1022.00,Surveyors
+1002,Other,false,17-1022.01,Geodetic Surveyors
+1003,Other,false,17-1199.05,Mechatronics Engineers
+1004,Other,false,17-1241.00,Mechanical Engineers
+1005,Other,false,17-1252.00,Software Developers
+1006,Other,false,17-1299.08,Robotics Engineers
+1007,Other,false,17-2011.00,Aerospace Engineers
+1008,Other,false,17-2021.00,Agricultural Engineers
+1009,Other,false,17-2031.00,Bioengineers and Biomedical Engineers
+1010,Other,false,17-2041.00,Chemical Engineers
+1011,Other,false,17-2051.00,Civil Engineers
+1012,Other,false,17-2051.01,Transportation Engineers
+1013,Other,false,17-2051.02,Water/Wastewater Engineers
+1014,Other,false,17-2052.00,"Civil Engineers, NonR&D"
+1015,Other,false,17-2053.00,"Civil Engineers, R&D"
+1016,Other,false,17-2061.00,Computer Hardware Engineers
+1017,Other,false,17-2062.00,"Computer Hardware Engineers, Non R&D"
+1018,Other,false,17-2063.00,"Computer Hardware Engineers, R&D"
+1019,Other,false,17-2071.00,Electrical Engineers
+1020,Other,false,17-2072.00,"Electronics Engineers, Except Computer"
+1021,Other,false,17-2072.01,Radio Frequency Identification Device Specialists
+1022,Other,false,17-2073.00,"Electrical Engineers, NonR&D"
+1023,Other,false,17-2074.00,"Electrical Engineers, R&D"
+1024,Other,false,17-2075.00,"Electronics Engineers, Except Computer, NonR&D"
+1025,Other,false,17-2076.00,"Electronics Engineers, Except Computer, R&D"
+1026,Other,false,17-2081.00,Environmental Engineers
+1027,Other,false,17-2081.01,Water/Wastewater Engineers
+1028,Other,false,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+1029,Other,false,17-2111.01,Industrial Safety and Health Engineers
+1030,Other,false,17-2111.02,Fire-Prevention and Protection Engineers
+1031,Other,false,17-2111.03,Product Safety Engineers
+1032,Other,false,17-2112.00,Industrial Engineers
+1033,Other,false,17-2112.01,Human Factors Engineers and Ergonomists
+1034,Other,false,17-2112.02,Validation Engineers
+1035,Other,false,17-2112.03,Manufacturing Engineers
+1036,Other,false,17-2121.00,Marine Engineers and Naval Architects
+1037,Other,false,17-2121.01,Marine Engineers
+1038,Other,false,17-2121.02,Marine Architects
+1039,Other,false,17-2131.00,Materials Engineers
+1040,Other,false,17-2141.00,Mechanical Engineers
+1041,Other,false,17-2141.01,Fuel Cell Engineers
+1042,Other,false,17-2141.02,Automotive Engineers
+1043,Other,false,17-2143.00,"Mechanical Engineers, NonR&D"
+1044,Other,false,17-2144.00,"Mechanical Engineers, R&D"
+1045,Other,false,17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers"
+1046,Other,false,17-2161.00,Nuclear Engineers
+1047,Other,false,17-2171.00,Petroleum Engineers
+1048,Other,false,17-2171.01,Mechanical Engineers
+1049,Other,false,17-2199.00,"Engineers, All Other"
+1050,Other,false,17-2199.01,Biochemical Engineers
+1051,Other,false,17-2199.02,Validation Engineers
+1052,Other,false,17-2199.03,"Energy Engineers, Except Wind and Solar"
+1053,Other,false,17-2199.04,Manufacturing Engineers
+1054,Other,false,17-2199.05,Mechatronics Engineers
+1055,Other,false,17-2199.06,Microsystems Engineers
+1056,Other,false,17-2199.07,Photonics Engineers
+1057,Other,false,17-2199.08,Robotics Engineers
+1058,Other,false,17-2199.09,Nanosystems Engineers
+1059,Other,false,17-2199.10,Wind Energy Engineers
+1060,Other,false,17-2199.11,Solar Energy Systems Engineers
+1061,Other,false,17-2711.00,Electrical Engineers
+1062,Other,false,17-3011.00,Architectural and Civil Drafters
+1063,Other,false,17-3011.01,Architectural Drafters
+1064,Other,false,17-3011.02,Civil Drafters
+1065,Other,false,17-3012.00,Electrical and Electronics Drafters
+1066,Other,false,17-3012.01,Electronic Drafters
+1067,Other,false,17-3013.00,Mechanical Drafters
+1068,Other,false,17-3019.00,"Drafters, All Other"
+1069,Other,false,17-3021.00,Aerospace Engineering and Operations Technologists and Technicians
+1070,Other,false,17-3022.00,Civil Engineering Technologists and Technicians
+1071,Other,false,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians
+1072,Other,false,17-3023.01,Electronics Engineering Technicians
+1073,Other,false,17-3023.03,Electrical Engineering Technicians
+1074,Other,false,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians
+1075,Other,false,17-3024.01,Robotics Technicians
+1076,Other,false,17-3025.00,Environmental Engineering Technologists and Technicians
+1077,Other,false,17-3026.00,Industrial Engineering Technologists and Technicians
+1078,Other,false,17-3026.01,Nanotechnology Engineering Technologists and Technicians
+1079,Other,false,17-3027.00,Mechanical Engineering Technologists and Technicians
+1080,Other,false,17-3027.01,Automotive Engineering Technicians
+1081,Other,false,17-3028.00,Calibration Technologists and Technicians
+1082,Other,false,17-3029.00,"Engineering Technologists and Technicians, Except Drafters, All Other"
+1083,Other,false,17-3029.02,Electrical Engineering Technologists
+1084,Other,false,17-3029.03,Electromechanical Engineering Technologists
+1085,Other,false,17-3029.04,Electronics Engineering Technologists
+1086,Other,false,17-3029.05,Industrial Engineering Technologists
+1087,Other,false,17-3029.06,Manufacturing Engineering Technologists
+1088,Other,false,17-3029.07,Mechanical Engineering Technologists
+1089,Other,false,17-3029.08,Photonics Technicians
+1090,Other,false,17-3029.11,Nanotechnology Engineering Technologists
+1091,Other,false,17-3031.00,Surveying and Mapping Technicians
+1092,Other,false,19-1011.00,Animal Scientists
+1093,Other,false,19-1012.00,Food Scientists and Technologists
+1094,Other,false,19-1012.02,Molecular and Cellular Biologists
+1095,Other,false,19-1013.00,Soil and Plant Scientists
+1096,Other,false,19-1020.01,Biologists
+1097,Other,false,19-1021.00,Biochemists and Biophysicists
+1098,Other,false,19-1022.00,Microbiologists
+1099,Other,false,19-1023.00,Zoologists and Wildlife Biologists
+1100,Other,false,19-1029.00,"Biological Scientists, All Other"
+1101,Other,false,19-1029.01,Bioinformatics Scientists
+1102,Other,false,19-1029.02,Molecular and Cellular Biologists
+1103,Other,false,19-1029.03,Geneticists
+1104,Other,false,19-1029.04,Biologists
+1105,Other,false,19-1029.09,MOLECULAR AND CELLULAR BIOLOGISTS
+1106,Other,false,19-1031.00,Conservation Scientists
+1107,Other,false,19-1031.01,Soil and Water Conservationists
+1108,Other,false,19-1031.02,Range Managers
+1109,Other,false,19-1032.00,Foresters
+1110,Other,false,19-1041.00,Epidemiologists
+1111,Other,false,19-1042.00,"Medical Scientists, Except Epidemiologists"
+1112,Other,false,19-1099.00,"Life Scientists, All Other"
+1113,Other,false,19-2011.00,Astronomers
+1114,Other,false,19-2012.00,Physicists
+1115,Other,false,19-2021.00,Atmospheric and Space Scientists
+1116,Other,false,19-2031.00,Chemists
+1117,Other,false,19-2032.00,Materials Scientists
+1118,Other,false,19-2041.00,"Environmental Scientists and Specialists, Including Health"
+1119,Other,false,19-2041.01,Climate Change Policy Analysts
+1120,Other,false,19-2041.02,Environmental Restoration Planners
+1121,Other,false,19-2041.03,Industrial Ecologists
+1122,Other,false,19-2042.00,"Geoscientists, Except Hydrologists and Geographers"
+1123,Other,false,19-2043.00,Hydrologists
+1124,Other,false,19-2051.00,Pharmacists
+1125,Other,false,19-2099.00,"Physical Scientists, All Other"
+1126,Other,false,19-2099.01,Remote Sensing Scientists and Technologists
+1127,Other,false,19-3011.00,Economists
+1128,Other,false,19-3011.01,Environmental Economists
+1129,Other,false,19-3022.00,Survey Researchers
+1130,Other,false,19-3031.00,"Clinical, Counseling, and School Psychologists"
+1131,Other,false,19-3031.01,School Psychologists
+1132,Other,false,19-3031.02,Clinical Psychologists
+1133,Other,false,19-3031.03,Counseling Psychologists
+1134,Other,false,19-3032.00,Industrial-Organizational Psychologists
+1135,Other,false,19-3033.00,Clinical and Counseling Psychologists
+1136,Other,false,19-3034.00,School Psychologists
+1137,Other,false,19-3039.00,"Psychologists, All Other"
+1138,Other,false,19-3039.01,Neuropsychologists and Clinical Neuropsychologists
+1139,Other,false,19-3039.02,Neuropsychologists
+1140,Other,false,19-3039.03,Clinical Neuropsychologists
+1141,Other,false,19-3041.00,Sociologists
+1142,Other,false,19-3051.00,Urban and Regional Planners
+1143,Other,false,19-3091.00,Anthropologists and Archeologists
+1144,Other,false,19-3091.01,Anthropologists
+1145,Other,false,19-3091.02,Archeologists
+1146,Other,false,19-3092.00,Geographers
+1147,Other,false,19-3093.00,Historians
+1148,Other,false,19-3094.00,Political Scientists
+1149,Other,false,19-3099.00,"Social Scientists and Related Workers, All Other"
+1150,Other,false,19-3099.01,Transportation Planners
+1151,Other,false,19-4011.00,Agricultural and Food Science Technicians
+1152,Other,false,19-4011.01,Agricultural Technicians
+1153,Other,false,19-4011.02,Food Science Technicians
+1154,Other,false,19-4012.00,Agricultural Technicians
+1155,Other,false,19-4012.01,Precision Agriculture Technicians
+1156,Other,false,19-4013.00,Food Science Technicians
+1157,Other,false,19-4021.00,Biological Technicians
+1158,Other,false,19-4031.00,Chemical Technicians
+1159,Other,false,19-4041.00,Geological and Petroleum Technicians
+1160,Other,false,19-4041.01,Geophysical Data Technicians
+1161,Other,false,19-4042.00,"Environmental Science and Protection Technicians, Including Health"
+1162,Other,false,19-4043.00,"Geological Technicians, Except Hydrologic Technicians"
+1163,Other,false,19-4051.00,Nuclear Technicians
+1164,Other,false,19-4051.01,Nuclear Equipment Operation Technicians
+1165,Other,false,19-4061.00,Social Science Research Assistants
+1166,Other,false,19-4061.01,City and Regional Planning Aides
+1167,Other,false,19-4071.00,Forest and Conservation Technicians
+1168,Other,false,19-4091.00,"Environmental Science and Protection Technicians, Including Health"
+1169,Other,false,19-4092.00,Forensic Science Technicians
+1170,Other,false,19-4099.00,"Life, Physical, and Social Science Technicians, All Other"
+1171,Other,false,19-4099.01,Quality Control Analysts
+1172,Other,false,19-4099.02,Precision Agriculture Technicians
+1173,Other,false,19-4099.03,Remote Sensing Technicians
+1174,Other,false,19-5011.00,Occupational Health and Safety Specialists
+1175,Other,false,19-5012.00,Occupational Health and Safety Technicians
+1176,Other,false,19-9121.01,Clinical Research Coordinators
+1177,Other,false,20-1011.00,"Business Teachers, Postsecondary"
+1178,Other,false,20-1021.00,"Computer Science Teachers, Postsecondary"
+1179,Other,false,21-1011.00,Substance Abuse and Behavioral Disorder Counselors
+1180,Other,false,21-1012.00,"Educational, Guidance, and Career Counselors and Advisors"
+1181,Other,false,21-1013.00,Marriage and Family Therapists
+1182,Other,false,21-1014.00,Mental Health Counselors
+1183,Other,false,21-1015.00,Rehabilitation Counselors
+1184,Other,false,21-1019.00,"Counselors, All Other"
+1185,Other,false,21-1021.00,"Child, Family, and School Social Workers"
+1186,Other,false,21-1022.00,Healthcare Social Workers
+1187,Other,false,21-1023.00,Mental Health and Substance Abuse Social Workers
+1188,Other,false,21-1029.00,"Social Workers, All Other"
+1189,Other,false,21-1091.00,Health Education Specialists
+1190,Other,false,21-1093.00,Social and Human Service Assistants
+1191,Other,false,21-1094.00,Community Health Workers
+1192,Other,false,21-1099.00,"Community and Social Service Specialists, All Other"
+1193,Other,false,21-2011.00,Clergy
+1194,Other,false,21-2021.00,"Directors, Religious Activities and Education"
+1195,Other,false,21-2099.00,"Religious Workers, All Other"
+1196,Other,false,23-1011.00,Lawyers
+1197,Other,false,23-1012.00,Judicial Law Clerks
+1198,Other,false,23-1021.00,"Administrative Law Judges, Adjudicators, and Hearing Officers"
+1199,Other,false,23-1022.00,"Arbitrators, Mediators, and Conciliators"
+1200,Other,false,23-2011.00,Paralegals and Legal Assistants
+1201,Other,false,23-2093.00,"Title Examiners, Abstractors, and Searchers"
+1202,Other,false,23-2099.00,"Legal Support Workers, All Other"
+1203,Other,false,24-1124.00,"Foreign Language and Literature Teachers, Postsecondary"
+1204,Other,false,25-1011.00,"Business Teachers, Postsecondary"
+1205,Other,false,25-1021.00,"Computer Science Teachers, Postsecondary"
+1206,Other,false,25-1022.00,"Mathematical Science Teachers, Postsecondary"
+1207,Other,false,25-1031.00,"Architecture Teachers, Postsecondary"
+1208,Other,false,25-1032.00,"Engineering Teachers, Postsecondary"
+1209,Other,false,25-1041.00,"Agricultural Sciences Teachers, Postsecondary"
+1210,Other,false,25-1042.00,"Biological Science Teachers, Postsecondary"
+1211,Other,false,25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary"
+1212,Other,false,25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+1213,Other,false,25-1052.00,"Chemistry Teachers, Postsecondary"
+1214,Other,false,25-1053.00,"Environmental Science Teachers, Postsecondary"
+1215,Other,false,25-1054.00,"Physics Teachers, Postsecondary"
+1216,Other,false,25-1056.00,"Psychology Teachers, Postsecondary"
+1217,Other,false,25-1061.00,"Anthropology and Archeology Teachers, Postsecondary"
+1218,Other,false,25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+1219,Other,false,25-1063.00,"Economics Teachers, Postsecondary"
+1220,Other,false,25-1064.00,"Geography Teachers, Postsecondary"
+1221,Other,false,25-1065.00,"Political Science Teachers, Postsecondary"
+1222,Other,false,25-1066.00,"Psychology Teachers, Postsecondary"
+1223,Other,false,25-1067.00,"Sociology Teachers, Postsecondary"
+1224,Other,false,25-1069.00,"Social Sciences Teachers, Postsecondary, All Other"
+1225,Other,false,25-1071.00,"Health Specialties Teachers, Postsecondary"
+1226,Other,false,25-1072.00,"Nursing Instructors and Teachers, Postsecondary"
+1227,Other,false,25-1081.00,"Education Teachers, Postsecondary"
+1228,Other,false,25-1082.00,"Library Science Teachers, Postsecondary"
+1229,Other,false,25-1099.00,"Postsecondary Teachers, All Other"
+1230,Other,false,25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary"
+1231,Other,false,25-1112.00,"Law Teachers, Postsecondary"
+1232,Other,false,25-1113.00,"Social Work Teachers, Postsecondary"
+1233,Other,false,25-1121.00,"Art, Drama, and Music Teachers, Postsecondary"
+1234,Other,false,25-1122.00,"Communications Teachers, Postsecondary"
+1235,Other,false,25-1123.00,"English Language and Literature Teachers, Postsecondary"
+1236,Other,false,25-1124.00,"Foreign Language and Literature Teachers, Postsecondary"
+1237,Other,false,25-1125.00,"History Teachers, Postsecondary"
+1238,Other,false,25-1126.00,"Philosophy and Religion Teachers, Postsecondary"
+1239,Other,false,25-1191.00,Graduate Teaching Assistants
+1240,Other,false,25-1192.00,"Family and Consumer Sciences Teachers, Postsecondary"
+1241,Other,false,25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary"
+1242,Other,false,25-1194.00,"Career/Technical Education Teachers, Postsecondary"
+1243,Other,false,25-1199.00,"Postsecondary Teachers, All Other"
+1244,Other,false,25-2011.00,"Preschool Teachers, Except Special Education"
+1245,Other,false,25-2012.00,"Kindergarten Teachers, Except Special Education"
+1246,Other,false,25-2021.00,"Elementary School Teachers, Except Special Education"
+1247,Other,false,25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education"
+1248,Other,false,25-2023.00,"Career/Technical Education Teachers, Middle School"
+1249,Other,false,25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education"
+1250,Other,false,25-2032.00,"Career/Technical Education Teachers, Secondary School"
+1251,Other,false,25-2051.00,"Special Education Teachers, Preschool"
+1252,Other,false,25-2052.00,"Special Education Teachers, Kindergarten and Elementary School"
+1253,Other,false,25-2053.00,"Special Education Teachers, Middle School"
+1254,Other,false,25-2054.00,"Special Education Teachers, Secondary School"
+1255,Other,false,25-2055.00,"Special Education Teachers, Kindergarten"
+1256,Other,false,25-2056.00,"Special Education Teachers, Elementary School"
+1257,Other,false,25-2057.00,"Special Education Teachers, Middle School"
+1258,Other,false,25-2058.00,"Special Education Teachers, Secondary School"
+1259,Other,false,25-2059.00,"Special Education Teachers, All Other"
+1260,Other,false,25-2059.01,Adapted Physical Education Specialists
+1261,Other,false,25-3011.00,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"
+1262,Other,false,25-3021.00,Self-Enrichment Teachers
+1263,Other,false,25-3031.00,"Substitute Teachers, Short-Term"
+1264,Other,false,25-3041.00,Tutors
+1265,Other,false,25-3099.00,"Teachers and Instructors, All Other"
+1266,Other,false,25-3099.02,Tutors
+1267,Other,false,25-4011.00,Archivists
+1268,Other,false,25-4012.00,Curators
+1269,Other,false,25-4013.00,Museum Technicians and Conservators
+1270,Other,false,25-4021.00,Librarians
+1271,Other,false,25-4022.00,Librarians and Media Collections Specialists
+1272,Other,false,25-4031.00,Library Technicians
+1273,Other,false,25-9011.00,Audio-Visual and Multimedia Collections Specialists
+1274,Other,false,25-9021.00,Farm and Home Management Educators
+1275,Other,false,25-9031.00,Instructional Coordinators
+1276,Other,false,25-9031.01,Instructional Designers and Technologists
+1277,Other,false,25-9041.00,Teacher Assistants
+1278,Other,false,25-9042.00,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education"
+1279,Other,false,25-9043.00,"Teaching Assistants, Special Education"
+1280,Other,false,25-9044.00,"Teaching Assistants, Postsecondary"
+1281,Other,false,25-9049.00,"Teaching Assistants, All Other"
+1282,Other,false,25-9099.00,"Educational Instruction and Library Workers, All Other"
+1283,Other,false,27-1011.00,Art Directors
+1284,Other,false,27-1012.00,Craft Artists
+1285,Other,false,27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+1286,Other,false,27-1014.00,Special Effects Artists and Animators
+1287,Other,false,27-1019.00,"Artists and Related Workers, All Other"
+1288,Other,false,27-1021.00,Commercial and Industrial Designers
+1289,Other,false,27-1022.00,Fashion Designers
+1290,Other,false,27-1023.00,Floral Designers
+1291,Other,false,27-1024.00,Graphic Designers
+1292,Other,false,27-1025.00,Interior Designers
+1293,Other,false,27-1027.00,Set and Exhibit Designers
+1294,Other,false,27-1029.00,"Designers, All Other"
+1295,Other,false,27-2011.00,Actors
+1296,Other,false,27-2012.00,Producers and Directors
+1297,Other,false,27-2012.01,Producers
+1298,Other,false,27-2012.02,"Directors- Stage, Motion Pictures, Television, and Radio"
+1299,Other,false,27-2012.03,Media Programming Directors
+1300,Other,false,27-2012.04,Talent Directors
+1301,Other,false,27-2012.05,Media Technical Directors/Managers
+1302,Other,false,27-2022.00,Coaches and Scouts
+1303,Other,false,27-2031.00,Dancers
+1304,Other,false,27-2032.00,Choreographers
+1305,Other,false,27-2041.00,Music Directors and Composers
+1306,Other,false,27-2041.01,Music Directors
+1307,Other,false,27-2042.00,Musicians and Singers
+1308,Other,false,27-2042.02,"Musicians, Instrumental"
+1309,Other,false,27-2099.00,"Entertainers and Performers, Sports and Related Workers, All Other"
+1310,Other,false,27-3011.00,Broadcast Announcers and Radio Disc Jockeys
+1311,Other,false,27-3021.00,Broadcast News Analysts
+1312,Other,false,27-3022.00,Reporters and Correspondents
+1313,Other,false,27-3023.00,"News Analysts, Reporters, and Journalists"
+1314,Other,false,27-3031.00,Public Relations Specialists
+1315,Other,false,27-3041.00,Editors
+1316,Other,false,27-3042.00,Technical Writers
+1317,Other,false,27-3043.00,Writers and Authors
+1318,Other,false,27-3043.04,Copy Writers
+1319,Other,false,27-3043.05,"Poets, Lyricists and Creative Writers"
+1320,Other,false,27-3091.00,Interpreters and Translators
+1321,Other,false,27-3099.00,"Media and Communication Workers, All Other"
+1322,Other,false,27-4011.00,Audio and Video Technicians
+1323,Other,false,27-4012.00,Broadcast Technicians
+1324,Other,false,27-4014.00,Sound Engineering Technicians
+1325,Other,false,27-4015.00,Lighting Technicians
+1326,Other,false,27-4021.00,Photographers
+1327,Other,false,27-4031.00,"Camera Operators, Television, Video, and Film"
+1328,Other,false,27-4032.00,Film and Video Editors
+1329,Other,false,27-4099.00,"Media and Communication Equipment Workers, All Other"
+1330,Other,false,29-1011.00,Chiropractors
+1331,Other,false,29-1021.00,"Dentists, General"
+1332,Other,false,29-1022.00,Oral and Maxillofacial Surgeons
+1333,Other,false,29-1023.00,Orthodontists
+1334,Other,false,29-1024.00,Prosthodontists
+1335,Other,false,29-1029.00,"Dentists, All Other Specialists"
+1336,Other,false,29-1031.00,Dietitians and Nutritionists
+1337,Other,false,29-1041.00,Optometrists
+1338,Other,false,29-1051.00,Pharmacists
+1339,Other,false,29-1061.00,Anesthesiologists
+1340,Other,false,29-1062.00,Family and General Practitioners
+1341,Other,false,29-1063.00,"Internists, General"
+1342,Other,false,29-1064.00,Obstetricians and Gynecologists
+1343,Other,false,29-1065.00,"Pediatricians, General"
+1344,Other,false,29-1066.00,Psychiatrists
+1345,Other,false,29-1067.00,Surgeons
+1346,Other,false,29-1069.00,"Physicians and Surgeons, All Other"
+1347,Other,false,29-1069.01,Allergists and Immunologists
+1348,Other,false,29-1069.02,Dermatologists
+1349,Other,false,29-1069.03,Hospitalists
+1350,Other,false,29-1069.04,Neurologists
+1351,Other,false,29-1069.06,Ophthalmologists
+1352,Other,false,29-1069.07,Pathologists
+1353,Other,false,29-1069.08,Physical Medicine and Rehabilitation Physicians
+1354,Other,false,29-1069.09,Preventive Medicine Physicians
+1355,Other,false,29-1069.10,Radiologists
+1356,Other,false,29-1069.11,Sports Medicine Physicians
+1357,Other,false,29-1069.12,Urologists
+1358,Other,false,29-1071.00,Physician Assistants
+1359,Other,false,29-1071.01,Anesthesiologist Assistants
+1360,Other,false,29-1081.00,Podiatrists
+1361,Other,false,29-1122.00,Occupational Therapists
+1362,Other,false,29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists"
+1363,Other,false,29-1123.00,Physical Therapists
+1364,Other,false,29-1124.00,Radiation Therapists
+1365,Other,false,29-1125.00,Recreational Therapists
+1366,Other,false,29-1125.01,Art Therapists
+1367,Other,false,29-1125.02,Music Therapists
+1368,Other,false,29-1126.00,Respiratory Therapists
+1369,Other,false,29-1127.00,Speech-Language Pathologists
+1370,Other,false,29-1128.00,Exercise Physiologists
+1371,Other,false,29-1129.00,"Therapists, All Other"
+1372,Other,false,29-1129.01,Art Therapists
+1373,Other,false,29-1129.02,Music Therapists
+1374,Other,false,29-1131.00,Veterinarians
+1375,Other,false,29-1141.00,Registered Nurses
+1376,Other,false,29-1141.01,Acute Care Nurses
+1377,Other,false,29-1141.02,Advanced Practice Psychiatric Nurses
+1378,Other,false,29-1141.03,Critical Care Nurses
+1379,Other,false,29-1141.04,Clinical Nurse Specialists
+1380,Other,false,29-1151.00,Nurse Anesthetists
+1381,Other,false,29-1161.00,Nurse Midwives
+1382,Other,false,29-1171.00,Nurse Practitioners
+1383,Other,false,29-1181.00,Audiologists
+1384,Other,false,29-1199.00,"Health Diagnosing and Treating Practitioners, All Other"
+1385,Other,false,29-1199.01,Acupuncturists
+1386,Other,false,29-1199.04,Naturopathic Physicians
+1387,Other,false,29-1199.05,Orthoptists
+1388,Other,false,29-1211.00,Anesthesiologists
+1389,Other,false,29-1212.00,Cardiologists
+1390,Other,false,29-1213.00,Dermatologists
+1391,Other,false,29-1214.00,Emergency Medicine Physicians
+1392,Other,false,29-1215.00,Family Medicine Physicians
+1393,Other,false,29-1216.00,General Internal Medicine Physicians
+1394,Other,false,29-1217.00,Neurologists
+1395,Other,false,29-1218.00,Obstetricians and Gynecologists
+1396,Other,false,29-1221.00,"Pediatricians, General"
+1397,Other,false,29-1222.00,"Physicians, Pathologists"
+1398,Other,false,29-1223.00,Psychiatrists
+1399,Other,false,29-1224.00,Radiologists
+1400,Other,false,29-1229.00,"Physicians, All Other"
+1401,Other,false,29-1229.01,Allergists and Immunologists
+1402,Other,false,29-1229.02,Hospitalists
+1403,Other,false,29-1229.03,Urologists
+1404,Other,false,29-1229.04,Physical Medicine and Rehabilitation Physicians
+1405,Other,false,29-1229.05,Preventive Medicine Physicians
+1406,Other,false,29-1229.06,Sports Medicine Physicians
+1407,Other,false,29-1241.00,"Ophthalmologists, Except Pediatric"
+1408,Other,false,29-1242.00,"Orthopedic Surgeons, Except Pediatric"
+1409,Other,false,29-1243.00,Pediatric Surgeons
+1410,Other,false,29-1249.00,"Surgeons, All Other"
+1411,Other,false,29-1291.00,Acupuncturists
+1412,Other,false,29-1292.00,Dental Hygienists
+1413,Other,false,29-1299.00,"Healthcare Diagnosing or Treating Practitioners, All Other"
+1414,Other,false,29-1299.01,Naturopathic Physicians
+1415,Other,false,29-1299.02,Orthoptists
+1416,Other,false,29-1992.01,Allergists and Immunologists
+1417,Other,false,29-2011.00,Medical and Clinical Laboratory Technologists
+1418,Other,false,29-2011.01,Cytogenetic Technologists
+1419,Other,false,29-2011.02,Cytotechnologists
+1420,Other,false,29-2011.03,Histotechnologists and Histologic Technicians
+1421,Other,false,29-2011.04,Histotechnologists
+1422,Other,false,29-2012.00,Medical and Clinical Laboratory Technicians
+1423,Other,false,29-2012.01,Histology Technicians
+1424,Other,false,29-2031.00,Cardiovascular Technologists and Technicians
+1425,Other,false,29-2032.00,Diagnostic Medical Sonographers
+1426,Other,false,29-2033.00,Nuclear Medicine Technologists
+1427,Other,false,29-2034.00,Radiologic Technologists and Technicians
+1428,Other,false,29-2035.00,Magnetic Resonance Imaging Technologists
+1429,Other,false,29-2036.00,Medical Dosimetrists
+1430,Other,false,29-2043.00,Paramedics
+1431,Other,false,29-2052.00,Pharmacy Technicians
+1432,Other,false,29-2053.00,Psychiatric Technicians
+1433,Other,false,29-2055.00,Surgical Technologists
+1434,Other,false,29-2056.00,Veterinary Technologists and Technicians
+1435,Other,false,29-2057.00,Ophthalmic Medical Technicians
+1436,Other,false,29-2061.00,Licensed Practical and Licensed Vocational Nurses
+1437,Other,false,29-2072.00,Medical Records Specialists
+1438,Other,false,29-2081.00,"Opticians, Dispensing"
+1439,Other,false,29-2091.00,Orthotists and Prosthetists
+1440,Other,false,29-2092.00,Hearing Aid Specialists
+1441,Other,false,29-2099.00,"Health Technologists and Technicians, All Other"
+1442,Other,false,29-2099.01,Neurodiagnostic Technologists
+1443,Other,false,29-2099.07,Surgical Assistants
+1444,Other,false,29-2099.08,Patient Representatives
+1445,Other,false,29-9011.00,Occupational Health and Safety Specialists
+1446,Other,false,29-9021.00,Health Information Technologists and Medical Registrars
+1447,Other,false,29-9091.00,Athletic Trainers
+1448,Other,false,29-9092.00,Genetic Counselors
+1449,Other,false,29-9093.00,Surgical Assistants
+1450,Other,false,29-9099.00,"Healthcare Practitioners and Technical Workers, All Other"
+1451,Other,false,29-9099.01,Midwives
+1452,Other,false,31-1011.00,Home Health Aides
+1453,Other,false,31-1013.00,Psychiatric Aides
+1454,Other,false,31-1121.00,Home Health Aides
+1455,Other,false,31-1122.00,Personal Care Aides
+1456,Other,false,31-1131.00,Nursing Assistants
+1457,Other,false,31-1133.00,Psychiatric Aides
+1458,Other,false,31-2011.00,Occupational Therapy Assistants
+1459,Other,false,31-2021.00,Physical Therapist Assistants
+1460,Other,false,31-2022.00,Physical Therapist Aides
+1461,Other,false,31-9091.00,Dental Assistants
+1462,Other,false,31-9092.00,Medical Assistants
+1463,Other,false,31-9094.00,Medical Transcriptionists
+1464,Other,false,31-9096.00,Veterinary Assistants and Laboratory Animal Caretakers
+1465,Other,false,31-9099.00,"Healthcare Support Workers, All Other"
+1466,Other,false,31-9099.01,Speech-Language Pathology Assistants
+1467,Other,false,33-3021.00,Detectives and Criminal Investigators
+1468,Other,false,33-3021.06,Intelligence Analysts
+1469,Other,false,33-9021.00,Private Detectives and Investigators
+1470,Other,false,35-1011.00,Chefs and Head Cooks
+1471,Other,false,35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers
+1472,Other,false,35-2012.00,"Cooks, Institution and Cafeteria"
+1473,Other,false,35-2014.00,"Cooks, Restaurant"
+1474,Other,false,35-3011.00,Bartenders
+1475,Other,false,35-3022.01,Baristas
+1476,Other,false,35-3023.00,Fast Food and Counter Workers
+1477,Other,false,35-3023.01,Baristas
+1478,Other,false,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+1479,Other,false,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers
+1480,Other,false,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+1481,Other,false,37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+1482,Other,false,37-2019.00,"Building Cleaning Workers, All Other"
+1483,Other,false,37-3011.00,Landscaping and Groundskeeping Workers
+1484,Other,false,37-3043.05,"POETS, LYRICISTS AND CREATIVE WRITERS"
+1485,Other,false,39-1014.00,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services"
+1486,Other,false,39-1022.00,First-Line Supervisors of Personal Service Workers
+1487,Other,false,39-2011.00,Animal Trainers
+1488,Other,false,39-2021.00,Animal Caretakers
+1489,Other,false,39-3091.00,Amusement and Recreation Attendants
+1490,Other,false,39-5011.00,Barbers
+1491,Other,false,39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists"
+1492,Other,false,39-6012.00,Concierges
+1493,Other,false,39-7011.00,Tour Guides and Escorts
+1494,Other,false,39-7012.00,Travel Guides
+1495,Other,false,39-9011.00,Childcare Workers
+1496,Other,false,39-9031.00,Exercise Trainers and Group Fitness Instructors
+1497,Other,false,39-9032.00,Recreation Workers
+1498,Other,false,39-9041.00,Residential Advisors
+1499,Other,false,39-9099.00,"Personal Care and Service Workers, All Other"
+1500,Other,false,40-9031.00,Sales Engineer
+1501,Other,false,41-1011.00,First-Line Supervisors of Retail Sales Workers
+1502,Other,false,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers
+1503,Other,false,41-2011.00,Cashiers
+1504,Other,false,41-2022.00,Parts Salespersons
+1505,Other,false,41-2031.00,Retail Salespersons
+1506,Other,false,41-3011.00,Advertising Sales Agents
+1507,Other,false,41-3021.00,Insurance Sales Agents
+1508,Other,false,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents"
+1509,Other,false,41-3031.01,"Sales Agents, Securities and Commodities"
+1510,Other,false,41-3031.02,"Sales Agents, Financial Services"
+1511,Other,false,41-3031.03,Securities and Commodities Traders
+1512,Other,false,41-3041.00,Travel Agents
+1513,Other,false,41-3091.00,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
+1514,Other,false,41-3099.00,"Sales Representatives, Services, All Other"
+1515,Other,false,41-3099.01,Energy Brokers
+1516,Other,false,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+1517,Other,false,41-4011.07,Solar Sales Representatives and Assessors
+1518,Other,false,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+1519,Other,false,41-9012.00,Models
+1520,Other,false,41-9021.00,Real Estate Brokers
+1521,Other,false,41-9022.00,Real Estate Sales Agents
+1522,Other,false,41-9031.00,Sales Engineers
+1523,Other,false,41-9091.00,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers"
+1524,Other,false,41-9099.00,"Sales and Related Workers, All Other"
+1525,Other,false,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers
+1526,Other,false,43-2099.00,"Communications Equipment Operators, All Other"
+1527,Other,false,43-3011.00,Bill and Account Collectors
+1528,Other,false,43-3021.00,Billing and Posting Clerks
+1529,Other,false,43-3021.02,"Billing, Cost, and Rate Clerks"
+1530,Other,false,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks"
+1531,Other,false,43-3051.00,Payroll and Timekeeping Clerks
+1532,Other,false,43-3061.00,Procurement Clerks
+1533,Other,false,43-3099.00,"Financial Clerks, All Other"
+1534,Other,false,43-4011.00,Brokerage Clerks
+1535,Other,false,43-4031.00,"Court, Municipal, and License Clerks"
+1536,Other,false,43-4041.00,"Credit Authorizers, Checkers, and Clerks"
+1537,Other,false,43-4051.00,Customer Service Representatives
+1538,Other,false,43-4051.03,Patient Representatives
+1539,Other,false,43-4071.00,File Clerks
+1540,Other,false,43-4081.00,"Hotel, Motel, and Resort Desk Clerks"
+1541,Other,false,43-4111.00,"Interviewers, Except Eligibility and Loan"
+1542,Other,false,43-4131.00,Loan Interviewers and Clerks
+1543,Other,false,43-4141.00,New Accounts Clerks
+1544,Other,false,43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping"
+1545,Other,false,43-4181.00,Reservation and Transportation Ticket Agents and Travel Clerks
+1546,Other,false,43-4199.00,"Information and Record Clerks, All Other"
+1547,Other,false,43-5011.00,Cargo and Freight Agents
+1548,Other,false,43-5031.00,Public Safety Telecommunicators
+1549,Other,false,43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance"
+1550,Other,false,43-5061.00,"Production, Planning, and Expediting Clerks"
+1551,Other,false,43-5071.00,"Shipping, Receiving, and Inventory Clerks"
+1552,Other,false,43-5081.00,Stock Clerks and Order Fillers
+1553,Other,false,43-5081.03,"Stock Clerks- Stockroom, Warehouse, or Storage Yard"
+1554,Other,false,43-6011.00,Executive Secretaries and Executive Administrative Assistants
+1555,Other,false,43-6012.00,Legal Secretaries and Administrative Assistants
+1556,Other,false,43-6013.00,Medical Secretaries and Administrative Assistants
+1557,Other,false,43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+1558,Other,false,43-9021.00,Data Entry Keyers
+1559,Other,false,43-9022.00,Word Processors and Typists
+1560,Other,false,43-9031.00,Desktop Publishers
+1561,Other,false,43-9041.00,Insurance Claims and Policy Processing Clerks
+1562,Other,false,43-9061.00,"Office Clerks, General"
+1563,Other,false,43-9081.00,Proofreaders and Copy Markers
+1564,Other,false,43-9111.00,Statistical Assistants
+1565,Other,false,43-9111.01,Bioinformatics Technicians
+1566,Other,false,43-9199.00,"Office and Administrative Support Workers, All Other"
+1567,Other,false,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+1568,Other,false,45-1011.07,First-Line Supervisors of Agricultural Crop and Horticultural Workers
+1569,Other,false,45-2011.00,Agricultural Inspectors
+1570,Other,false,45-2021.00,Animal Breeders
+1571,Other,false,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+1572,Other,false,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+1573,Other,false,45-2099.00,"Agricultural Workers, All Other"
+1574,Other,false,45-4011.00,Forest and Conservation Workers
+1575,Other,false,45-4029.00,"Logging Workers, All Other"
+1576,Other,false,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers
+1577,Other,false,47-1011.03,Solar Energy Installation Managers
+1578,Other,false,47-2061.00,Construction Laborers
+1579,Other,false,47-2111.00,Electricians
+1580,Other,false,47-2181.00,Roofers
+1581,Other,false,47-2231.00,Solar Photovoltaic Installers
+1582,Other,false,47-3011.00,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+1583,Other,false,47-3013.00,Helpers--Electricians
+1584,Other,false,47-4011.00,Construction and Building Inspectors
+1585,Other,false,47-4011.01,Energy Auditors
+1586,Other,false,47-4031.00,Fence Erectors
+1587,Other,false,47-4041.00,Hazardous Materials Removal Workers
+1588,Other,false,47-4099.00,"Construction and Related Workers, All Other"
+1589,Other,false,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+1590,Other,false,49-2011.00,"Computer, Automated Teller, and Office Machine Repairers"
+1591,Other,false,49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers"
+1592,Other,false,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers"
+1593,Other,false,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+1594,Other,false,49-2097.00,Audiovisual Equipment Installers and Repairers
+1595,Other,false,49-3011.00,Aircraft Mechanics and Service Technicians
+1596,Other,false,49-3021.00,Automotive Body and Related Repairers
+1597,Other,false,49-3023.00,Automotive Service Technicians and Mechanics
+1598,Other,false,49-3023.02,Automotive Specialty Technicians
+1599,Other,false,49-3031.00,Bus and Truck Mechanics and Diesel Engine Specialists
+1600,Other,false,49-3041.00,Farm Equipment Mechanics and Service Technicians
+1601,Other,false,49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines"
+1602,Other,false,49-3051.00,Motorboat Mechanics and Service Technicians
+1603,Other,false,49-3091.00,Bicycle Repairers
+1604,Other,false,49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+1605,Other,false,49-9031.00,Home Appliance Repairers
+1606,Other,false,49-9041.00,Industrial Machinery Mechanics
+1607,Other,false,49-9043.00,"Maintenance Workers, Machinery"
+1608,Other,false,49-9051.00,Electrical Power-Line Installers and Repairers
+1609,Other,false,49-9052.00,Telecommunications Line Installers and Repairers
+1610,Other,false,49-9062.00,Medical Equipment Repairers
+1611,Other,false,49-9063.00,Musical Instrument Repairers and Tuners
+1612,Other,false,49-9064.00,Watch and Clock Repairers
+1613,Other,false,49-9069.00,"Precision Instrument and Equipment Repairers, All Other"
+1614,Other,false,49-9071.00,"Maintenance and Repair Workers, General"
+1615,Other,false,49-9081.00,Wind Turbine Service Technicians
+1616,Other,false,49-9091.00,"Coin, Vending, and Amusement Machine Servicers and Repairers"
+1617,Other,false,49-9098.00,"Helpers--Installation, Maintenance, and Repair Workers"
+1618,Other,false,49-9099.00,"Installation, Maintenance, and Repair Workers, All Other"
+1619,Other,false,51-1011.00,First-Line Supervisors of Production and Operating Workers
+1620,Other,false,51-2022.00,Electrical and Electronic Equipment Assemblers
+1621,Other,false,51-2099.00,"Assemblers and Fabricators, All Other"
+1622,Other,false,51-3011.00,Bakers
+1623,Other,false,51-3021.00,Butchers and Meat Cutters
+1624,Other,false,51-3023.00,Slaughterers and Meat Packers
+1625,Other,false,51-3093.00,Food Cooking Machine Operators and Tenders
+1626,Other,false,51-4041.00,Machinists
+1627,Other,false,51-4081.00,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+1628,Other,false,51-4111.00,Tool and Die Makers
+1629,Other,false,51-4121.00,"Welders, Cutters, Solderers, and Brazers"
+1630,Other,false,51-4193.00,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic"
+1631,Other,false,51-4199.00,"Metal Workers and Plastic Workers, All Other"
+1632,Other,false,51-5111.00,Prepress Technicians and Workers
+1633,Other,false,51-5112.00,Printing Press Operators
+1634,Other,false,51-6031.00,Sewing Machine Operators
+1635,Other,false,51-6052.00,"Tailors, Dressmakers, and Custom Sewers"
+1636,Other,false,51-6092.00,Fabric and Apparel Patternmakers
+1637,Other,false,51-6093.00,Upholsterers
+1638,Other,false,51-6099.00,"Textile, Apparel, and Furnishings Workers, All Other"
+1639,Other,false,51-7011.00,Cabinetmakers and Bench Carpenters
+1640,Other,false,51-8011.00,Nuclear Power Reactor Operators
+1641,Other,false,51-9012.00,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+1642,Other,false,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+1643,Other,false,51-9071.00,Jewelers and Precious Stone and Metal Workers
+1644,Other,false,51-9071.01,Jewelers
+1645,Other,false,51-9071.06,Gem and Diamond Workers
+1646,Other,false,51-9081.00,Dental Laboratory Technicians
+1647,Other,false,51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+1648,Other,false,51-9161.00,Computer Numerically Controlled Tool Operators
+1649,Other,false,51-9162.00,Computer Numerically Controlled Tool Programmers
+1650,Other,false,51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders"
+1651,Other,false,51-9199.00,"Production Workers, All Other"
+1652,Other,false,53-1031.00,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+1653,Other,false,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers"
+1654,Other,false,53-2012.00,Commercial Pilots
+1655,Other,false,53-2022.00,Airfield Operations Specialists
+1656,Other,false,53-3032.00,Heavy and Tractor-Trailer Truck Drivers
+1657,Other,false,53-3054.00,Taxi Drivers
+1658,Other,false,53-5021.00,"Captains, Mates, and Pilots of Water Vessels"
+1659,Other,false,53-5031.00,Ship Engineers
+1660,Other,false,53-6051.00,Transportation Inspectors
+1661,Other,false,53-6051.01,Aviation Inspectors
+1662,Other,false,53-6051.08,Freight and Cargo Inspectors
+1663,Other,false,53-6099.00,"Transportation Workers, All Other"
+1664,Other,false,53-7064.00,"Packers and Packagers, Hand"
+1665,Other,false,53-7065.00,Stockers and Order Fillers
