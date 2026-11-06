@@ -19,7 +19,7 @@
 -- Rule: STATUS comes from the LATEST file (most up-to-date outcome);
 --       TIMING (decision date -> fiscal year) comes from the EARLIEST file
 --       (when the case was first decided).
--- Technique: window functions ROW_NUMBER() and FIRST_VALUE() partitioned by case.
+-- Technique: window functions ROW_NUMBER() and MIN() OVER (...) partitioned by case.
 -- ---------------------------------------------------------------------
 CREATE OR REPLACE TABLE lca_dedup AS
 WITH ranked AS (

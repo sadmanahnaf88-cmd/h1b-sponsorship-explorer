@@ -22,4 +22,4 @@ SELECT
           / sum(count(*) FILTER (WHERE is_nyc)) OVER (), 1)     AS nyc_pct
 FROM d
 GROUP BY ALL
-ORDER BY nyc_lcas DESC;
+ORDER BY nyc_lcas DESC, national_lcas DESC, industry_sector, tech_group;

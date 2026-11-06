@@ -18,5 +18,5 @@ WHERE is_data_role
   AND wage_level IN ('I', 'II')
   AND fiscal_year IN (2024, 2025)
 GROUP BY employer_parent
-ORDER BY level_1_2_data_lcas DESC
+ORDER BY level_1_2_data_lcas DESC, employer_parent
 LIMIT 25;

@@ -27,5 +27,5 @@ WHERE c.is_data_role
   AND c.is_nyc
   AND c.fiscal_year BETWEEN 2022 AND 2025
 GROUP BY c.employer_parent
-ORDER BY nyc_data_lcas_fy22_25 DESC
+ORDER BY nyc_data_lcas_fy22_25 DESC, c.employer_parent   -- tie-breaker keeps output stable
 LIMIT 25;

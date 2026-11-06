@@ -36,5 +36,5 @@ JOIN lca_certified c
  AND c.is_data_role AND c.is_nyc
  AND c.fiscal_year BETWEEN 2022 AND 2025
 GROUP BY k.employer_parent
-ORDER BY data_lcas_fy22_25 DESC
+ORDER BY data_lcas_fy22_25 DESC, k.employer_parent
 LIMIT 30;

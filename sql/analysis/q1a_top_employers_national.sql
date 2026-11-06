@@ -23,5 +23,5 @@ FROM lca_certified
 WHERE is_data_role
   AND fiscal_year BETWEEN 2022 AND 2025
 GROUP BY employer_parent
-ORDER BY data_lcas_fy22_25 DESC
+ORDER BY data_lcas_fy22_25 DESC, employer_parent   -- tie-breaker keeps output stable
 LIMIT 25;

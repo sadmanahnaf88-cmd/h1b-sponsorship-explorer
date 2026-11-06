@@ -45,7 +45,9 @@ spacing AS (
 ),
 spacing_winner AS (              -- the most frequent spelling per no-space key
     SELECT nospace_key,
-           arg_max(norm1, n_norm) AS norm2      -- arg_max = value of norm1 where n_norm is largest
+           -- arg_max(x, key) = the x on the row where key is largest. The key is a
+           -- (count, name) pair so ties on count are broken by name -> same result every run.
+           arg_max(norm1, (n_norm, norm1)) AS norm2
     FROM (SELECT nospace_key, norm1, sum(n) AS n_norm FROM spacing GROUP BY ALL)
     GROUP BY nospace_key
 ),
@@ -63,7 +65,7 @@ fein_counts AS (                 -- how often each normalized name uses each FEI
     GROUP BY ALL
 ),
 name_main_fein AS (              -- a name's main FEIN, only if it is clearly dominant (>= 80%)
-    SELECT norm1, arg_max(fein, n) AS fein, max(n) / sum(n) AS share
+    SELECT norm1, arg_max(fein, (n, fein)) AS fein, max(n) / sum(n) AS share
     FROM fein_counts
     WHERE length(fein) = 9 AND fein NOT IN ('000000000', '999999999', '123456789')
       -- Public universities and governments share ONE state FEIN across
@@ -74,7 +76,7 @@ name_main_fein AS (              -- a name's main FEIN, only if it is clearly do
     HAVING max(n) / sum(n) >= 0.8
 ),
 fein_winner AS (                 -- most frequent norm2 name per FEIN
-    SELECT f.fein, arg_max(s.norm2, s.n_total) AS norm3
+    SELECT f.fein, arg_max(s.norm2, (s.n_total, s.norm2)) AS norm3
     FROM name_main_fein f
     JOIN (SELECT norm1, norm2, sum(n) AS n_total FROM step2 GROUP BY ALL) s USING (norm1)
     GROUP BY f.fein
@@ -102,4 +104,4 @@ SELECT
 FROM employer_name_map
 WHERE employer_clean <> norm1
 GROUP BY ALL
-ORDER BY n_rows DESC;
+ORDER BY n_rows DESC, employer_clean, merged_from;   -- tie-breakers = stable file

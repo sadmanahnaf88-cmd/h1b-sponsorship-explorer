@@ -66,7 +66,7 @@ Q3 (Apr-Jun) peaks every year: that is when employers file for the H-1B cap lott
 
 | null_decision_date | null_annual_wage | bad_soc_code | null_naics | null_worksite_state |
 |---|---|---|---|---|
-| 0.000 | 1.000 | 2.000 | 0.000 | 1.000 |
+| 0 | 1 | 2 | 0 | 1 |
 
 ## 5. Wage quality flags (lca_certified)
 
@@ -74,7 +74,7 @@ Flags can overlap. Rows failing any check are kept in the tables but excluded fr
 
 | total | part_time | unit_suspect | below_30k | above_1m | below_95pct_prevailing | usable_for_salary_stats | pct_usable |
 |---|---|---|---|---|---|---|---|
-| 2,415,525 | 38,500 | 2,285 | 524 | 2,419 | 4.000 | 2,374,126 | 98.290 |
+| 2,415,525 | 38,500 | 2,285 | 524 | 2,419 | 4 | 2,374,126 | 98.29 |
 
 ## 6. Wage unit mix (lca_certified)
 
@@ -104,16 +104,16 @@ Expected shape: managers > scientists/engineers > analysts. Medians in the $80k-
 
 | role_rule | role_family | n | pct_of_all |
 |---|---|---|---|
-| R0_excluded_title | Other | 131,552 | 5.450 |
-| R1_manager_title | Analytics Manager | 15,444 | 0.640 |
-| R2_scientist_title | Data Scientist | 48,187 | 1.990 |
-| R3_engineer_title | Data Engineer | 57,221 | 2.370 |
-| R4_analyst_title | Data Analyst | 29,597 | 1.230 |
-| R5_business_bi_title | Business/BI Analyst | 49,575 | 2.050 |
-| R6_soc_fallback | Business/BI Analyst | 1,137 | 0.050 |
-| R6_soc_fallback | Data Engineer | 51 | 0.000 |
-| R6_soc_fallback | Data Scientist | 1,697 | 0.070 |
-| R9_no_match | Other | 2,081,064 | 86.150 |
+| R0_excluded_title | Other | 131,552 | 5.45 |
+| R1_manager_title | Analytics Manager | 15,444 | 0.64 |
+| R2_scientist_title | Data Scientist | 48,187 | 1.99 |
+| R3_engineer_title | Data Engineer | 57,221 | 2.37 |
+| R4_analyst_title | Data Analyst | 29,597 | 1.23 |
+| R5_business_bi_title | Business/BI Analyst | 49,575 | 2.05 |
+| R6_soc_fallback | Business/BI Analyst | 1,137 | 0.05 |
+| R6_soc_fallback | Data Engineer | 51 | 0 |
+| R6_soc_fallback | Data Scientist | 1,697 | 0.07 |
+| R9_no_match | Other | 2,081,064 | 86.15 |
 
 ## 9. How much of each data-related SOC code do we capture?
 
@@ -121,16 +121,16 @@ Data Scientist SOC (15-2051.00) should be mostly captured. Operations research /
 
 | soc_code | soc_title | n | pct_classified_as_data_role |
 |---|---|---|---|
-| 15-2051.00 | Data Scientists | 60,020 | 78.200 |
-| 15-2051.01 | Business Intelligence Analysts | 39,977 | 67.600 |
-| 15-2031.00 | Operations Research Analysts | 38,398 | 27.400 |
-| 13-1161.00 | Market Research Analysts and Marketing Specialists | 20,085 | 6.500 |
-| 15-2041.00 | Statisticians | 19,469 | 62.100 |
-| 15-1243.00 | Database Architects | 11,818 | 64.600 |
-| 15-1199.08 | Business Intelligence Analysts | 10,391 | 70.200 |
-| 15-1243.01 | Data Warehousing Specialists | 3,991 | 79.300 |
-| 15-2041.01 | Biostatisticians | 3,571 | 48.600 |
-| 15-1199.07 | Data Warehousing Specialists | 1,883 | 82.500 |
+| 15-2051.00 | Data Scientists | 60,020 | 78.20 |
+| 15-2051.01 | Business Intelligence Analysts | 39,977 | 67.60 |
+| 15-2031.00 | Operations Research Analysts | 38,398 | 27.40 |
+| 13-1161.00 | Market Research Analysts and Marketing Specialists | 20,085 | 6.50 |
+| 15-2041.00 | Statisticians | 19,469 | 62.10 |
+| 15-1243.00 | Database Architects | 11,818 | 64.60 |
+| 15-1199.08 | Business Intelligence Analysts | 10,391 | 70.20 |
+| 15-1243.01 | Data Warehousing Specialists | 3,991 | 79.30 |
+| 15-2041.01 | Biostatisticians | 3,571 | 48.60 |
+| 15-1199.07 | Data Warehousing Specialists | 1,883 | 82.50 |
 
 ## 10. Top titles that matched NO rule but sit in data SOC codes (possible misses)
 
@@ -157,10 +157,10 @@ Read this list to judge what the rules leave out. Most are deliberate exclusions
 | STAFF PRODUCT MANAGER | 15-2051.01 | 100 |
 | MACHINE LEARNING ENGINEER II | 15-2051.00 | 99 |
 | MANAGER | 15-2051.01 | 98 |
-| SR. SOFTWARE ENGINEER, MACHINE LEARNING | 15-2051.00 | 94 |
 | SOFTWARE ENGINEER, MACHINE LEARNING | 15-2051.00 | 94 |
-| VICE PRESIDENT | 15-2041.00 | 87 |
+| SR. SOFTWARE ENGINEER, MACHINE LEARNING | 15-2051.00 | 94 |
 | AI/ML ENGINEER | 15-2051.00 | 87 |
+| VICE PRESIDENT | 15-2041.00 | 87 |
 | SEARCH QUALITY ANALYST | 15-2051.00 | 86 |
 | SOLUTIONS CONSULTANT | 15-2051.01 | 85 |
 

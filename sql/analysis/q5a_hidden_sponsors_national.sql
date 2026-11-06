@@ -32,5 +32,5 @@ SELECT
 FROM per_year
 GROUP BY employer_parent
 HAVING count(*) = 4 AND min(lcas) >= 5
-ORDER BY data_lcas_fy22_25 DESC
+ORDER BY data_lcas_fy22_25 DESC, employer_parent
 LIMIT 30;

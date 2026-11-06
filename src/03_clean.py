@@ -33,8 +33,10 @@ def md_table(df) -> str:
     for row in df.itertuples(index=False):
         cells = []
         for v in row:
-            if isinstance(v, float):
-                cells.append(f"{v:,.0f}" if abs(v) >= 100 else f"{v:.3f}")
+            if isinstance(v, float) and v == v and v.is_integer():   # v == v is False for NaN
+                cells.append(f"{int(v):,}")
+            elif isinstance(v, float):
+                cells.append(f"{v:,.0f}" if abs(v) >= 100 else f"{v:.2f}")
             elif isinstance(v, int):
                 cells.append(f"{v:,}")
             else:
@@ -75,7 +77,7 @@ def main():
 
     section("2. Status x visa class (lca_all, after dedup)", con, """
         SELECT case_status, visa_class, count(*) AS n
-        FROM lca_all GROUP BY ALL ORDER BY n DESC
+        FROM lca_all GROUP BY ALL ORDER BY n DESC, 1, 2
     """, "Only `Certified` + `H-1B` goes into `lca_certified`.")
 
     section("3. Cases by fiscal year and quarter (lca_certified)", con, """
@@ -110,7 +112,7 @@ def main():
 
     section("6. Wage unit mix (lca_certified)", con, """
         SELECT wage_unit, count(*) AS n, median(annual_wage) AS median_annualized
-        FROM lca_certified GROUP BY 1 ORDER BY n DESC
+        FROM lca_certified GROUP BY 1 ORDER BY n DESC, 1, 2
     """)
 
     section("7. Salary sanity by role family (usable wages, all years)", con, """
@@ -119,14 +121,14 @@ def main():
                median(annual_wage) AS median,      quantile_cont(annual_wage, 0.75) AS p75,
                quantile_cont(annual_wage, 0.95) AS p95
         FROM lca_certified WHERE wage_ok_for_stats
-        GROUP BY 1 ORDER BY median DESC
+        GROUP BY 1 ORDER BY median DESC, 1
     """, "Expected shape: managers > scientists/engineers > analysts. Medians in the $80k-$200k range are plausible.")
 
     # ---------------- 3. Role families ----------------
     section("8. Role-family coverage by rule (lca_certified)", con, """
         SELECT role_rule, role_family, count(*) AS n,
                round(100.0 * count(*) / sum(count(*)) OVER (), 2) AS pct_of_all
-        FROM lca_certified GROUP BY ALL ORDER BY role_rule
+        FROM lca_certified GROUP BY ALL ORDER BY role_rule, role_family
     """)
 
     section("9. How much of each data-related SOC code do we capture?", con, """
@@ -135,7 +137,7 @@ def main():
         FROM lca_certified
         WHERE soc_code IN ('15-2051.00','15-2051.01','15-2041.00','15-2041.01','15-1243.00',
                            '15-1243.01','15-1199.08','15-1199.07','15-2031.00','13-1161.00')
-        GROUP BY 1 ORDER BY n DESC
+        GROUP BY 1 ORDER BY n DESC, 1, 2
     """, "Data Scientist SOC (15-2051.00) should be mostly captured. Operations research / market research SOCs "
          "are partly data roles and partly not, so lower capture is expected.")
 
@@ -143,7 +145,7 @@ def main():
         SELECT job_title_upper, soc_code, count(*) AS n
         FROM lca_certified
         WHERE role_family = 'Other' AND soc6 IN ('15-2051', '15-2041')
-        GROUP BY ALL ORDER BY n DESC LIMIT 25
+        GROUP BY ALL ORDER BY n DESC, 1, 2 LIMIT 25
     """, "Read this list to judge what the rules leave out. Most are deliberate exclusions (ML engineers, "
          "product managers, quants, statistical programmers) or titles too generic to call.")
 
@@ -176,7 +178,7 @@ def main():
           (SELECT count(DISTINCT employer_parent) FROM lca_all)          AS after_parent_rollup
     """)
     section("13. Largest employer merges (full list: outputs/employer_merge_log.csv)", con,
-            "SELECT * FROM employer_merge_log ORDER BY n_rows DESC LIMIT 25")
+            "SELECT * FROM employer_merge_log ORDER BY n_rows DESC, employer_clean, merged_from LIMIT 25")
 
     section("14. Well-known employer spot-checks (lca_certified, all years)", con, """
         SELECT employer_parent, count(*) AS all_lcas,
@@ -187,13 +189,13 @@ def main():
         FROM lca_certified
         WHERE employer_parent IN ('AMAZON','GOOGLE','META','MICROSOFT','JPMORGAN CHASE',
                                   'GOLDMAN SACHS','DELOITTE','COGNIZANT','CAPITAL ONE','WALMART')
-        GROUP BY 1 ORDER BY all_lcas DESC
+        GROUP BY 1 ORDER BY all_lcas DESC, 1
     """, "Sanity check: Amazon, Google, Microsoft, Meta and the large IT-services firms should be at the top "
          "nationally, which matches public reporting on H-1B sponsors.")
 
     section("15. NYC flag check: top worksite cities/counties counted as NYC", con, """
         SELECT worksite_city, worksite_county, count(*) AS n
-        FROM lca_certified WHERE is_nyc GROUP BY ALL ORDER BY n DESC LIMIT 12
+        FROM lca_certified WHERE is_nyc GROUP BY ALL ORDER BY n DESC, 1, 2 LIMIT 12
     """)
 
     (ROOT / "docs" / "validation_report.md").write_text("\n".join(report), encoding="utf-8")

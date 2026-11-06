@@ -1,0 +1,4 @@
+# Keep LF line endings in the repo and the working copy so regenerated
+# outputs do not show up as changed on Windows.
+* text=auto eol=lf
+*.png binary

@@ -1,2106 +1,2106 @@
 industry_key,naics2,industry_sector,is_tech_naics
-51919,51,Information,true
-54151,54,"Professional, Scientific & Technical Services",true
-54133,54,"Professional, Scientific & Technical Services",false
+621511,62,Health Care & Social Assistance,false
+517311,51,Information,true
+54169,54,"Professional, Scientific & Technical Services",false
+339113,33,Manufacturing,false
+325412,32,Manufacturing,false
+452210,45,Retail Trade,false
+3119,31,Manufacturing,false
+321911,32,Manufacturing,false
+424210,42,Wholesale Trade,false
+333611,33,Manufacturing,false
+448120,44,Retail Trade,false
+423450,42,Wholesale Trade,false
+442110,44,Retail Trade,false
+423930,42,Wholesale Trade,false
+3261,32,Manufacturing,false
+4421,44,Retail Trade,false
+6111,61,Educational Services,false
+315990,31,Manufacturing,false
+522292,52,Finance & Insurance,false
+333415,33,Manufacturing,false
+339920,33,Manufacturing,false
+54189,54,"Professional, Scientific & Technical Services",false
+532412,53,Real Estate & Rental,false
+327420,32,Manufacturing,false
+45811,45,Retail Trade,false
+326121,32,Manufacturing,false
+423110,42,Wholesale Trade,false
+813311,81,Other Services,false
+926110,92,Public Administration,false
+54111,54,"Professional, Scientific & Technical Services",false
+326112,32,Manufacturing,false
+333993,33,Manufacturing,false
+923110,92,Public Administration,false
+6211,62,Health Care & Social Assistance,false
+812320,81,Other Services,false
+423510,42,Wholesale Trade,false
+811219,81,Other Services,false
+448210,44,Retail Trade,false
+424330,42,Wholesale Trade,false
+517911,51,Information,true
+441210,44,Retail Trade,false
+332119,33,Manufacturing,false
+712110,71,"Arts, Entertainment & Recreation",false
+4244,42,Wholesale Trade,false
+441120,44,Retail Trade,false
+532284,53,Real Estate & Rental,false
+326160,32,Manufacturing,false
+238140,23,Construction,false
+333413,33,Manufacturing,false
+3151,31,Manufacturing,false
+521110,52,Finance & Insurance,false
+522190,52,Finance & Insurance,false
+327215,32,Manufacturing,false
+33593,33,Manufacturing,false
+456130,45,Retail Trade,false
+332420,33,Manufacturing,false
+32519,32,Manufacturing,false
+221111,22,Utilities,false
+62161,62,Health Care & Social Assistance,false
+623220,62,Health Care & Social Assistance,false
+424940,42,Wholesale Trade,false
+237120,23,Construction,false
+512199,51,Information,true
+424130,42,Wholesale Trade,false
+33399,33,Manufacturing,false
+541370,54,"Professional, Scientific & Technical Services",false
+62131,62,Health Care & Social Assistance,false
+3341,33,Manufacturing,true
+3327,33,Manufacturing,false
+33512,33,Manufacturing,false
+54142,54,"Professional, Scientific & Technical Services",false
+423610,42,Wholesale Trade,false
+423720,42,Wholesale Trade,false
+53242,53,Real Estate & Rental,false
+4249,42,Wholesale Trade,false
+3273,32,Manufacturing,false
+53111,53,Real Estate & Rental,false
+52591,52,Finance & Insurance,false
+316992,31,Manufacturing,false
+325311,32,Manufacturing,false
+325220,32,Manufacturing,false
+722320,72,Accommodation & Food Services,false
+2381,23,Construction,false
+3335,33,Manufacturing,false
+621512,62,Health Care & Social Assistance,false
+42312,42,Wholesale Trade,false
+-4445,-4,Unknown,false
+53221,53,Real Estate & Rental,false
+33391,33,Manufacturing,false
+928120,92,Public Administration,false
+321912,32,Manufacturing,false
+331492,33,Manufacturing,false
+31332,31,Manufacturing,false
+459120,45,Retail Trade,false
+5322,53,Real Estate & Rental,false
+42384,42,Wholesale Trade,false
+62441,62,Health Care & Social Assistance,false
+212323,21,"Mining, Quarrying, Oil & Gas",false
+49312,49,Transportation & Warehousing,false
+322299,32,Manufacturing,false
+54149,54,"Professional, Scientific & Technical Services",false
+62412,62,Health Care & Social Assistance,false
+611410,61,Educational Services,false
+481212,48,Transportation & Warehousing,false
+44131,44,Retail Trade,false
+221320,22,Utilities,false
+332912,33,Manufacturing,false
+45112,45,Retail Trade,false
+92114,92,Public Administration,false
+721214,72,Accommodation & Food Services,false
+112112,11,"Agriculture, Forestry, Fishing & Hunting",false
+32419,32,Manufacturing,false
+5312,53,Real Estate & Rental,false
+3231,32,Manufacturing,false
+45612,45,Retail Trade,false
+4245,42,Wholesale Trade,false
+721310,72,Accommodation & Food Services,false
+561790,56,Administrative & Support Services,false
+3314,33,Manufacturing,false
+32121,32,Manufacturing,false
+212390,21,"Mining, Quarrying, Oil & Gas",false
+212321,21,"Mining, Quarrying, Oil & Gas",false
+72231,72,Accommodation & Food Services,false
+925110,92,Public Administration,false
+325920,32,Manufacturing,false
+485510,48,Transportation & Warehousing,false
+721211,72,Accommodation & Food Services,false
+314120,31,Manufacturing,false
+493130,49,Transportation & Warehousing,false
+1123,11,"Agriculture, Forestry, Fishing & Hunting",false
+45392,45,Retail Trade,false
+33142,33,Manufacturing,false
+92216,92,Public Administration,false
+44513,44,Retail Trade,false
+31214,31,Manufacturing,false
+45721,45,Retail Trade,false
+11111,11,"Agriculture, Forestry, Fishing & Hunting",false
+321211,32,Manufacturing,false
+111199,11,"Agriculture, Forestry, Fishing & Hunting",false
+21222,21,"Mining, Quarrying, Oil & Gas",false
+92812,92,Public Administration,false
+52511,52,Finance & Insurance,false
+54135,54,"Professional, Scientific & Technical Services",false
+444120,44,Retail Trade,false
+212325,21,"Mining, Quarrying, Oil & Gas",false
+111331,11,"Agriculture, Forestry, Fishing & Hunting",false
+337124,33,Manufacturing,false
+31223,31,Manufacturing,false
+212324,21,"Mining, Quarrying, Oil & Gas",false
+321214,32,Manufacturing,false
+611690,61,Educational Services,false
+44531,44,Retail Trade,false
+1122,11,"Agriculture, Forestry, Fishing & Hunting",false
+561300,56,Administrative & Support Services,false
 523110,52,Finance & Insurance,false
-3342,33,Manufacturing,true
-61163,61,Educational Services,false
-32599,32,Manufacturing,false
-4243,42,Wholesale Trade,false
-336370,33,Manufacturing,false
-621320,62,Health Care & Social Assistance,false
-5613,56,Administrative & Support Services,false
-621112,62,Health Care & Social Assistance,false
-33312,33,Manufacturing,false
-334412,33,Manufacturing,true
-523991,52,Finance & Insurance,false
-51821,51,Information,true
-32541,32,Manufacturing,false
-45231,45,Retail Trade,false
-238210,23,Construction,false
-71211,71,"Arts, Entertainment & Recreation",false
-311351,31,Manufacturing,false
-42499,42,Wholesale Trade,false
-3399,33,Manufacturing,false
-33612,33,Manufacturing,false
-336411,33,Manufacturing,false
-333515,33,Manufacturing,false
-333922,33,Manufacturing,false
-561210,56,Administrative & Support Services,false
-624310,62,Health Care & Social Assistance,false
-237210,23,Construction,false
-485310,48,Transportation & Warehousing,false
-332991,33,Manufacturing,false
-424510,42,Wholesale Trade,false
-325510,32,Manufacturing,false
-532289,53,Real Estate & Rental,false
-44211,44,Retail Trade,false
-7225,72,Accommodation & Food Services,false
-332322,33,Manufacturing,false
+54151,54,"Professional, Scientific & Technical Services",true
 33699,33,Manufacturing,false
-1152,11,"Agriculture, Forestry, Fishing & Hunting",false
+54133,54,"Professional, Scientific & Technical Services",false
+3399,33,Manufacturing,false
+32541,32,Manufacturing,false
+5613,56,Administrative & Support Services,false
+32599,32,Manufacturing,false
+621112,62,Health Care & Social Assistance,false
+4243,42,Wholesale Trade,false
+711320,71,"Arts, Entertainment & Recreation",false
+33612,33,Manufacturing,false
+71211,71,"Arts, Entertainment & Recreation",false
+51821,51,Information,true
+5223,52,Finance & Insurance,false
+336411,33,Manufacturing,false
+325510,32,Manufacturing,false
+424510,42,Wholesale Trade,false
+333922,33,Manufacturing,false
+51919,51,Information,true
+3342,33,Manufacturing,true
 33591,33,Manufacturing,false
-812199,81,Other Services,false
+624310,62,Health Care & Social Assistance,false
+4239,42,Wholesale Trade,false
+238990,23,Construction,false
+531312,53,Real Estate & Rental,false
+621320,62,Health Care & Social Assistance,false
+332322,33,Manufacturing,false
+513120,51,Information,true
+238210,23,Construction,false
+81311,81,Other Services,false
+423730,42,Wholesale Trade,false
 221310,22,Utilities,false
 621399,62,Health Care & Social Assistance,false
-5223,52,Finance & Insurance,false
-332911,33,Manufacturing,false
-513120,51,Information,true
-238990,23,Construction,false
-711320,71,"Arts, Entertainment & Recreation",false
-325180,32,Manufacturing,false
-327120,32,Manufacturing,false
-33513,33,Manufacturing,false
-485999,48,Transportation & Warehousing,false
-81392,81,Other Services,false
-811212,81,Other Services,false
-81311,81,Other Services,false
-3222,32,Manufacturing,false
-21232,21,"Mining, Quarrying, Oil & Gas",false
-332439,33,Manufacturing,false
-928110,92,Public Administration,false
+336370,33,Manufacturing,false
+44211,44,Retail Trade,false
 42332,42,Wholesale Trade,false
-517122,51,Information,true
-111333,11,"Agriculture, Forestry, Fishing & Hunting",false
-531312,53,Real Estate & Rental,false
-424610,42,Wholesale Trade,false
-333519,33,Manufacturing,false
-9281,92,Public Administration,false
-48551,48,Transportation & Warehousing,false
-3122,31,Manufacturing,false
-4239,42,Wholesale Trade,false
-33141,33,Manufacturing,false
-423730,42,Wholesale Trade,false
-486910,48,Transportation & Warehousing,false
-4561,45,Retail Trade,false
-112310,11,"Agriculture, Forestry, Fishing & Hunting",false
-81391,81,Other Services,false
-45391,45,Retail Trade,false
-424450,42,Wholesale Trade,false
-4851,48,Transportation & Warehousing,false
-1114,11,"Agriculture, Forestry, Fishing & Hunting",false
-541860,54,"Professional, Scientific & Technical Services",false
-3252,32,Manufacturing,false
-922120,92,Public Administration,false
-335921,33,Manufacturing,false
-44832,44,Retail Trade,false
-3111,31,Manufacturing,false
-32612,32,Manufacturing,false
-4247,42,Wholesale Trade,false
-32591,32,Manufacturing,false
-332813,33,Manufacturing,false
-92412,92,Public Administration,false
-44414,44,Retail Trade,false
-445132,44,Retail Trade,false
-33711,33,Manufacturing,false
-441340,44,Retail Trade,false
-44133,44,Retail Trade,false
-71219,71,"Arts, Entertainment & Recreation",false
-2213,22,Utilities,false
-6233,62,Health Care & Social Assistance,false
-921140,92,Public Administration,false
-722330,72,Accommodation & Food Services,false
-4511,45,Retail Trade,false
-334613,33,Manufacturing,true
-51611,51,Information,true
-31522,31,Manufacturing,false
-8129,81,Other Services,false
-321219,32,Manufacturing,false
-7112,71,"Arts, Entertainment & Recreation",false
-453310,45,Retail Trade,false
-21221,21,"Mining, Quarrying, Oil & Gas",false
+45231,45,Retail Trade,false
+523991,52,Finance & Insurance,false
+237210,23,Construction,false
+311351,31,Manufacturing,false
+42499,42,Wholesale Trade,false
+332991,33,Manufacturing,false
+332911,33,Manufacturing,false
+7225,72,Accommodation & Food Services,false
+61163,61,Educational Services,false
+334412,33,Manufacturing,true
+811212,81,Other Services,false
 31152,31,Manufacturing,false
-453110,45,Retail Trade,false
-212290,21,"Mining, Quarrying, Oil & Gas",false
-453930,45,Retail Trade,false
-42441,42,Wholesale Trade,false
-811191,81,Other Services,false
+31522,31,Manufacturing,false
+922120,92,Public Administration,false
+327120,32,Manufacturing,false
+333519,33,Manufacturing,false
+517122,51,Information,true
+561210,56,Administrative & Support Services,false
+333515,33,Manufacturing,false
+4851,48,Transportation & Warehousing,false
+335921,33,Manufacturing,false
+812199,81,Other Services,false
+453310,45,Retail Trade,false
+486910,48,Transportation & Warehousing,false
+112310,11,"Agriculture, Forestry, Fishing & Hunting",false
+1114,11,"Agriculture, Forestry, Fishing & Hunting",false
+334613,33,Manufacturing,true
+325180,32,Manufacturing,false
+92412,92,Public Administration,false
+4561,45,Retail Trade,false
+424610,42,Wholesale Trade,false
+3366,33,Manufacturing,false
 42434,42,Wholesale Trade,false
 9261,92,Public Administration,false
-3366,33,Manufacturing,false
-42352,42,Wholesale Trade,false
-7114,71,"Arts, Entertainment & Recreation",false
-442291,44,Retail Trade,false
-62321,62,Health Care & Social Assistance,false
+44414,44,Retail Trade,false
+21232,21,"Mining, Quarrying, Oil & Gas",false
+44133,44,Retail Trade,false
 4853,48,Transportation & Warehousing,false
-31512,31,Manufacturing,false
+532289,53,Real Estate & Rental,false
+541860,54,"Professional, Scientific & Technical Services",false
+332439,33,Manufacturing,false
+33141,33,Manufacturing,false
+3252,32,Manufacturing,false
+1152,11,"Agriculture, Forestry, Fishing & Hunting",false
+33312,33,Manufacturing,false
+81392,81,Other Services,false
+722330,72,Accommodation & Food Services,false
+4247,42,Wholesale Trade,false
+3111,31,Manufacturing,false
+332813,33,Manufacturing,false
+485999,48,Transportation & Warehousing,false
+485310,48,Transportation & Warehousing,false
+441340,44,Retail Trade,false
+7112,71,"Arts, Entertainment & Recreation",false
+33513,33,Manufacturing,false
+453110,45,Retail Trade,false
+424450,42,Wholesale Trade,false
+32591,32,Manufacturing,false
+321219,32,Manufacturing,false
+3222,32,Manufacturing,false
+445132,44,Retail Trade,false
+811191,81,Other Services,false
+8129,81,Other Services,false
+81391,81,Other Services,false
+32612,32,Manufacturing,false
+71219,71,"Arts, Entertainment & Recreation",false
+9281,92,Public Administration,false
+2213,22,Utilities,false
+111333,11,"Agriculture, Forestry, Fishing & Hunting",false
+4511,45,Retail Trade,false
+44832,44,Retail Trade,false
 81393,81,Other Services,false
+51611,51,Information,true
+48551,48,Transportation & Warehousing,false
+6233,62,Health Care & Social Assistance,false
+921140,92,Public Administration,false
+42441,42,Wholesale Trade,false
+928110,92,Public Administration,false
+31512,31,Manufacturing,false
+3122,31,Manufacturing,false
 3141,31,Manufacturing,false
-212115,21,"Mining, Quarrying, Oil & Gas",false
+33711,33,Manufacturing,false
+42352,42,Wholesale Trade,false
+62321,62,Health Care & Social Assistance,false
 72241,72,Accommodation & Food Services,false
 92112,92,Public Administration,false
+453930,45,Retail Trade,false
+442291,44,Retail Trade,false
+21221,21,"Mining, Quarrying, Oil & Gas",false
+45391,45,Retail Trade,false
+212115,21,"Mining, Quarrying, Oil & Gas",false
+7114,71,"Arts, Entertainment & Recreation",false
+212290,21,"Mining, Quarrying, Oil & Gas",false
 111191,11,"Agriculture, Forestry, Fishing & Hunting",false
-522390,52,Finance & Insurance,false
-51121,51,Information,true
-5419,54,"Professional, Scientific & Technical Services",false
-52399,52,Finance & Insurance,false
-3361,33,Manufacturing,false
-722511,72,Accommodation & Food Services,false
-621111,62,Health Care & Social Assistance,false
-51913,51,Information,true
-524126,52,Finance & Insurance,false
-3363,33,Manufacturing,false
-621498,62,Health Care & Social Assistance,false
-72111,72,Accommodation & Food Services,false
-33441,33,Manufacturing,true
-334210,33,Manufacturing,true
-5182,51,Information,true
-334515,33,Manufacturing,true
-52211,52,Finance & Insurance,false
-5239,52,Finance & Insurance,false
-423320,42,Wholesale Trade,false
-524113,52,Finance & Insurance,false
-423690,42,Wholesale Trade,false
-522294,52,Finance & Insurance,false
-524292,52,Finance & Insurance,false
-61143,61,Educational Services,false
-48849,48,Transportation & Warehousing,false
-424820,42,Wholesale Trade,false
-5111,51,Information,true
-2122,21,"Mining, Quarrying, Oil & Gas",false
-541490,54,"Professional, Scientific & Technical Services",false
-561510,56,Administrative & Support Services,false
-541430,54,"Professional, Scientific & Technical Services",false
-62121,62,Health Care & Social Assistance,false
-541360,54,"Professional, Scientific & Technical Services",false
-517810,51,Information,true
-611620,61,Educational Services,false
-492210,49,Transportation & Warehousing,false
-333249,33,Manufacturing,false
-6214,62,Health Care & Social Assistance,false
-62139,62,Health Care & Social Assistance,false
-33331,33,Manufacturing,false
-561730,56,Administrative & Support Services,false
-322110,32,Manufacturing,false
-33111,33,Manufacturing,false
-333618,33,Manufacturing,false
-4248,42,Wholesale Trade,false
-624120,62,Health Care & Social Assistance,false
-81121,81,Other Services,false
-337212,33,Manufacturing,false
-42374,42,Wholesale Trade,false
-448110,44,Retail Trade,false
-9211,92,Public Administration,false
-62134,62,Health Care & Social Assistance,false
-6215,62,Health Care & Social Assistance,false
-53112,53,Real Estate & Rental,false
-42342,42,Wholesale Trade,false
-52239,52,Finance & Insurance,false
-624110,62,Health Care & Social Assistance,false
-334416,33,Manufacturing,true
-611699,61,Educational Services,false
-115116,11,"Agriculture, Forestry, Fishing & Hunting",false
-311422,31,Manufacturing,false
-4232,42,Wholesale Trade,false
-31171,31,Manufacturing,false
-335132,33,Manufacturing,false
-56143,56,Administrative & Support Services,false
-92211,92,Public Administration,false
-336412,33,Manufacturing,false
-444190,44,Retail Trade,false
-333923,33,Manufacturing,false
-441320,44,Retail Trade,false
-4882,48,Transportation & Warehousing,false
-9241,92,Public Administration,false
-488410,48,Transportation & Warehousing,false
-62422,62,Health Care & Social Assistance,false
-488999,48,Transportation & Warehousing,false
-56179,56,Administrative & Support Services,false
-311824,31,Manufacturing,false
-713910,71,"Arts, Entertainment & Recreation",false
-713920,71,"Arts, Entertainment & Recreation",false
-81111,81,Other Services,false
-311942,31,Manufacturing,false
-32799,32,Manufacturing,false
-92711,92,Public Administration,false
-21239,21,"Mining, Quarrying, Oil & Gas",false
-333994,33,Manufacturing,false
-4885,48,Transportation & Warehousing,false
-332117,33,Manufacturing,false
-332812,33,Manufacturing,false
-11299,11,"Agriculture, Forestry, Fishing & Hunting",false
-33131,33,Manufacturing,false
-711190,71,"Arts, Entertainment & Recreation",false
-44421,44,Retail Trade,false
-3353,33,Manufacturing,false
-459210,45,Retail Trade,false
-331420,33,Manufacturing,false
-42493,42,Wholesale Trade,false
-485410,48,Transportation & Warehousing,false
-31521,31,Manufacturing,false
-71121,71,"Arts, Entertainment & Recreation",false
-11212,11,"Agriculture, Forestry, Fishing & Hunting",false
-56221,56,Administrative & Support Services,false
-5131,51,Information,true
-45114,45,Retail Trade,false
-42442,42,Wholesale Trade,false
-486110,48,Transportation & Warehousing,false
-11119,11,"Agriculture, Forestry, Fishing & Hunting",false
-3149,31,Manufacturing,false
-326212,32,Manufacturing,false
-45832,45,Retail Trade,false
-23831,23,Construction,false
-81232,81,Other Services,false
-111421,11,"Agriculture, Forestry, Fishing & Hunting",false
-31161,31,Manufacturing,false
-56171,56,Administrative & Support Services,false
-51911,51,Information,true
-561740,56,Administrative & Support Services,false
-45121,45,Retail Trade,false
-8210,82,Unknown,false
-311213,31,Manufacturing,false
-71393,71,"Arts, Entertainment & Recreation",false
-31182,31,Manufacturing,false
-453220,45,Retail Trade,false
-45411,45,Retail Trade,false
-54131,54,"Professional, Scientific & Technical Services",false
-323111,32,Manufacturing,false
-53211,53,Real Estate & Rental,false
-335911,33,Manufacturing,false
-611691,61,Educational Services,false
-524298,52,Finance & Insurance,false
-813319,81,Other Services,false
-334112,33,Manufacturing,true
-33241,33,Manufacturing,false
-445110,44,Retail Trade,false
-4413,44,Retail Trade,false
-332710,33,Manufacturing,false
-335311,33,Manufacturing,false
-5418,54,"Professional, Scientific & Technical Services",false
-322121,32,Manufacturing,false
-332919,33,Manufacturing,false
-621491,62,Health Care & Social Assistance,false
-713990,71,"Arts, Entertainment & Recreation",false
-52412,52,Finance & Insurance,false
-335314,33,Manufacturing,false
-448320,44,Retail Trade,false
-221114,22,Utilities,false
-926120,92,Public Administration,false
-813910,81,Other Services,false
-531210,53,Real Estate & Rental,false
-5414,54,"Professional, Scientific & Technical Services",false
-4411,44,Retail Trade,false
-62133,62,Health Care & Social Assistance,false
-333999,33,Manufacturing,false
-624229,62,Health Care & Social Assistance,false
-424480,42,Wholesale Trade,false
-531311,53,Real Estate & Rental,false
-44422,44,Retail Trade,false
-48599,48,Transportation & Warehousing,false
-4236,42,Wholesale Trade,false
-42394,42,Wholesale Trade,false
-311514,31,Manufacturing,false
-451140,45,Retail Trade,false
-424990,42,Wholesale Trade,false
-621991,62,Health Care & Social Assistance,false
-314999,31,Manufacturing,false
-513130,51,Information,true
-4931,49,Transportation & Warehousing,false
-311919,31,Manufacturing,false
-424350,42,Wholesale Trade,false
-721120,72,Accommodation & Food Services,false
-811490,81,Other Services,false
-236116,23,Construction,false
-236115,23,Construction,false
-481219,48,Transportation & Warehousing,false
-3121,31,Manufacturing,false
-812930,81,Other Services,false
-311999,31,Manufacturing,false
-4512,45,Retail Trade,false
-92611,92,Public Administration,false
-51114,51,Information,true
-513199,51,Information,true
-332618,33,Manufacturing,false
-5619,56,Administrative & Support Services,false
-32629,32,Manufacturing,false
-32518,32,Manufacturing,false
-23839,23,Construction,false
-3159,31,Manufacturing,false
-62132,62,Health Care & Social Assistance,false
-561920,56,Administrative & Support Services,false
-111334,11,"Agriculture, Forestry, Fishing & Hunting",false
-32229,32,Manufacturing,false
-3162,31,Manufacturing,false
-6212,62,Health Care & Social Assistance,false
-42351,42,Wholesale Trade,false
-922160,92,Public Administration,false
-311111,31,Manufacturing,false
-22121,22,Utilities,false
-511199,51,Information,true
-326122,32,Manufacturing,false
-23819,23,Construction,false
-62199,62,Health Care & Social Assistance,false
-44911,44,Retail Trade,false
-711130,71,"Arts, Entertainment & Recreation",false
-488119,48,Transportation & Warehousing,false
-33661,33,Manufacturing,false
-541922,54,"Professional, Scientific & Technical Services",false
-332112,33,Manufacturing,false
-5232,52,Finance & Insurance,false
-32613,32,Manufacturing,false
-3372,33,Manufacturing,false
-713930,71,"Arts, Entertainment & Recreation",false
-62331,62,Health Care & Social Assistance,false
-311225,31,Manufacturing,false
-332722,33,Manufacturing,false
-483114,48,Transportation & Warehousing,false
-562910,56,Administrative & Support Services,false
-811122,81,Other Services,false
-32592,32,Manufacturing,false
-562119,56,Administrative & Support Services,false
-92612,92,Public Administration,false
-322291,32,Manufacturing,false
-315220,31,Manufacturing,false
-4571,45,Retail Trade,false
-81219,81,Other Services,false
-336213,33,Manufacturing,false
-812310,81,Other Services,false
-42459,42,Wholesale Trade,false
-3362,33,Manufacturing,false
-323120,32,Manufacturing,false
-7115,71,"Arts, Entertainment & Recreation",false
-3365,33,Manufacturing,false
-331221,33,Manufacturing,false
-311830,31,Manufacturing,false
-316990,31,Manufacturing,false
-4539,45,Retail Trade,false
-54134,54,"Professional, Scientific & Technical Services",false
-49111,49,Transportation & Warehousing,false
-326191,32,Manufacturing,false
-52111,52,Finance & Insurance,false
-811114,81,Other Services,false
-325312,32,Manufacturing,false
-111332,11,"Agriculture, Forestry, Fishing & Hunting",false
-21231,21,"Mining, Quarrying, Oil & Gas",false
-327212,32,Manufacturing,false
-11251,11,"Agriculture, Forestry, Fishing & Hunting",false
-23833,23,Construction,false
-424470,42,Wholesale Trade,false
-453991,45,Retail Trade,false
-811118,81,Other Services,false
-32733,32,Manufacturing,false
-313110,31,Manufacturing,false
-212114,21,"Mining, Quarrying, Oil & Gas",false
-42491,42,Wholesale Trade,false
-212399,21,"Mining, Quarrying, Oil & Gas",false
-31525,31,Manufacturing,false
-4889,48,Transportation & Warehousing,false
-44613,44,Retail Trade,false
-315120,31,Manufacturing,false
-1121,11,"Agriculture, Forestry, Fishing & Hunting",false
-92111,92,Public Administration,false
-51225,51,Information,true
-311512,31,Manufacturing,false
-212311,21,"Mining, Quarrying, Oil & Gas",false
-487990,48,Transportation & Warehousing,false
-541714,54,"Professional, Scientific & Technical Services",false
-339112,33,Manufacturing,false
-31135,31,Manufacturing,false
-423710,42,Wholesale Trade,false
-541990,54,"Professional, Scientific & Technical Services",false
-33611,33,Manufacturing,false
-624190,62,Health Care & Social Assistance,false
-48851,48,Transportation & Warehousing,false
-337110,33,Manufacturing,false
-311230,31,Manufacturing,false
-237310,23,Construction,false
-336340,33,Manufacturing,false
-523140,52,Finance & Insurance,false
-52392,52,Finance & Insurance,false
-333132,33,Manufacturing,false
-33632,33,Manufacturing,false
-561621,56,Administrative & Support Services,false
-4412,44,Retail Trade,false
-52411,52,Finance & Insurance,false
-332999,33,Manufacturing,false
-813212,81,Other Services,false
-425120,42,Wholesale Trade,false
-333111,33,Manufacturing,false
-4251,42,Wholesale Trade,false
-335912,33,Manufacturing,false
-519110,51,Information,true
-455110,45,Retail Trade,false
-51929,51,Information,true
-485991,48,Transportation & Warehousing,false
-56162,56,Administrative & Support Services,false
-336320,33,Manufacturing,false
-333991,33,Manufacturing,false
-5122,51,Information,true
-424410,42,Wholesale Trade,false
-459910,45,Retail Trade,false
-813110,81,Other Services,false
-512120,51,Information,true
-3371,33,Manufacturing,false
-443141,44,Retail Trade,false
-311421,31,Manufacturing,false
-11199,11,"Agriculture, Forestry, Fishing & Hunting",false
-42346,42,Wholesale Trade,false
-61171,61,Educational Services,false
-56149,56,Administrative & Support Services,false
-311224,31,Manufacturing,false
-42339,42,Wholesale Trade,false
-92311,92,Public Administration,false
-561431,56,Administrative & Support Services,false
-112210,11,"Agriculture, Forestry, Fishing & Hunting",false
-311513,31,Manufacturing,false
-45221,45,Retail Trade,false
-312140,31,Manufacturing,false
-236117,23,Construction,false
-484122,48,Transportation & Warehousing,false
-321992,32,Manufacturing,false
-524127,52,Finance & Insurance,false
-522299,52,Finance & Insurance,false
-3334,33,Manufacturing,false
-457210,45,Retail Trade,false
-53249,53,Real Estate & Rental,false
-333244,33,Manufacturing,false
-621310,62,Health Care & Social Assistance,false
-5222,52,Finance & Insurance,false
-623312,62,Health Care & Social Assistance,false
-321920,32,Manufacturing,false
-488991,48,Transportation & Warehousing,false
-452319,45,Retail Trade,false
-922130,92,Public Administration,false
-445299,44,Retail Trade,false
-3118,31,Manufacturing,false
-92214,92,Public Administration,false
-423810,42,Wholesale Trade,false
-32223,32,Manufacturing,false
-624210,62,Health Care & Social Assistance,false
-326111,32,Manufacturing,false
-32199,32,Manufacturing,false
-115310,11,"Agriculture, Forestry, Fishing & Hunting",false
-3315,33,Manufacturing,false
-2212,22,Utilities,false
-54183,54,"Professional, Scientific & Technical Services",false
-532112,53,Real Estate & Rental,false
-339930,33,Manufacturing,false
-3352,33,Manufacturing,false
-321918,32,Manufacturing,false
-337125,33,Manufacturing,false
-332992,33,Manufacturing,false
-3279,32,Manufacturing,false
-44819,44,Retail Trade,false
-325212,32,Manufacturing,false
-111411,11,"Agriculture, Forestry, Fishing & Hunting",false
-459991,45,Retail Trade,false
-8113,81,Other Services,false
-311811,31,Manufacturing,false
-45942,45,Retail Trade,false
-423850,42,Wholesale Trade,false
-336214,33,Manufacturing,false
-54185,54,"Professional, Scientific & Technical Services",false
-32739,32,Manufacturing,false
-331491,33,Manufacturing,false
-4811,48,Transportation & Warehousing,false
-4471,44,Retail Trade,false
-111320,11,"Agriculture, Forestry, Fishing & Hunting",false
-42382,42,Wholesale Trade,false
-44423,44,Retail Trade,false
-81292,81,Other Services,false
-111110,11,"Agriculture, Forestry, Fishing & Hunting",false
-561421,56,Administrative & Support Services,false
-442210,44,Retail Trade,false
-72232,72,Accommodation & Food Services,false
-9251,92,Public Administration,false
-4532,45,Retail Trade,false
-3241,32,Manufacturing,false
-336415,33,Manufacturing,false
-4572,45,Retail Trade,false
-72233,72,Accommodation & Food Services,false
-32615,32,Manufacturing,false
-812111,81,Other Services,false
-335300,33,Manufacturing,false
-54112,54,"Professional, Scientific & Technical Services",false
-1125,11,"Agriculture, Forestry, Fishing & Hunting",false
--131199,-1,Unknown,false
-4583,45,Retail Trade,false
-62399,62,Health Care & Social Assistance,false
-551112,55,Management of Companies,false
-524210,52,Finance & Insurance,false
-423390,42,Wholesale Trade,false
-622310,62,Health Care & Social Assistance,false
-48831,48,Transportation & Warehousing,false
-423920,42,Wholesale Trade,false
-525990,52,Finance & Insurance,false
-541620,54,"Professional, Scientific & Technical Services",false
-541380,54,"Professional, Scientific & Technical Services",false
-326199,32,Manufacturing,false
-3332,33,Manufacturing,false
-481111,48,Transportation & Warehousing,false
-611710,61,Educational Services,false
 23622,23,Construction,false
-3391,33,Manufacturing,false
-56131,56,Administrative & Support Services,false
-33633,33,Manufacturing,false
-6117,61,Educational Services,false
-42343,42,Wholesale Trade,false
 33429,33,Manufacturing,true
+42343,42,Wholesale Trade,false
+611710,61,Educational Services,false
+3332,33,Manufacturing,false
+62399,62,Health Care & Social Assistance,false
+42393,42,Wholesale Trade,false
 311991,31,Manufacturing,false
-238910,23,Construction,false
-3312,33,Manufacturing,false
-453920,45,Retail Trade,false
-449210,44,Retail Trade,false
-522130,52,Finance & Insurance,false
-32721,32,Manufacturing,false
-332312,33,Manufacturing,false
-5192,51,Information,true
-517112,51,Information,true
+622310,62,Health Care & Social Assistance,false
+551112,55,Management of Companies,false
+3391,33,Manufacturing,false
+541380,54,"Professional, Scientific & Technical Services",false
+524210,52,Finance & Insurance,false
+481111,48,Transportation & Warehousing,false
 5313,53,Real Estate & Rental,false
+6117,61,Educational Services,false
+9221,92,Public Administration,false
+4841,48,Transportation & Warehousing,false
 5511,55,Management of Companies,false
-813410,81,Other Services,false
-72251,72,Accommodation & Food Services,false
-332313,33,Manufacturing,false
-236118,23,Construction,false
-23899,23,Construction,false
-31123,31,Manufacturing,false
-3331,33,Manufacturing,false
+541620,54,"Professional, Scientific & Technical Services",false
+56131,56,Administrative & Support Services,false
+5192,51,Information,true
 56159,56,Administrative & Support Services,false
-336211,33,Manufacturing,false
-92613,92,Public Administration,false
-335129,33,Manufacturing,false
+424460,42,Wholesale Trade,false
+4921,49,Transportation & Warehousing,false
+325314,32,Manufacturing,false
+238910,23,Construction,false
+525990,52,Finance & Insurance,false
+3312,33,Manufacturing,false
+424320,42,Wholesale Trade,false
+32721,32,Manufacturing,false
+517112,51,Information,true
+236118,23,Construction,false
+11142,11,"Agriculture, Forestry, Fishing & Hunting",false
+332313,33,Manufacturing,false
+32731,32,Manufacturing,false
+456191,45,Retail Trade,false
+453920,45,Retail Trade,false
+326199,32,Manufacturing,false
 3251,32,Manufacturing,false
 541830,54,"Professional, Scientific & Technical Services",false
-61169,61,Educational Services,false
-7132,71,"Arts, Entertainment & Recreation",false
-424460,42,Wholesale Trade,false
-423440,42,Wholesale Trade,false
-562111,56,Administrative & Support Services,false
-45821,45,Retail Trade,false
-52213,52,Finance & Insurance,false
-311612,31,Manufacturing,false
-42393,42,Wholesale Trade,false
-921150,92,Public Administration,false
-42411,42,Wholesale Trade,false
-453998,45,Retail Trade,false
 311119,31,Manufacturing,false
-8112,81,Other Services,false
-61161,61,Educational Services,false
-4242,42,Wholesale Trade,false
-42361,42,Wholesale Trade,false
-31151,31,Manufacturing,false
-442299,44,Retail Trade,false
-493190,49,Transportation & Warehousing,false
-56191,56,Administrative & Support Services,false
-33631,33,Manufacturing,false
-311520,31,Manufacturing,false
+52213,52,Finance & Insurance,false
+332312,33,Manufacturing,false
+449210,44,Retail Trade,false
+522130,52,Finance & Insurance,false
 333517,33,Manufacturing,false
 458320,45,Retail Trade,false
-1153,11,"Agriculture, Forestry, Fishing & Hunting",false
-335991,33,Manufacturing,false
-23829,23,Construction,false
-456191,45,Retail Trade,false
-4841,48,Transportation & Warehousing,false
-32731,32,Manufacturing,false
-31528,31,Manufacturing,false
-23891,23,Construction,false
-32192,32,Manufacturing,false
-42386,42,Wholesale Trade,false
-23822,23,Construction,false
+336211,33,Manufacturing,false
 488390,48,Transportation & Warehousing,false
-5629,56,Administrative & Support Services,false
-424320,42,Wholesale Trade,false
-9221,92,Public Administration,false
+31123,31,Manufacturing,false
 484210,48,Transportation & Warehousing,false
-325314,32,Manufacturing,false
+423440,42,Wholesale Trade,false
+23822,23,Construction,false
+61169,61,Educational Services,false
+335991,33,Manufacturing,false
+48831,48,Transportation & Warehousing,false
+33631,33,Manufacturing,false
 454210,45,Retail Trade,false
-49319,49,Transportation & Warehousing,false
-441222,44,Retail Trade,false
-324199,32,Manufacturing,false
-42371,42,Wholesale Trade,false
+23899,23,Construction,false
+562111,56,Administrative & Support Services,false
+72251,72,Accommodation & Food Services,false
+813410,81,Other Services,false
 3369,33,Manufacturing,false
-4921,49,Transportation & Warehousing,false
+3331,33,Manufacturing,false
+311612,31,Manufacturing,false
+45821,45,Retail Trade,false
+5629,56,Administrative & Support Services,false
+92613,92,Public Administration,false
+493190,49,Transportation & Warehousing,false
+23891,23,Construction,false
+423920,42,Wholesale Trade,false
+4242,42,Wholesale Trade,false
+56191,56,Administrative & Support Services,false
+112910,11,"Agriculture, Forestry, Fishing & Hunting",false
 311221,31,Manufacturing,false
-3114,31,Manufacturing,false
-11142,11,"Agriculture, Forestry, Fishing & Hunting",false
+23829,23,Construction,false
+8112,81,Other Services,false
 33313,33,Manufacturing,false
-4491,44,Retail Trade,false
-71311,71,"Arts, Entertainment & Recreation",false
-62421,62,Health Care & Social Assistance,false
-621910,62,Health Care & Social Assistance,false
-23813,23,Construction,false
-6114,61,Educational Services,false
-56172,56,Administrative & Support Services,false
+423390,42,Wholesale Trade,false
+311520,31,Manufacturing,false
+3114,31,Manufacturing,false
+49319,49,Transportation & Warehousing,false
+7132,71,"Arts, Entertainment & Recreation",false
+42361,42,Wholesale Trade,false
 33281,33,Manufacturing,false
-2121,21,"Mining, Quarrying, Oil & Gas",false
-31321,31,Manufacturing,false
-3328,33,Manufacturing,false
-926140,92,Public Administration,false
+31151,31,Manufacturing,false
+6239,62,Health Care & Social Assistance,false
+921150,92,Public Administration,false
+42386,42,Wholesale Trade,false
+56172,56,Administrative & Support Services,false
+6114,61,Educational Services,false
+32192,32,Manufacturing,false
+61161,61,Educational Services,false
+31528,31,Manufacturing,false
+453998,45,Retail Trade,false
+33633,33,Manufacturing,false
+62421,62,Health Care & Social Assistance,false
+51921,51,Information,true
+71311,71,"Arts, Entertainment & Recreation",false
+441222,44,Retail Trade,false
+312113,31,Manufacturing,false
+335129,33,Manufacturing,false
 56299,56,Administrative & Support Services,false
+621910,62,Health Care & Social Assistance,false
+442299,44,Retail Trade,false
+1153,11,"Agriculture, Forestry, Fishing & Hunting",false
+4491,44,Retail Trade,false
 31211,31,Manufacturing,false
 335121,33,Manufacturing,false
-51921,51,Information,true
-562991,56,Administrative & Support Services,false
-112910,11,"Agriculture, Forestry, Fishing & Hunting",false
+23813,23,Construction,false
+31321,31,Manufacturing,false
 51224,51,Information,true
-312113,31,Manufacturing,false
-6239,62,Health Care & Social Assistance,false
+3328,33,Manufacturing,false
+42411,42,Wholesale Trade,false
+42371,42,Wholesale Trade,false
+324199,32,Manufacturing,false
+926140,92,Public Administration,false
 71112,71,"Arts, Entertainment & Recreation",false
-522298,52,Finance & Insurance,false
-423120,42,Wholesale Trade,false
-611110,61,Educational Services,false
-5191,51,Information,true
-334413,33,Manufacturing,true
-551111,55,Management of Companies,false
-54161,54,"Professional, Scientific & Technical Services",false
-525120,52,Finance & Insurance,false
-813312,81,Other Services,false
-3344,33,Manufacturing,true
-51111,51,Information,true
-621340,62,Health Care & Social Assistance,false
-54162,54,"Professional, Scientific & Technical Services",false
-447110,44,Retail Trade,false
-441310,44,Retail Trade,false
-541921,54,"Professional, Scientific & Technical Services",false
-451110,45,Retail Trade,false
-61131,61,Educational Services,false
-314110,31,Manufacturing,false
-42421,42,Wholesale Trade,false
-541810,54,"Professional, Scientific & Technical Services",false
-211120,21,"Mining, Quarrying, Oil & Gas",false
-237990,23,Construction,false
-512250,51,Information,true
-541410,54,"Professional, Scientific & Technical Services",false
-33634,33,Manufacturing,false
-5179,51,Information,true
-523150,52,Finance & Insurance,false
-23731,23,Construction,false
-5231,52,Finance & Insurance,false
-6213,62,Health Care & Social Assistance,false
-512230,51,Information,true
-56111,56,Administrative & Support Services,false
-334519,33,Manufacturing,true
-335999,33,Manufacturing,false
-32412,32,Manufacturing,false
-541191,54,"Professional, Scientific & Technical Services",false
-445310,44,Retail Trade,false
-333914,33,Manufacturing,false
-713110,71,"Arts, Entertainment & Recreation",false
-44418,44,Retail Trade,false
-51781,51,Information,true
-488210,48,Transportation & Warehousing,false
-62311,62,Health Care & Social Assistance,false
-812191,81,Other Services,false
-48111,48,Transportation & Warehousing,false
-42369,42,Wholesale Trade,false
-335110,33,Manufacturing,false
-335210,33,Manufacturing,false
-811111,81,Other Services,false
-44812,44,Retail Trade,false
-333131,33,Manufacturing,false
-327991,32,Manufacturing,false
-424910,42,Wholesale Trade,false
-488320,48,Transportation & Warehousing,false
-33451,33,Manufacturing,true
-423860,42,Wholesale Trade,false
-52599,52,Finance & Insurance,false
-621493,62,Health Care & Social Assistance,false
-326211,32,Manufacturing,false
-622210,62,Health Care & Social Assistance,false
-812332,81,Other Services,false
-45999,45,Retail Trade,false
-33211,33,Manufacturing,false
-51311,51,Information,true
-541350,54,"Professional, Scientific & Technical Services",false
-332431,33,Manufacturing,false
-443142,44,Retail Trade,false
-42313,42,Wholesale Trade,false
-238390,23,Construction,false
-454390,45,Retail Trade,false
-459999,45,Retail Trade,false
-331314,33,Manufacturing,false
-4859,48,Transportation & Warehousing,false
-326113,32,Manufacturing,false
-541850,54,"Professional, Scientific & Technical Services",false
-53119,53,Real Estate & Rental,false
-322212,32,Manufacturing,false
-485113,48,Transportation & Warehousing,false
-722410,72,Accommodation & Food Services,false
-445291,44,Retail Trade,false
-31122,31,Manufacturing,false
-56132,56,Administrative & Support Services,false
-212313,21,"Mining, Quarrying, Oil & Gas",false
-32622,32,Manufacturing,false
-333112,33,Manufacturing,false
-3343,33,Manufacturing,true
-32791,32,Manufacturing,false
-112511,11,"Agriculture, Forestry, Fishing & Hunting",false
-445131,44,Retail Trade,false
-44523,44,Retail Trade,false
-444140,44,Retail Trade,false
-71119,71,"Arts, Entertainment & Recreation",false
-115115,11,"Agriculture, Forestry, Fishing & Hunting",false
-711120,71,"Arts, Entertainment & Recreation",false
-485119,48,Transportation & Warehousing,false
-92411,92,Public Administration,false
-51223,51,Information,true
-213113,21,"Mining, Quarrying, Oil & Gas",false
-31412,31,Manufacturing,false
-54187,54,"Professional, Scientific & Technical Services",false
-812220,81,Other Services,false
-336399,33,Manufacturing,false
-562112,56,Administrative & Support Services,false
-4831,48,Transportation & Warehousing,false
-311314,31,Manufacturing,false
-332993,33,Manufacturing,false
-62221,62,Health Care & Social Assistance,false
-459930,45,Retail Trade,false
-326100,32,Manufacturing,false
-4594,45,Retail Trade,false
-53228,53,Real Estate & Rental,false
-323119,32,Manufacturing,false
-541511,54,"Professional, Scientific & Technical Services",true
-3254,32,Manufacturing,false
-518210,51,Information,true
-541110,54,"Professional, Scientific & Technical Services",false
-54171,54,"Professional, Scientific & Technical Services",false
-5416,54,"Professional, Scientific & Technical Services",false
-327211,32,Manufacturing,false
-5241,52,Finance & Insurance,false
-446110,44,Retail Trade,false
-334510,33,Manufacturing,true
-721110,72,Accommodation & Food Services,false
-541613,54,"Professional, Scientific & Technical Services",false
-6113,61,Educational Services,false
-337920,33,Manufacturing,false
-522291,52,Finance & Insurance,false
-522310,52,Finance & Insurance,false
-33411,33,Manufacturing,true
-532120,53,Real Estate & Rental,false
-488510,48,Transportation & Warehousing,false
-33993,33,Manufacturing,false
-5413,54,"Professional, Scientific & Technical Services",false
-333242,33,Manufacturing,false
-525910,52,Finance & Insurance,false
-424920,42,Wholesale Trade,false
-221122,22,Utilities,false
-923130,92,Public Administration,false
-813219,81,Other Services,false
-56133,56,Administrative & Support Services,false
-493110,49,Transportation & Warehousing,false
-3259,32,Manufacturing,false
-52229,52,Finance & Insurance,false
-53139,53,Real Estate & Rental,false
-541820,54,"Professional, Scientific & Technical Services",false
-44912,44,Retail Trade,false
-339992,33,Manufacturing,false
-33311,33,Manufacturing,false
-561439,56,Administrative & Support Services,false
-71329,71,"Arts, Entertainment & Recreation",false
-484110,48,Transportation & Warehousing,false
-33639,33,Manufacturing,false
-5132,51,Information,true
-458110,45,Retail Trade,false
-42399,42,Wholesale Trade,false
-335131,33,Manufacturing,false
-4599,45,Retail Trade,false
-456110,45,Retail Trade,false
-921110,92,Public Administration,false
-23821,23,Construction,false
-44419,44,Retail Trade,false
-2371,23,Construction,false
-6241,62,Health Care & Social Assistance,false
-81341,81,Other Services,false
-325199,32,Manufacturing,false
-51113,51,Information,true
-111419,11,"Agriculture, Forestry, Fishing & Hunting",false
-51521,51,Information,true
-532490,53,Real Estate & Rental,false
-33994,33,Manufacturing,false
-925120,92,Public Administration,false
-326291,32,Manufacturing,false
-3324,33,Manufacturing,false
-45911,45,Retail Trade,false
-4235,42,Wholesale Trade,false
-8133,81,Other Services,false
-52394,52,Finance & Insurance,false
-331410,33,Manufacturing,false
-32551,32,Manufacturing,false
-45951,45,Retail Trade,false
-211130,21,"Mining, Quarrying, Oil & Gas",false
-62419,62,Health Care & Social Assistance,false
-515112,51,Information,true
-327213,32,Manufacturing,false
-112990,11,"Agriculture, Forestry, Fishing & Hunting",false
-446130,44,Retail Trade,false
-444180,44,Retail Trade,false
-458210,45,Retail Trade,false
-33221,33,Manufacturing,false
-53121,53,Real Estate & Rental,false
-331523,33,Manufacturing,false
-315250,31,Manufacturing,false
-48621,48,Transportation & Warehousing,false
-71394,71,"Arts, Entertainment & Recreation",false
-424120,42,Wholesale Trade,false
-42471,42,Wholesale Trade,false
-81394,81,Other Services,false
-531190,53,Real Estate & Rental,false
-92615,92,Public Administration,false
-53132,53,Real Estate & Rental,false
-111335,11,"Agriculture, Forestry, Fishing & Hunting",false
-4883,48,Transportation & Warehousing,false
-323117,32,Manufacturing,false
-238350,23,Construction,false
-7139,71,"Arts, Entertainment & Recreation",false
-332216,33,Manufacturing,false
-712190,71,"Arts, Entertainment & Recreation",false
-51211,51,Information,true
-3271,32,Manufacturing,false
-924120,92,Public Administration,false
-541600,54,"Professional, Scientific & Technical Services",false
-62322,62,Health Care & Social Assistance,false
-311423,31,Manufacturing,false
-31331,31,Manufacturing,false
-48832,48,Transportation & Warehousing,false
-32212,32,Manufacturing,false
-44512,44,Retail Trade,false
-313220,31,Manufacturing,false
-513191,51,Information,true
-32521,32,Manufacturing,false
-313210,31,Manufacturing,false
-541500,54,"Professional, Scientific & Technical Services",true
-5611,56,Administrative & Support Services,false
-711212,71,"Arts, Entertainment & Recreation",false
-3322,33,Manufacturing,false
-62141,62,Health Care & Social Assistance,false
-5221,52,Finance & Insurance,false
-111140,11,"Agriculture, Forestry, Fishing & Hunting",false
-6222,62,Health Care & Social Assistance,false
-45912,45,Retail Trade,false
-213114,21,"Mining, Quarrying, Oil & Gas",false
-449122,44,Retail Trade,false
-32616,32,Manufacturing,false
-44532,44,Retail Trade,false
-33232,33,Manufacturing,false
-212111,21,"Mining, Quarrying, Oil & Gas",false
-92213,92,Public Administration,false
-336419,33,Manufacturing,false
-112320,11,"Agriculture, Forestry, Fishing & Hunting",false
-53241,53,Real Estate & Rental,false
-541611,54,"Professional, Scientific & Technical Services",false
-522110,52,Finance & Insurance,false
-811211,81,Other Services,false
+2121,21,"Mining, Quarrying, Oil & Gas",false
+562991,56,Administrative & Support Services,false
+813110,81,Other Services,false
+541990,54,"Professional, Scientific & Technical Services",false
+424410,42,Wholesale Trade,false
+339112,33,Manufacturing,false
+33632,33,Manufacturing,false
+33611,33,Manufacturing,false
+624190,62,Health Care & Social Assistance,false
+333111,33,Manufacturing,false
+4412,44,Retail Trade,false
+561431,56,Administrative & Support Services,false
+541714,54,"Professional, Scientific & Technical Services",false
+3279,32,Manufacturing,false
+45221,45,Retail Trade,false
+61171,61,Educational Services,false
+236117,23,Construction,false
+624210,62,Health Care & Social Assistance,false
+51929,51,Information,true
+237310,23,Construction,false
+455110,45,Retail Trade,false
+522299,52,Finance & Insurance,false
+425120,42,Wholesale Trade,false
+52411,52,Finance & Insurance,false
+336214,33,Manufacturing,false
+56149,56,Administrative & Support Services,false
+32199,32,Manufacturing,false
+561621,56,Administrative & Support Services,false
+423810,42,Wholesale Trade,false
+52392,52,Finance & Insurance,false
+333132,33,Manufacturing,false
+813212,81,Other Services,false
+11199,11,"Agriculture, Forestry, Fishing & Hunting",false
+3334,33,Manufacturing,false
+5122,51,Information,true
+333991,33,Manufacturing,false
+56162,56,Administrative & Support Services,false
+3352,33,Manufacturing,false
+4471,44,Retail Trade,false
+325212,32,Manufacturing,false
+457210,45,Retail Trade,false
+336320,33,Manufacturing,false
+484122,48,Transportation & Warehousing,false
+452319,45,Retail Trade,false
+621310,62,Health Care & Social Assistance,false
+337110,33,Manufacturing,false
+332999,33,Manufacturing,false
+459910,45,Retail Trade,false
+53249,53,Real Estate & Rental,false
+561421,56,Administrative & Support Services,false
+512120,51,Information,true
+2212,22,Utilities,false
+312140,31,Manufacturing,false
+31135,31,Manufacturing,false
+321920,32,Manufacturing,false
+459991,45,Retail Trade,false
+519110,51,Information,true
+524127,52,Finance & Insurance,false
+423710,42,Wholesale Trade,false
+48851,48,Transportation & Warehousing,false
+4811,48,Transportation & Warehousing,false
+336340,33,Manufacturing,false
+9251,92,Public Administration,false
+623312,62,Health Care & Social Assistance,false
+92214,92,Public Administration,false
+5222,52,Finance & Insurance,false
+44819,44,Retail Trade,false
+92311,92,Public Administration,false
+485991,48,Transportation & Warehousing,false
+115310,11,"Agriculture, Forestry, Fishing & Hunting",false
+532112,53,Real Estate & Rental,false
+111411,11,"Agriculture, Forestry, Fishing & Hunting",false
+3118,31,Manufacturing,false
+311224,31,Manufacturing,false
+423850,42,Wholesale Trade,false
+523140,52,Finance & Insurance,false
+445299,44,Retail Trade,false
+443141,44,Retail Trade,false
+311513,31,Manufacturing,false
+8113,81,Other Services,false
+32223,32,Manufacturing,false
+3371,33,Manufacturing,false
+311230,31,Manufacturing,false
+321918,32,Manufacturing,false
+335912,33,Manufacturing,false
+4251,42,Wholesale Trade,false
+42339,42,Wholesale Trade,false
+339930,33,Manufacturing,false
+112210,11,"Agriculture, Forestry, Fishing & Hunting",false
+4572,45,Retail Trade,false
+326111,32,Manufacturing,false
+488991,48,Transportation & Warehousing,false
+442210,44,Retail Trade,false
+922130,92,Public Administration,false
+311811,31,Manufacturing,false
+333244,33,Manufacturing,false
+54183,54,"Professional, Scientific & Technical Services",false
+311421,31,Manufacturing,false
+321992,32,Manufacturing,false
+1125,11,"Agriculture, Forestry, Fishing & Hunting",false
+54112,54,"Professional, Scientific & Technical Services",false
+42382,42,Wholesale Trade,false
+45942,45,Retail Trade,false
+331491,33,Manufacturing,false
+32739,32,Manufacturing,false
+337125,33,Manufacturing,false
+72233,72,Accommodation & Food Services,false
+332992,33,Manufacturing,false
+3241,32,Manufacturing,false
+54185,54,"Professional, Scientific & Technical Services",false
+812111,81,Other Services,false
+4532,45,Retail Trade,false
+336415,33,Manufacturing,false
+111320,11,"Agriculture, Forestry, Fishing & Hunting",false
+111110,11,"Agriculture, Forestry, Fishing & Hunting",false
+32615,32,Manufacturing,false
+72232,72,Accommodation & Food Services,false
+42346,42,Wholesale Trade,false
+4583,45,Retail Trade,false
+3315,33,Manufacturing,false
+44423,44,Retail Trade,false
+-131199,-1,Unknown,false
+81292,81,Other Services,false
+335300,33,Manufacturing,false
 62111,62,Health Care & Social Assistance,false
-523920,52,Finance & Insurance,false
-325411,32,Manufacturing,false
-52393,52,Finance & Insurance,false
-54199,54,"Professional, Scientific & Technical Services",false
-517919,51,Information,true
-541213,54,"Professional, Scientific & Technical Services",false
-23712,23,Construction,false
-221113,22,Utilities,false
-523130,52,Finance & Insurance,false
-541618,54,"Professional, Scientific & Technical Services",false
-311611,31,Manufacturing,false
-621330,62,Health Care & Social Assistance,false
-453910,45,Retail Trade,false
-336413,33,Manufacturing,false
-334516,33,Manufacturing,true
-311511,31,Manufacturing,false
+541611,54,"Professional, Scientific & Technical Services",false
 445120,44,Retail Trade,false
-4461,44,Retail Trade,false
-51791,51,Information,true
-22111,22,Utilities,false
-115113,11,"Agriculture, Forestry, Fishing & Hunting",false
-523120,52,Finance & Insurance,false
+522110,52,Finance & Insurance,false
+523920,52,Finance & Insurance,false
+541618,54,"Professional, Scientific & Technical Services",false
 524128,52,Finance & Insurance,false
-4442,44,Retail Trade,false
-812910,81,Other Services,false
-337121,33,Manufacturing,false
-551114,55,Management of Companies,false
-455219,45,Retail Trade,false
-31599,31,Manufacturing,false
-623210,62,Health Care & Social Assistance,false
-6232,62,Health Care & Social Assistance,false
-531130,53,Real Estate & Rental,false
+334516,33,Manufacturing,true
+517919,51,Information,true
+523130,52,Finance & Insurance,false
+922110,92,Public Administration,false
+22111,22,Utilities,false
+51791,51,Information,true
+453910,45,Retail Trade,false
+52393,52,Finance & Insurance,false
+523120,52,Finance & Insurance,false
+54199,54,"Professional, Scientific & Technical Services",false
+621330,62,Health Care & Social Assistance,false
 423220,42,Wholesale Trade,false
+455219,45,Retail Trade,false
+23611,23,Construction,false
+513110,51,Information,true
 456120,45,Retail Trade,false
-423310,42,Wholesale Trade,false
-459410,45,Retail Trade,false
-811213,81,Other Services,false
-32311,32,Manufacturing,false
+31311,31,Manufacturing,false
+449121,44,Retail Trade,false
+238290,23,Construction,false
+551114,55,Management of Companies,false
+541213,54,"Professional, Scientific & Technical Services",false
+424340,42,Wholesale Trade,false
+441227,44,Retail Trade,false
+531130,53,Real Estate & Rental,false
+424110,42,Wholesale Trade,false
 541219,54,"Professional, Scientific & Technical Services",false
-33992,33,Manufacturing,false
+336413,33,Manufacturing,false
+325411,32,Manufacturing,false
+23811,23,Construction,false
+31111,31,Manufacturing,false
+221113,22,Utilities,false
 7113,71,"Arts, Entertainment & Recreation",false
-56173,56,Administrative & Support Services,false
-11521,11,"Agriculture, Forestry, Fishing & Hunting",false
+424420,42,Wholesale Trade,false
+519210,51,Information,true
+423310,42,Wholesale Trade,false
+42383,42,Wholesale Trade,false
+31599,31,Manufacturing,false
 423910,42,Wholesale Trade,false
 722515,72,Accommodation & Food Services,false
-4581,45,Retail Trade,false
-23815,23,Construction,false
-423210,42,Wholesale Trade,false
-42383,42,Wholesale Trade,false
-31111,31,Manufacturing,false
-332913,33,Manufacturing,false
-48412,48,Transportation & Warehousing,false
-445292,44,Retail Trade,false
-238130,23,Construction,false
-513110,51,Information,true
-238290,23,Construction,false
-23611,23,Construction,false
-4551,45,Retail Trade,false
-524291,52,Finance & Insurance,false
-424420,42,Wholesale Trade,false
-3219,32,Manufacturing,false
-332111,33,Manufacturing,false
-441227,44,Retail Trade,false
-33291,33,Manufacturing,false
-519210,51,Information,true
-111339,11,"Agriculture, Forestry, Fishing & Hunting",false
-624221,62,Health Care & Social Assistance,false
-4246,42,Wholesale Trade,false
-337122,33,Manufacturing,false
 333310,33,Manufacturing,false
-423410,42,Wholesale Trade,false
-334610,33,Manufacturing,true
-5321,53,Real Estate & Rental,false
-321212,32,Manufacturing,false
-449121,44,Retail Trade,false
 2389,23,Construction,false
-2123,21,"Mining, Quarrying, Oil & Gas",false
-812331,81,Other Services,false
-212391,21,"Mining, Quarrying, Oil & Gas",false
-331318,33,Manufacturing,false
-424340,42,Wholesale Trade,false
-32621,32,Manufacturing,false
-424110,42,Wholesale Trade,false
-23811,23,Construction,false
-238310,23,Construction,false
-81119,81,Other Services,false
-516120,51,Information,true
+4246,42,Wholesale Trade,false
+623210,62,Health Care & Social Assistance,false
+111339,11,"Agriculture, Forestry, Fishing & Hunting",false
 333248,33,Manufacturing,false
+11521,11,"Agriculture, Forestry, Fishing & Hunting",false
+337121,33,Manufacturing,false
+4551,45,Retail Trade,false
+4461,44,Retail Trade,false
+56173,56,Administrative & Support Services,false
+6232,62,Health Care & Social Assistance,false
+5321,53,Real Estate & Rental,false
+459410,45,Retail Trade,false
+48412,48,Transportation & Warehousing,false
+4581,45,Retail Trade,false
+423210,42,Wholesale Trade,false
+332913,33,Manufacturing,false
+115113,11,"Agriculture, Forestry, Fishing & Hunting",false
+2123,21,"Mining, Quarrying, Oil & Gas",false
+23712,23,Construction,false
+423410,42,Wholesale Trade,false
+33992,33,Manufacturing,false
+3219,32,Manufacturing,false
 485320,48,Transportation & Warehousing,false
-51511,51,Information,true
-923140,92,Public Administration,false
-8111,81,Other Services,false
-31194,31,Manufacturing,false
-482112,48,Transportation & Warehousing,false
-922110,92,Public Administration,false
-44814,44,Retail Trade,false
-3255,32,Manufacturing,false
-561591,56,Administrative & Support Services,false
-8139,81,Other Services,false
-2372,23,Construction,false
-485111,48,Transportation & Warehousing,false
-44813,44,Retail Trade,false
-5151,51,Information,true
-311313,31,Manufacturing,false
-51312,51,Information,true
-457120,45,Retail Trade,false
-33461,33,Manufacturing,true
-322230,32,Manufacturing,false
-5161,51,Information,true
 31519,31,Manufacturing,false
-315190,31,Manufacturing,false
-4879,48,Transportation & Warehousing,false
-5617,56,Administrative & Support Services,false
-531310,53,Real Estate & Rental,false
+238310,23,Construction,false
+32311,32,Manufacturing,false
+311511,31,Manufacturing,false
+321212,32,Manufacturing,false
+524291,52,Finance & Insurance,false
+311611,31,Manufacturing,false
+516120,51,Information,true
+332111,33,Manufacturing,false
+923140,92,Public Administration,false
+624221,62,Health Care & Social Assistance,false
+482112,48,Transportation & Warehousing,false
+811213,81,Other Services,false
 444220,44,Retail Trade,false
+485111,48,Transportation & Warehousing,false
+811211,81,Other Services,false
+81119,81,Other Services,false
+238130,23,Construction,false
+31194,31,Manufacturing,false
+5617,56,Administrative & Support Services,false
+8139,81,Other Services,false
+561591,56,Administrative & Support Services,false
+812910,81,Other Services,false
+8111,81,Other Services,false
+5151,51,Information,true
+33291,33,Manufacturing,false
+51312,51,Information,true
+334610,33,Manufacturing,true
+331318,33,Manufacturing,false
+3255,32,Manufacturing,false
+5161,51,Information,true
+32621,32,Manufacturing,false
+337122,33,Manufacturing,false
+51511,51,Information,true
+4879,48,Transportation & Warehousing,false
 11221,11,"Agriculture, Forestry, Fishing & Hunting",false
-31311,31,Manufacturing,false
+212391,21,"Mining, Quarrying, Oil & Gas",false
+445292,44,Retail Trade,false
 532420,53,Real Estate & Rental,false
-48532,48,Transportation & Warehousing,false
-71312,71,"Arts, Entertainment & Recreation",false
-1112,11,"Agriculture, Forestry, Fishing & Hunting",false
-52314,52,Finance & Insurance,false
-62191,62,Health Care & Social Assistance,false
+315190,31,Manufacturing,false
+23815,23,Construction,false
+33461,33,Manufacturing,true
+311313,31,Manufacturing,false
 459990,45,Retail Trade,false
-541713,54,"Professional, Scientific & Technical Services",false
-454110,45,Retail Trade,false
-541519,54,"Professional, Scientific & Technical Services",true
-5415,54,"Professional, Scientific & Technical Services",true
-3359,33,Manufacturing,false
-423490,42,Wholesale Trade,false
-33911,33,Manufacturing,false
-561330,56,Administrative & Support Services,false
-336360,33,Manufacturing,false
-512290,51,Information,true
-561110,56,Administrative & Support Services,false
-33531,33,Manufacturing,false
-541612,54,"Professional, Scientific & Technical Services",false
-515120,51,Information,true
-31499,31,Manufacturing,false
-3339,33,Manufacturing,false
-3152,31,Manufacturing,false
-54192,54,"Professional, Scientific & Technical Services",false
-525110,52,Finance & Insurance,false
-33991,33,Manufacturing,false
-621999,62,Health Care & Social Assistance,false
-711211,71,"Arts, Entertainment & Recreation",false
-316210,31,Manufacturing,false
-23621,23,Construction,false
-44314,44,Retail Trade,false
-62142,62,Health Care & Social Assistance,false
-522220,52,Finance & Insurance,false
-423740,42,Wholesale Trade,false
-333921,33,Manufacturing,false
-3253,32,Manufacturing,false
-336110,33,Manufacturing,false
-921120,92,Public Administration,false
-541340,54,"Professional, Scientific & Technical Services",false
-31191,31,Manufacturing,false
-424490,42,Wholesale Trade,false
-51512,51,Information,true
-531110,53,Real Estate & Rental,false
-523940,52,Finance & Insurance,false
-33636,33,Manufacturing,false
--3133,-3,Unknown,false
-523160,52,Finance & Insurance,false
-42349,42,Wholesale Trade,false
-81299,81,Other Services,false
-311920,31,Manufacturing,false
-561312,56,Administrative & Support Services,false
-512191,51,Information,true
-33721,33,Manufacturing,false
-48811,48,Transportation & Warehousing,false
-458310,45,Retail Trade,false
-326140,32,Manufacturing,false
-311812,31,Manufacturing,false
-2379,23,Construction,false
-42469,42,Wholesale Trade,false
-326220,32,Manufacturing,false
-21113,21,"Mining, Quarrying, Oil & Gas",false
-333318,33,Manufacturing,false
-621410,62,Health Care & Social Assistance,false
-44612,44,Retail Trade,false
-321991,32,Manufacturing,false
-337127,33,Manufacturing,false
-488490,48,Transportation & Warehousing,false
-3221,32,Manufacturing,false
-513140,51,Information,true
-339991,33,Manufacturing,false
-336310,33,Manufacturing,false
-335932,33,Manufacturing,false
-561720,56,Administrative & Support Services,false
-6219,62,Health Care & Social Assistance,false
-71391,71,"Arts, Entertainment & Recreation",false
-32213,32,Manufacturing,false
-333613,33,Manufacturing,false
-327390,32,Manufacturing,false
-424720,42,Wholesale Trade,false
-332114,33,Manufacturing,false
-6112,61,Educational Services,false
-4884,48,Transportation & Warehousing,false
-51612,51,Information,true
-42435,42,Wholesale Trade,false
-336112,33,Manufacturing,false
-111211,11,"Agriculture, Forestry, Fishing & Hunting",false
-4241,42,Wholesale Trade,false
-322130,32,Manufacturing,false
-532411,53,Real Estate & Rental,false
-314994,31,Manufacturing,false
-44524,44,Retail Trade,false
-333996,33,Manufacturing,false
-44111,44,Retail Trade,false
-4821,48,Transportation & Warehousing,false
-44229,44,Retail Trade,false
-71151,71,"Arts, Entertainment & Recreation",false
-333511,33,Manufacturing,false
-42362,42,Wholesale Trade,false
-42372,42,Wholesale Trade,false
-56142,56,Administrative & Support Services,false
-48839,48,Transportation & Warehousing,false
-423130,42,Wholesale Trade,false
-926150,92,Public Administration,false
-562212,56,Administrative & Support Services,false
-56151,56,Administrative & Support Services,false
-333997,33,Manufacturing,false
-3133,31,Manufacturing,false
-312120,31,Manufacturing,false
-3325,33,Manufacturing,false
-42321,42,Wholesale Trade,false
-611692,61,Educational Services,false
-42331,42,Wholesale Trade,false
-1111,11,"Agriculture, Forestry, Fishing & Hunting",false
-11411,11,"Agriculture, Forestry, Fishing & Hunting",false
-81233,81,Other Services,false
-311211,31,Manufacturing,false
-331524,33,Manufacturing,false
-316998,31,Manufacturing,false
-424430,42,Wholesale Trade,false
-11121,11,"Agriculture, Forestry, Fishing & Hunting",false
-321213,32,Manufacturing,false
-814110,81,Other Services,false
-33637,33,Manufacturing,false
-92113,92,Public Administration,false
-459140,45,Retail Trade,false
-3311,33,Manufacturing,false
-213115,21,"Mining, Quarrying, Oil & Gas",false
-56144,56,Administrative & Support Services,false
-488111,48,Transportation & Warehousing,false
-44831,44,Retail Trade,false
-21211,21,"Mining, Quarrying, Oil & Gas",false
-3211,32,Manufacturing,false
-56121,56,Administrative & Support Services,false
-32712,32,Manufacturing,false
-3321,33,Manufacturing,false
-424440,42,Wholesale Trade,false
-113310,11,"Agriculture, Forestry, Fishing & Hunting",false
-812921,81,Other Services,false
-48411,48,Transportation & Warehousing,false
-11531,11,"Agriculture, Forestry, Fishing & Hunting",false
-31134,31,Manufacturing,false
-11133,11,"Agriculture, Forestry, Fishing & Hunting",false
-445250,44,Retail Trade,false
-722510,72,Accommodation & Food Services,false
-33149,33,Manufacturing,false
-532283,53,Real Estate & Rental,false
-45331,45,Retail Trade,false
-32562,32,Manufacturing,false
-71113,71,"Arts, Entertainment & Recreation",false
-541211,54,"Professional, Scientific & Technical Services",false
+322230,32,Manufacturing,false
+62191,62,Health Care & Social Assistance,false
+44813,44,Retail Trade,false
+457120,45,Retail Trade,false
+812331,81,Other Services,false
+71312,71,"Arts, Entertainment & Recreation",false
+4442,44,Retail Trade,false
+44814,44,Retail Trade,false
+52314,52,Finance & Insurance,false
+531310,53,Real Estate & Rental,false
+48532,48,Transportation & Warehousing,false
+2372,23,Construction,false
+53241,53,Real Estate & Rental,false
+1112,11,"Agriculture, Forestry, Fishing & Hunting",false
 511210,51,Information,true
-51731,51,Information,true
-522320,52,Finance & Insurance,false
-621210,62,Health Care & Social Assistance,false
-52311,52,Finance & Insurance,false
-423840,42,Wholesale Trade,false
-2383,23,Construction,false
 444110,44,Retail Trade,false
-31621,31,Manufacturing,false
-511130,51,Information,true
-52421,52,Finance & Insurance,false
-33422,33,Manufacturing,true
-31199,31,Manufacturing,false
+541211,54,"Professional, Scientific & Technical Services",false
+51212,51,Information,true
+522320,52,Finance & Insurance,false
 54119,54,"Professional, Scientific & Technical Services",false
-335122,33,Manufacturing,false
-522120,52,Finance & Insurance,false
+621210,62,Health Care & Social Assistance,false
+425110,42,Wholesale Trade,false
+42511,42,Wholesale Trade,false
+52311,52,Finance & Insurance,false
+71399,71,"Arts, Entertainment & Recreation",false
 52232,52,Finance & Insurance,false
-525190,52,Finance & Insurance,false
-531120,53,Real Estate & Rental,false
-333414,33,Manufacturing,false
-221121,22,Utilities,false
-561422,56,Administrative & Support Services,false
-324122,32,Manufacturing,false
+326299,32,Manufacturing,false
+513210,51,Information,true
+522120,52,Finance & Insurance,false
+32512,32,Manufacturing,false
+336120,33,Manufacturing,false
+31199,31,Manufacturing,false
+5412,54,"Professional, Scientific & Technical Services",false
+335122,33,Manufacturing,false
+52315,52,Finance & Insurance,false
+54132,54,"Professional, Scientific & Technical Services",false
+52592,52,Finance & Insurance,false
+331210,33,Manufacturing,false
+926130,92,Public Administration,false
+33422,33,Manufacturing,true
+517111,51,Information,true
+1151,11,"Agriculture, Forestry, Fishing & Hunting",false
 3351,33,Manufacturing,false
-334290,33,Manufacturing,true
+531120,53,Real Estate & Rental,false
+448150,44,Retail Trade,false
+482111,48,Transportation & Warehousing,false
+454310,45,Retail Trade,false
+51731,51,Information,true
 453210,45,Retail Trade,false
+5411,54,"Professional, Scientific & Technical Services",false
+42412,42,Wholesale Trade,false
+561422,56,Administrative & Support Services,false
+335220,33,Manufacturing,false
+511130,51,Information,true
+423840,42,Wholesale Trade,false
+334290,33,Manufacturing,true
+236210,23,Construction,false
+325110,32,Manufacturing,false
+517121,51,Information,true
+52421,52,Finance & Insurance,false
+33521,33,Manufacturing,false
+5614,56,Administrative & Support Services,false
+4492,44,Retail Trade,false
+5121,51,Information,true
+333414,33,Manufacturing,false
+423420,42,Wholesale Trade,false
+561910,56,Administrative & Support Services,false
+339116,33,Manufacturing,false
+221121,22,Utilities,false
+813930,81,Other Services,false
+525190,52,Finance & Insurance,false
+33712,33,Manufacturing,false
+448190,44,Retail Trade,false
+31621,31,Manufacturing,false
 333314,33,Manufacturing,false
 483112,48,Transportation & Warehousing,false
-54132,54,"Professional, Scientific & Technical Services",false
-513210,51,Information,true
-52315,52,Finance & Insurance,false
-327320,32,Manufacturing,false
-339116,33,Manufacturing,false
-5614,56,Administrative & Support Services,false
-561910,56,Administrative & Support Services,false
-532210,53,Real Estate & Rental,false
-926130,92,Public Administration,false
-517121,51,Information,true
-482111,48,Transportation & Warehousing,false
-425110,42,Wholesale Trade,false
-5412,54,"Professional, Scientific & Technical Services",false
-325110,32,Manufacturing,false
-336120,33,Manufacturing,false
-326299,32,Manufacturing,false
-92314,92,Public Administration,false
-448190,44,Retail Trade,false
-31142,31,Manufacturing,false
-5411,54,"Professional, Scientific & Technical Services",false
-331210,33,Manufacturing,false
-32512,32,Manufacturing,false
-32619,32,Manufacturing,false
-236210,23,Construction,false
-3323,33,Manufacturing,false
-445240,44,Retail Trade,false
-33712,33,Manufacturing,false
-454310,45,Retail Trade,false
-5121,51,Information,true
-311911,31,Manufacturing,false
-32611,32,Manufacturing,false
-331315,33,Manufacturing,false
 334514,33,Manufacturing,true
-517111,51,Information,true
-71399,71,"Arts, Entertainment & Recreation",false
-311813,31,Manufacturing,false
-33521,33,Manufacturing,false
-423420,42,Wholesale Trade,false
-448150,44,Retail Trade,false
-45619,45,Retail Trade,false
-32221,32,Manufacturing,false
-52316,52,Finance & Insurance,false
-335220,33,Manufacturing,false
-332410,33,Manufacturing,false
-334614,33,Manufacturing,true
-42511,42,Wholesale Trade,false
-611512,61,Educational Services,false
-511191,51,Information,true
-51212,51,Information,true
-332613,33,Manufacturing,false
-424950,42,Wholesale Trade,false
-1151,11,"Agriculture, Forestry, Fishing & Hunting",false
-3113,31,Manufacturing,false
-447190,44,Retail Trade,false
-325910,32,Manufacturing,false
-511140,51,Information,true
-4233,42,Wholesale Trade,false
-813930,81,Other Services,false
-33271,33,Manufacturing,false
-212210,21,"Mining, Quarrying, Oil & Gas",false
-332811,33,Manufacturing,false
-33792,33,Manufacturing,false
-221330,22,Utilities,false
-52312,52,Finance & Insurance,false
-313310,31,Manufacturing,false
-71131,71,"Arts, Entertainment & Recreation",false
 449129,44,Retail Trade,false
-4237,42,Wholesale Trade,false
+722514,72,Accommodation & Food Services,false
+45619,45,Retail Trade,false
+332410,33,Manufacturing,false
+32619,32,Manufacturing,false
+212210,21,"Mining, Quarrying, Oil & Gas",false
+33792,33,Manufacturing,false
+447190,44,Retail Trade,false
+322122,32,Manufacturing,false
+334614,33,Manufacturing,true
+31524,31,Manufacturing,false
+4543,45,Retail Trade,false
+71131,71,"Arts, Entertainment & Recreation",false
+52312,52,Finance & Insurance,false
+3323,33,Manufacturing,false
+712120,71,"Arts, Entertainment & Recreation",false
+311813,31,Manufacturing,false
 5178,51,Information,true
 336414,33,Manufacturing,false
 5331,53,Real Estate & Rental,false
-31524,31,Manufacturing,false
+811198,81,Other Services,false
+325910,32,Manufacturing,false
+611512,61,Educational Services,false
 336992,33,Manufacturing,false
-112340,11,"Agriculture, Forestry, Fishing & Hunting",false
+48422,48,Transportation & Warehousing,false
+92314,92,Public Administration,false
+332811,33,Manufacturing,false
+332613,33,Manufacturing,false
+922140,92,Public Administration,false
+4233,42,Wholesale Trade,false
+324122,32,Manufacturing,false
+48421,48,Transportation & Warehousing,false
+32111,32,Manufacturing,false
+32611,32,Manufacturing,false
+53231,53,Real Estate & Rental,false
+2383,23,Construction,false
+33271,33,Manufacturing,false
+331315,33,Manufacturing,false
+311911,31,Manufacturing,false
+313310,31,Manufacturing,false
+532210,53,Real Estate & Rental,false
+5615,56,Administrative & Support Services,false
+511191,51,Information,true
+327320,32,Manufacturing,false
+32191,32,Manufacturing,false
+32221,32,Manufacturing,false
+813940,81,Other Services,false
+424810,42,Wholesale Trade,false
+4237,42,Wholesale Trade,false
+221330,22,Utilities,false
+485210,48,Transportation & Warehousing,false
+511140,51,Information,true
+445240,44,Retail Trade,false
+42373,42,Wholesale Trade,false
+32312,32,Manufacturing,false
+327992,32,Manufacturing,false
+33122,33,Manufacturing,false
+3113,31,Manufacturing,false
+71321,71,"Arts, Entertainment & Recreation",false
+44521,44,Retail Trade,false
+611511,61,Educational Services,false
 314910,31,Manufacturing,false
 459310,45,Retail Trade,false
-922140,92,Public Administration,false
-5615,56,Administrative & Support Services,false
-4492,44,Retail Trade,false
-52592,52,Finance & Insurance,false
-33122,33,Manufacturing,false
-42373,42,Wholesale Trade,false
-811198,81,Other Services,false
-813940,81,Other Services,false
-42433,42,Wholesale Trade,false
-4543,45,Retail Trade,false
-713950,71,"Arts, Entertainment & Recreation",false
-712120,71,"Arts, Entertainment & Recreation",false
-327992,32,Manufacturing,false
-485210,48,Transportation & Warehousing,false
 112519,11,"Agriculture, Forestry, Fishing & Hunting",false
-48421,48,Transportation & Warehousing,false
-51213,51,Information,true
-32191,32,Manufacturing,false
-53231,53,Real Estate & Rental,false
-44521,44,Retail Trade,false
-11131,11,"Agriculture, Forestry, Fishing & Hunting",false
-424810,42,Wholesale Trade,false
-722514,72,Accommodation & Food Services,false
-42412,42,Wholesale Trade,false
-71321,71,"Arts, Entertainment & Recreation",false
-325194,32,Manufacturing,false
-611513,61,Educational Services,false
-611511,61,Educational Services,false
-11194,11,"Agriculture, Forestry, Fishing & Hunting",false
-32111,32,Manufacturing,false
-32312,32,Manufacturing,false
-322122,32,Manufacturing,false
-48422,48,Transportation & Warehousing,false
+31142,31,Manufacturing,false
+112340,11,"Agriculture, Forestry, Fishing & Hunting",false
 337900,33,Manufacturing,false
 4552,45,Retail Trade,false
-31322,31,Manufacturing,false
+42433,42,Wholesale Trade,false
+424950,42,Wholesale Trade,false
+52316,52,Finance & Insurance,false
+611513,61,Educational Services,false
+713950,71,"Arts, Entertainment & Recreation",false
 922150,92,Public Administration,false
-3261,32,Manufacturing,false
-424210,42,Wholesale Trade,false
-623220,62,Health Care & Social Assistance,false
-54169,54,"Professional, Scientific & Technical Services",false
-452210,45,Retail Trade,false
-6111,61,Educational Services,false
-6211,62,Health Care & Social Assistance,false
-3119,31,Manufacturing,false
-325412,32,Manufacturing,false
-811219,81,Other Services,false
-517911,51,Information,true
-33399,33,Manufacturing,false
-923110,92,Public Administration,false
-522292,52,Finance & Insurance,false
-423450,42,Wholesale Trade,false
-517311,51,Information,true
-237120,23,Construction,false
-4244,42,Wholesale Trade,false
-423510,42,Wholesale Trade,false
-621511,62,Health Care & Social Assistance,false
-221111,22,Utilities,false
-423610,42,Wholesale Trade,false
-521110,52,Finance & Insurance,false
-33391,33,Manufacturing,false
-441120,44,Retail Trade,false
-712110,71,"Arts, Entertainment & Recreation",false
-333413,33,Manufacturing,false
-54111,54,"Professional, Scientific & Technical Services",false
-424330,42,Wholesale Trade,false
-321911,32,Manufacturing,false
-339113,33,Manufacturing,false
-5312,53,Real Estate & Rental,false
-423720,42,Wholesale Trade,false
-813311,81,Other Services,false
-49312,49,Transportation & Warehousing,false
-522190,52,Finance & Insurance,false
-332912,33,Manufacturing,false
-2381,23,Construction,false
-423930,42,Wholesale Trade,false
-333993,33,Manufacturing,false
-3273,32,Manufacturing,false
-333415,33,Manufacturing,false
-62161,62,Health Care & Social Assistance,false
-337124,33,Manufacturing,false
-339920,33,Manufacturing,false
-327420,32,Manufacturing,false
-45811,45,Retail Trade,false
-448120,44,Retail Trade,false
-423110,42,Wholesale Trade,false
-333611,33,Manufacturing,false
-541370,54,"Professional, Scientific & Technical Services",false
-45112,45,Retail Trade,false
-32519,32,Manufacturing,false
-54189,54,"Professional, Scientific & Technical Services",false
-722320,72,Accommodation & Food Services,false
-33512,33,Manufacturing,false
-326160,32,Manufacturing,false
-926110,92,Public Administration,false
-325311,32,Manufacturing,false
-441210,44,Retail Trade,false
-62441,62,Health Care & Social Assistance,false
-315990,31,Manufacturing,false
-54149,54,"Professional, Scientific & Technical Services",false
-4249,42,Wholesale Trade,false
--4445,-4,Unknown,false
-424940,42,Wholesale Trade,false
-621512,62,Health Care & Social Assistance,false
-3151,31,Manufacturing,false
-442110,44,Retail Trade,false
-332119,33,Manufacturing,false
-327215,32,Manufacturing,false
-42384,42,Wholesale Trade,false
-326121,32,Manufacturing,false
-53111,53,Real Estate & Rental,false
-459120,45,Retail Trade,false
-331492,33,Manufacturing,false
-52591,52,Finance & Insurance,false
-42312,42,Wholesale Trade,false
-45612,45,Retail Trade,false
-32419,32,Manufacturing,false
-332420,33,Manufacturing,false
-54135,54,"Professional, Scientific & Technical Services",false
-424130,42,Wholesale Trade,false
-326112,32,Manufacturing,false
-54142,54,"Professional, Scientific & Technical Services",false
-448210,44,Retail Trade,false
-3314,33,Manufacturing,false
-314120,31,Manufacturing,false
-325220,32,Manufacturing,false
-456130,45,Retail Trade,false
-532412,53,Real Estate & Rental,false
-212321,21,"Mining, Quarrying, Oil & Gas",false
-53221,53,Real Estate & Rental,false
-3327,33,Manufacturing,false
-3341,33,Manufacturing,true
-238140,23,Construction,false
-925110,92,Public Administration,false
-325920,32,Manufacturing,false
-481212,48,Transportation & Warehousing,false
-44131,44,Retail Trade,false
-62131,62,Health Care & Social Assistance,false
-316992,31,Manufacturing,false
-321912,32,Manufacturing,false
-812320,81,Other Services,false
-721214,72,Accommodation & Food Services,false
-561790,56,Administrative & Support Services,false
-928120,92,Public Administration,false
-3231,32,Manufacturing,false
-611410,61,Educational Services,false
-532284,53,Real Estate & Rental,false
-72231,72,Accommodation & Food Services,false
-721211,72,Accommodation & Food Services,false
-21222,21,"Mining, Quarrying, Oil & Gas",false
-45721,45,Retail Trade,false
-62412,62,Health Care & Social Assistance,false
-52511,52,Finance & Insurance,false
-53242,53,Real Estate & Rental,false
-212324,21,"Mining, Quarrying, Oil & Gas",false
-212323,21,"Mining, Quarrying, Oil & Gas",false
-322299,32,Manufacturing,false
-111331,11,"Agriculture, Forestry, Fishing & Hunting",false
-92812,92,Public Administration,false
-4421,44,Retail Trade,false
-221320,22,Utilities,false
-112112,11,"Agriculture, Forestry, Fishing & Hunting",false
-92114,92,Public Administration,false
-493130,49,Transportation & Warehousing,false
-92216,92,Public Administration,false
-512199,51,Information,true
-4245,42,Wholesale Trade,false
-485510,48,Transportation & Warehousing,false
-111199,11,"Agriculture, Forestry, Fishing & Hunting",false
-321214,32,Manufacturing,false
-212325,21,"Mining, Quarrying, Oil & Gas",false
-3335,33,Manufacturing,false
-33142,33,Manufacturing,false
-11111,11,"Agriculture, Forestry, Fishing & Hunting",false
-33593,33,Manufacturing,false
-321211,32,Manufacturing,false
-611690,61,Educational Services,false
-45392,45,Retail Trade,false
-1123,11,"Agriculture, Forestry, Fishing & Hunting",false
-5322,53,Real Estate & Rental,false
-31214,31,Manufacturing,false
-31223,31,Manufacturing,false
-212390,21,"Mining, Quarrying, Oil & Gas",false
-444120,44,Retail Trade,false
-561300,56,Administrative & Support Services,false
-32121,32,Manufacturing,false
-1122,11,"Agriculture, Forestry, Fishing & Hunting",false
-31332,31,Manufacturing,false
-44531,44,Retail Trade,false
-44513,44,Retail Trade,false
-721310,72,Accommodation & Food Services,false
-541330,54,"Professional, Scientific & Technical Services",false
-334111,33,Manufacturing,true
-561450,56,Administrative & Support Services,false
-541310,54,"Professional, Scientific & Technical Services",false
-522210,52,Finance & Insurance,false
-541720,54,"Professional, Scientific & Technical Services",false
-515210,51,Information,true
-448140,44,Retail Trade,false
-3336,33,Manufacturing,false
-722310,72,Accommodation & Food Services,false
-52429,52,Finance & Insurance,false
-541614,54,"Professional, Scientific & Technical Services",false
-237130,23,Construction,false
-561499,56,Administrative & Support Services,false
-423430,42,Wholesale Trade,false
-621610,62,Health Care & Social Assistance,false
-45439,45,Retail Trade,false
-325211,32,Manufacturing,false
-313230,31,Manufacturing,false
-6116,61,Educational Services,false
-334118,33,Manufacturing,true
-4452,44,Retail Trade,false
-561311,56,Administrative & Support Services,false
-56211,56,Administrative & Support Services,false
-337214,33,Manufacturing,false
-541320,54,"Professional, Scientific & Technical Services",false
-33522,33,Manufacturing,false
-42311,42,Wholesale Trade,false
-4238,42,Wholesale Trade,false
-71141,71,"Arts, Entertainment & Recreation",false
-525920,52,Finance & Insurance,false
-213111,21,"Mining, Quarrying, Oil & Gas",false
-921190,92,Public Administration,false
-51219,51,Information,true
-62431,62,Health Care & Social Assistance,false
-9231,92,Public Administration,false
-33324,33,Manufacturing,false
-332994,33,Manufacturing,false
-561520,56,Administrative & Support Services,false
-335313,33,Manufacturing,false
-335312,33,Manufacturing,false
-335910,33,Manufacturing,false
-3256,32,Manufacturing,false
-112512,11,"Agriculture, Forestry, Fishing & Hunting",false
-312130,31,Manufacturing,false
-333912,33,Manufacturing,false
-48899,48,Transportation & Warehousing,false
-51711,51,Information,true
-44921,44,Retail Trade,false
-811210,81,Other Services,false
-424690,42,Wholesale Trade,false
-221118,22,Utilities,false
-713120,71,"Arts, Entertainment & Recreation",false
-212230,21,"Mining, Quarrying, Oil & Gas",false
-322120,32,Manufacturing,false
-42345,42,Wholesale Trade,false
-221112,22,Utilities,false
-311821,31,Manufacturing,false
-48211,48,Transportation & Warehousing,false
-49221,49,Transportation & Warehousing,false
-812112,81,Other Services,false
-323113,32,Manufacturing,false
-81331,81,Other Services,false
-54138,54,"Professional, Scientific & Technical Services",false
-212220,21,"Mining, Quarrying, Oil & Gas",false
-54141,54,"Professional, Scientific & Technical Services",false
-33299,33,Manufacturing,false
-3112,31,Manufacturing,false
-44511,44,Retail Trade,false
-42333,42,Wholesale Trade,false
-337211,33,Manufacturing,false
-484230,48,Transportation & Warehousing,false
-33351,33,Manufacturing,false
-333243,33,Manufacturing,false
-459920,45,Retail Trade,false
-333612,33,Manufacturing,false
-61141,61,Educational Services,false
-62411,62,Health Care & Social Assistance,false
-2373,23,Construction,false
-457110,45,Retail Trade,false
-62231,62,Health Care & Social Assistance,false
-44529,44,Retail Trade,false
-322220,32,Manufacturing,false
-327993,32,Manufacturing,false
-42443,42,Wholesale Trade,false
-562998,56,Administrative & Support Services,false
-335139,33,Manufacturing,false
-561613,56,Administrative & Support Services,false
-561612,56,Administrative & Support Services,false
-311412,31,Manufacturing,false
-32614,32,Manufacturing,false
-33621,33,Manufacturing,false
-522293,52,Finance & Insurance,false
-11511,11,"Agriculture, Forestry, Fishing & Hunting",false
-335931,33,Manufacturing,false
-81321,81,Other Services,false
-45521,45,Retail Trade,false
-6242,62,Health Care & Social Assistance,false
-33361,33,Manufacturing,false
-212322,21,"Mining, Quarrying, Oil & Gas",false
-44134,44,Retail Trade,false
-44424,44,Retail Trade,false
-61162,61,Educational Services,false
-4869,48,Transportation & Warehousing,false
-71132,71,"Arts, Entertainment & Recreation",false
-44815,44,Retail Trade,false
-339994,33,Manufacturing,false
-31699,31,Manufacturing,false
-22131,22,Utilities,false
-5162,51,Information,true
-44711,44,Retail Trade,false
-532282,53,Real Estate & Rental,false
-21112,21,"Mining, Quarrying, Oil & Gas",false
-32522,32,Manufacturing,false
-45613,45,Retail Trade,false
-7211,72,Accommodation & Food Services,false
-3116,31,Manufacturing,false
-32222,32,Manufacturing,false
-72121,72,Accommodation & Food Services,false
-31212,31,Manufacturing,false
-72112,72,Accommodation & Food Services,false
-313320,31,Manufacturing,false
-1113,11,"Agriculture, Forestry, Fishing & Hunting",false
-424520,42,Wholesale Trade,false
-33242,33,Manufacturing,false
-33243,33,Manufacturing,false
-33511,33,Manufacturing,false
-7131,71,"Arts, Entertainment & Recreation",false
-42341,42,Wholesale Trade,false
-111120,11,"Agriculture, Forestry, Fishing & Hunting",false
-42431,42,Wholesale Trade,false
-22133,22,Utilities,false
-53311,53,Real Estate & Rental,false
-457100,45,Retail Trade,false
-334417,33,Manufacturing,true
-523910,52,Finance & Insurance,false
-325120,32,Manufacturing,false
-3364,33,Manufacturing,false
-531390,53,Real Estate & Rental,false
-325414,32,Manufacturing,false
-336111,33,Manufacturing,false
-5242,52,Finance & Insurance,false
-331110,33,Manufacturing,false
-611210,61,Educational Services,false
-52231,52,Finance & Insurance,false
-561599,56,Administrative & Support Services,false
-517410,51,Information,true
-31213,31,Manufacturing,false
-333120,33,Manufacturing,false
-55111,55,Management of Companies,false
-32561,32,Manufacturing,false
-61111,61,Educational Services,false
-238220,23,Construction,false
-519190,51,Information,true
-33641,33,Manufacturing,false
-541930,54,"Professional, Scientific & Technical Services",false
-448130,44,Retail Trade,false
-62211,62,Health Care & Social Assistance,false
-33999,33,Manufacturing,false
-481211,48,Transportation & Warehousing,false
-446120,44,Retail Trade,false
-337910,33,Manufacturing,false
-333995,33,Manufacturing,false
-561410,56,Administrative & Support Services,false
-312111,31,Manufacturing,false
-523999,52,Finance & Insurance,false
-811310,81,Other Services,false
-238110,23,Construction,false
-813920,81,Other Services,false
-336350,33,Manufacturing,false
-484121,48,Transportation & Warehousing,false
-452311,45,Retail Trade,false
-516210,51,Information,true
-3132,31,Manufacturing,false
-332996,33,Manufacturing,false
-511120,51,Information,true
-212221,21,"Mining, Quarrying, Oil & Gas",false
-221210,22,Utilities,false
-339950,33,Manufacturing,false
-325620,32,Manufacturing,false
-332321,33,Manufacturing,false
-238340,23,Construction,false
-813990,81,Other Services,false
-6231,62,Health Care & Social Assistance,false
-54143,54,"Professional, Scientific & Technical Services",false
-519120,51,Information,true
-331529,33,Manufacturing,false
-51319,51,Information,true
-713940,71,"Arts, Entertainment & Recreation",false
-4881,48,Transportation & Warehousing,false
-33121,33,Manufacturing,false
-339999,33,Manufacturing,false
-449110,44,Retail Trade,false
-5324,53,Real Estate & Rental,false
-336612,33,Manufacturing,false
-424590,42,Wholesale Trade,false
-326130,32,Manufacturing,false
-561440,56,Administrative & Support Services,false
-339114,33,Manufacturing,false
-446191,44,Retail Trade,false
-49311,49,Transportation & Warehousing,false
-52391,52,Finance & Insurance,false
-483111,48,Transportation & Warehousing,false
-238330,23,Construction,false
-337126,33,Manufacturing,false
-336212,33,Manufacturing,false
-611519,61,Educational Services,false
-339940,33,Manufacturing,false
-332323,33,Manufacturing,false
-811192,81,Other Services,false
-33995,33,Manufacturing,false
-2361,23,Construction,false
-921130,92,Public Administration,false
-456199,45,Retail Trade,false
-325992,32,Manufacturing,false
-532310,53,Real Estate & Rental,false
-423330,42,Wholesale Trade,false
-51741,51,Information,true
-61151,61,Educational Services,false
-311411,31,Manufacturing,false
-441228,44,Retail Trade,false
-33421,33,Manufacturing,true
-62149,62,Health Care & Social Assistance,false
-23812,23,Construction,false
-512240,51,Information,true
-11141,11,"Agriculture, Forestry, Fishing & Hunting",false
-33261,33,Manufacturing,false
-44525,44,Retail Trade,false
-424710,42,Wholesale Trade,false
-2382,23,Construction,false
-7121,71,"Arts, Entertainment & Recreation",false
-21311,21,"Mining, Quarrying, Oil & Gas",false
-927110,92,Public Administration,false
-5616,56,Administrative & Support Services,false
-23832,23,Construction,false
-45921,45,Retail Trade,false
-445210,44,Retail Trade,false
-327332,32,Manufacturing,false
-72119,72,Accommodation & Food Services,false
-81221,81,Other Services,false
-62423,62,Health Care & Social Assistance,false
-424100,42,Wholesale Trade,false
-516110,51,Information,true
-81149,81,Other Services,false
-311613,31,Manufacturing,false
-327331,32,Manufacturing,false
-45393,45,Retail Trade,false
-54191,54,"Professional, Scientific & Technical Services",false
-721191,72,Accommodation & Food Services,false
-44619,44,Retail Trade,false
-315280,31,Manufacturing,false
-561491,56,Administrative & Support Services,false
-8131,81,Other Services,false
-42444,42,Wholesale Trade,false
-531200,53,Real Estate & Rental,false
-42445,42,Wholesale Trade,false
-42448,42,Wholesale Trade,false
-423520,42,Wholesale Trade,false
-487210,48,Transportation & Warehousing,false
-327999,32,Manufacturing,false
-45992,45,Retail Trade,false
-92313,92,Public Administration,false
-44821,44,Retail Trade,false
-23835,23,Construction,false
-4812,48,Transportation & Warehousing,false
-423990,42,Wholesale Trade,false
-492110,49,Transportation & Warehousing,false
-541512,54,"Professional, Scientific & Technical Services",true
-517312,51,Information,true
-4541,45,Retail Trade,false
-623110,62,Health Care & Social Assistance,false
-523930,52,Finance & Insurance,false
-56145,56,Administrative & Support Services,false
-337215,33,Manufacturing,false
-722513,72,Accommodation & Food Services,false
-324110,32,Manufacturing,false
-711110,71,"Arts, Entertainment & Recreation",false
-331313,33,Manufacturing,false
-312112,31,Manufacturing,false
-334511,33,Manufacturing,true
-3115,31,Manufacturing,false
-611420,61,Educational Services,false
-423940,42,Wholesale Trade,false
-541513,54,"Professional, Scientific & Technical Services",true
-334419,33,Manufacturing,true
-541890,54,"Professional, Scientific & Technical Services",false
-339910,33,Manufacturing,false
-3345,33,Manufacturing,true
-541690,54,"Professional, Scientific & Technical Services",false
-237110,23,Construction,false
-53131,53,Real Estate & Rental,false
-512131,51,Information,true
-5622,56,Administrative & Support Services,false
-448310,44,Retail Trade,false
-519290,51,Information,true
-524130,52,Finance & Insurance,false
-611610,61,Educational Services,false
-334517,33,Manufacturing,true
-624230,62,Health Care & Social Assistance,false
-42413,42,Wholesale Trade,false
-22112,22,Utilities,false
-33329,33,Manufacturing,false
-923120,92,Public Administration,false
-623311,62,Health Care & Social Assistance,false
-611430,61,Educational Services,false
-713290,71,"Arts, Entertainment & Recreation",false
-32411,32,Manufacturing,false
-441330,44,Retail Trade,false
-324121,32,Manufacturing,false
-333998,33,Manufacturing,false
-561492,56,Administrative & Support Services,false
-444130,44,Retail Trade,false
-7223,72,Accommodation & Food Services,false
-3329,33,Manufacturing,false
-325611,32,Manufacturing,false
-611630,61,Educational Services,false
-2362,23,Construction,false
-541420,54,"Professional, Scientific & Technical Services",false
-42322,42,Wholesale Trade,false
-52313,52,Finance & Insurance,false
-51712,51,Information,true
-238160,23,Construction,false
-326150,32,Manufacturing,false
-336611,33,Manufacturing,false
-325320,32,Manufacturing,false
-324191,32,Manufacturing,false
-6223,62,Health Care & Social Assistance,false
-92512,92,Public Administration,false
-6216,62,Health Care & Social Assistance,false
-561611,56,Administrative & Support Services,false
-325130,32,Manufacturing,false
-4234,42,Wholesale Trade,false
-483113,48,Transportation & Warehousing,false
-4441,44,Retail Trade,false
-92119,92,Public Administration,false
-811121,81,Other Services,false
-541199,54,"Professional, Scientific & Technical Services",false
-44719,44,Retail Trade,false
-5173,51,Information,true
-212112,21,"Mining, Quarrying, Oil & Gas",false
-33272,33,Manufacturing,false
-5259,52,Finance & Insurance,false
-23816,23,Construction,false
-54184,54,"Professional, Scientific & Technical Services",false
-42494,42,Wholesale Trade,false
-333992,33,Manufacturing,false
-42449,42,Wholesale Trade,false
-45111,45,Retail Trade,false
-1119,11,"Agriculture, Forestry, Fishing & Hunting",false
-53113,53,Real Estate & Rental,false
-7111,71,"Arts, Entertainment & Recreation",false
-23711,23,Construction,false
--4849,-4,Unknown,false
-423460,42,Wholesale Trade,false
-33791,33,Manufacturing,false
-444240,44,Retail Trade,false
-4842,48,Transportation & Warehousing,false
-54136,54,"Professional, Scientific & Technical Services",false
-11292,11,"Agriculture, Forestry, Fishing & Hunting",false
-311212,31,Manufacturing,false
-33635,33,Manufacturing,false
-42344,42,Wholesale Trade,false
-325991,32,Manufacturing,false
-31131,31,Manufacturing,false
-9271,92,Public Administration,false
-335929,33,Manufacturing,false
-812113,81,Other Services,false
-4453,44,Retail Trade,false
-45991,45,Retail Trade,false
-115210,11,"Agriculture, Forestry, Fishing & Hunting",false
-325612,32,Manufacturing,false
-32742,32,Manufacturing,false
-23814,23,Construction,false
-331511,33,Manufacturing,false
-31323,31,Manufacturing,false
-92511,92,Public Administration,false
-313240,31,Manufacturing,false
-31181,31,Manufacturing,false
-48833,48,Transportation & Warehousing,false
-81291,81,Other Services,false
-31324,31,Manufacturing,false
-32531,32,Manufacturing,false
-42482,42,Wholesale Trade,false
-3379,33,Manufacturing,false
-42447,42,Wholesale Trade,false
-11213,11,"Agriculture, Forestry, Fishing & Hunting",false
-713210,71,"Arts, Entertainment & Recreation",false
-3131,31,Manufacturing,false
-42385,42,Wholesale Trade,false
-325315,32,Manufacturing,false
-321215,32,Manufacturing,false
-238300,23,Construction,false
-212299,21,"Mining, Quarrying, Oil & Gas",false
-71212,71,"Arts, Entertainment & Recreation",false
-42481,42,Wholesale Trade,false
-31183,31,Manufacturing,false
-3212,32,Manufacturing,false
-622110,62,Health Care & Social Assistance,false
-711410,71,"Arts, Entertainment & Recreation",false
-5311,53,Real Estate & Rental,false
+31322,31,Manufacturing,false
+11131,11,"Agriculture, Forestry, Fishing & Hunting",false
+51213,51,Information,true
+11194,11,"Agriculture, Forestry, Fishing & Hunting",false
+325194,32,Manufacturing,false
 334220,33,Manufacturing,true
-4231,42,Wholesale Trade,false
-54172,54,"Professional, Scientific & Technical Services",false
-5112,51,Information,true
+622110,62,Health Care & Social Assistance,false
+31141,31,Manufacturing,false
 541715,54,"Professional, Scientific & Technical Services",false
-621420,62,Health Care & Social Assistance,false
-334310,33,Manufacturing,true
-51119,51,Information,true
-711310,71,"Arts, Entertainment & Recreation",false
-221115,22,Utilities,false
+333924,33,Manufacturing,false
+621492,62,Health Care & Social Assistance,false
 512110,51,Information,true
-486210,48,Transportation & Warehousing,false
-32711,32,Manufacturing,false
+4231,42,Wholesale Trade,false
+45399,45,Retail Trade,false
+44611,44,Retail Trade,false
+45511,45,Retail Trade,false
+621420,62,Health Care & Social Assistance,false
+339115,33,Manufacturing,false
+51621,51,Information,true
+213112,21,"Mining, Quarrying, Oil & Gas",false
+451120,45,Retail Trade,false
+2111,21,"Mining, Quarrying, Oil & Gas",false
+711410,71,"Arts, Entertainment & Recreation",false
 541214,54,"Professional, Scientific & Technical Services",false
 334418,33,Manufacturing,true
-451120,45,Retail Trade,false
-213112,21,"Mining, Quarrying, Oil & Gas",false
-4451,44,Retail Trade,false
-423620,42,Wholesale Trade,false
-339115,33,Manufacturing,false
-45399,45,Retail Trade,false
-48819,48,Transportation & Warehousing,false
-56199,56,Administrative & Support Services,false
-6243,62,Health Care & Social Assistance,false
-811412,81,Other Services,false
-22132,22,Utilities,false
-112111,11,"Agriculture, Forestry, Fishing & Hunting",false
-423830,42,Wholesale Trade,false
-322211,32,Manufacturing,false
-44611,44,Retail Trade,false
-333316,33,Manufacturing,false
-333924,33,Manufacturing,false
-2111,21,"Mining, Quarrying, Oil & Gas",false
-3272,32,Manufacturing,false
-33431,33,Manufacturing,true
-621492,62,Health Care & Social Assistance,false
-336390,33,Manufacturing,false
-45511,45,Retail Trade,false
-484220,48,Transportation & Warehousing,false
-311615,31,Manufacturing,false
-49211,49,Transportation & Warehousing,false
-52222,52,Finance & Insurance,false
-336999,33,Manufacturing,false
-327110,32,Manufacturing,false
-238190,23,Construction,false
-33651,33,Manufacturing,false
-522180,52,Finance & Insurance,false
-455211,45,Retail Trade,false
-424930,42,Wholesale Trade,false
-336991,33,Manufacturing,false
-532111,53,Real Estate & Rental,false
-52321,52,Finance & Insurance,false
-2131,21,"Mining, Quarrying, Oil & Gas",false
-44112,44,Retail Trade,false
-21229,21,"Mining, Quarrying, Oil & Gas",false
-45611,45,Retail Trade,false
-325998,32,Manufacturing,false
-562920,56,Administrative & Support Services,false
-336330,33,Manufacturing,false
-712130,71,"Arts, Entertainment & Recreation",false
-459420,45,Retail Trade,false
-533110,53,Real Estate & Rental,false
-459510,45,Retail Trade,false
-924110,92,Public Administration,false
-33592,33,Manufacturing,false
-1129,11,"Agriculture, Forestry, Fishing & Hunting",false
-33152,33,Manufacturing,false
-81222,81,Other Services,false
-51621,51,Information,true
-92115,92,Public Administration,false
-92312,92,Public Administration,false
-54181,54,"Professional, Scientific & Technical Services",false
 33392,33,Manufacturing,false
-922190,92,Public Administration,false
-45431,45,Retail Trade,false
-325613,32,Manufacturing,false
-81399,81,Other Services,false
-333514,33,Manufacturing,false
-445298,44,Retail Trade,false
-31141,31,Manufacturing,false
-423820,42,Wholesale Trade,false
-711510,71,"Arts, Entertainment & Recreation",false
-111219,11,"Agriculture, Forestry, Fishing & Hunting",false
-42492,42,Wholesale Trade,false
-115114,11,"Agriculture, Forestry, Fishing & Hunting",false
-42512,42,Wholesale Trade,false
-112120,11,"Agriculture, Forestry, Fishing & Hunting",false
-51313,51,Information,true
-111422,11,"Agriculture, Forestry, Fishing & Hunting",false
-5174,51,Information,true
-51112,51,Information,true
-446199,44,Retail Trade,false
-312230,31,Manufacturing,false
+45611,45,Retail Trade,false
+221115,22,Utilities,false
+33651,33,Manufacturing,false
 61142,61,Educational Services,false
-315240,31,Manufacturing,false
-111998,11,"Agriculture, Forestry, Fishing & Hunting",false
-31192,31,Manufacturing,false
-45711,45,Retail Trade,false
-81112,81,Other Services,false
-45421,45,Retail Trade,false
-561622,56,Administrative & Support Services,false
-52221,52,Finance & Insurance,false
-322219,32,Manufacturing,false
-332215,33,Manufacturing,false
-721199,72,Accommodation & Food Services,false
-6244,62,Health Care & Social Assistance,false
-56141,56,Administrative & Support Services,false
-541870,54,"Professional, Scientific & Technical Services",false
-42391,42,Wholesale Trade,false
-327910,32,Manufacturing,false
-8132,81,Other Services,false
-48821,48,Transportation & Warehousing,false
-485112,48,Transportation & Warehousing,false
-331512,33,Manufacturing,false
-423140,42,Wholesale Trade,false
-451211,45,Retail Trade,false
-444230,44,Retail Trade,false
-71111,71,"Arts, Entertainment & Recreation",false
-321114,32,Manufacturing,false
-321999,32,Manufacturing,false
-56161,56,Administrative & Support Services,false
-11234,11,"Agriculture, Forestry, Fishing & Hunting",false
-562211,56,Administrative & Support Services,false
-444210,44,Retail Trade,false
-488330,48,Transportation & Warehousing,false
-113110,11,"Agriculture, Forestry, Fishing & Hunting",false
-311340,31,Manufacturing,false
-32513,32,Manufacturing,false
-221117,22,Utilities,false
-32211,32,Manufacturing,false
-3313,33,Manufacturing,false
+336390,33,Manufacturing,false
+54172,54,"Professional, Scientific & Technical Services",false
+33431,33,Manufacturing,true
+336991,33,Manufacturing,false
+334310,33,Manufacturing,true
+44112,44,Retail Trade,false
+336330,33,Manufacturing,false
+423620,42,Wholesale Trade,false
+423830,42,Wholesale Trade,false
+924110,92,Public Administration,false
+238190,23,Construction,false
+4451,44,Retail Trade,false
+5112,51,Information,true
+54181,54,"Professional, Scientific & Technical Services",false
+311615,31,Manufacturing,false
+455211,45,Retail Trade,false
+3272,32,Manufacturing,false
 5211,52,Finance & Insurance,false
+459420,45,Retail Trade,false
+52321,52,Finance & Insurance,false
+522180,52,Finance & Insurance,false
+721199,72,Accommodation & Food Services,false
+49211,49,Transportation & Warehousing,false
+533110,53,Real Estate & Rental,false
+336999,33,Manufacturing,false
+5174,51,Information,true
+56141,56,Administrative & Support Services,false
+51119,51,Information,true
+325998,32,Manufacturing,false
+52222,52,Finance & Insurance,false
+424930,42,Wholesale Trade,false
+711310,71,"Arts, Entertainment & Recreation",false
+322211,32,Manufacturing,false
+532111,53,Real Estate & Rental,false
+423820,42,Wholesale Trade,false
+81112,81,Other Services,false
+32711,32,Manufacturing,false
+333316,33,Manufacturing,false
+51112,51,Information,true
+112120,11,"Agriculture, Forestry, Fishing & Hunting",false
+451211,45,Retail Trade,false
+42512,42,Wholesale Trade,false
+81222,81,Other Services,false
+5311,53,Real Estate & Rental,false
+112111,11,"Agriculture, Forestry, Fishing & Hunting",false
+111998,11,"Agriculture, Forestry, Fishing & Hunting",false
+81399,81,Other Services,false
+321114,32,Manufacturing,false
+42391,42,Wholesale Trade,false
+486210,48,Transportation & Warehousing,false
+488330,48,Transportation & Warehousing,false
+484220,48,Transportation & Warehousing,false
+327910,32,Manufacturing,false
+45431,45,Retail Trade,false
+92312,92,Public Administration,false
+22132,22,Utilities,false
+445298,44,Retail Trade,false
+333514,33,Manufacturing,false
+312230,31,Manufacturing,false
+56199,56,Administrative & Support Services,false
+42446,42,Wholesale Trade,false
+327110,32,Manufacturing,false
+485112,48,Transportation & Warehousing,false
+459510,45,Retail Trade,false
+541870,54,"Professional, Scientific & Technical Services",false
+33592,33,Manufacturing,false
+423140,42,Wholesale Trade,false
+311340,31,Manufacturing,false
+52221,52,Finance & Insurance,false
+6243,62,Health Care & Social Assistance,false
+111219,11,"Agriculture, Forestry, Fishing & Hunting",false
+111422,11,"Agriculture, Forestry, Fishing & Hunting",false
+446199,44,Retail Trade,false
+48819,48,Transportation & Warehousing,false
+562920,56,Administrative & Support Services,false
+2131,21,"Mining, Quarrying, Oil & Gas",false
+8132,81,Other Services,false
+6244,62,Health Care & Social Assistance,false
+56161,56,Administrative & Support Services,false
+32732,32,Manufacturing,false
+315240,31,Manufacturing,false
+711510,71,"Arts, Entertainment & Recreation",false
+21229,21,"Mining, Quarrying, Oil & Gas",false
+92115,92,Public Administration,false
+32211,32,Manufacturing,false
+332215,33,Manufacturing,false
+712130,71,"Arts, Entertainment & Recreation",false
+71111,71,"Arts, Entertainment & Recreation",false
+322219,32,Manufacturing,false
+811412,81,Other Services,false
+113110,11,"Agriculture, Forestry, Fishing & Hunting",false
+45711,45,Retail Trade,false
+331512,33,Manufacturing,false
+48511,48,Transportation & Warehousing,false
+51313,51,Information,true
+562211,56,Administrative & Support Services,false
+42492,42,Wholesale Trade,false
+33231,33,Manufacturing,false
+115114,11,"Agriculture, Forestry, Fishing & Hunting",false
+31192,31,Manufacturing,false
+321999,32,Manufacturing,false
+221117,22,Utilities,false
+48311,48,Transportation & Warehousing,false
+32513,32,Manufacturing,false
+922190,92,Public Administration,false
+325613,32,Manufacturing,false
+3313,33,Manufacturing,false
 51229,51,Information,true
 31193,31,Manufacturing,false
-42446,42,Wholesale Trade,false
-8114,81,Other Services,false
-48511,48,Transportation & Warehousing,false
-339993,33,Manufacturing,false
-48311,48,Transportation & Warehousing,false
-483211,48,Transportation & Warehousing,false
-111336,11,"Agriculture, Forestry, Fishing & Hunting",false
 42451,42,Wholesale Trade,false
-32732,32,Manufacturing,false
+561622,56,Administrative & Support Services,false
+48821,48,Transportation & Warehousing,false
+11234,11,"Agriculture, Forestry, Fishing & Hunting",false
+483211,48,Transportation & Warehousing,false
+33152,33,Manufacturing,false
+444210,44,Retail Trade,false
+45421,45,Retail Trade,false
+444230,44,Retail Trade,false
+111336,11,"Agriculture, Forestry, Fishing & Hunting",false
+339993,33,Manufacturing,false
 11211,11,"Agriculture, Forestry, Fishing & Hunting",false
-33231,33,Manufacturing,false
+1129,11,"Agriculture, Forestry, Fishing & Hunting",false
+8114,81,Other Services,false
+45411,45,Retail Trade,false
+334112,33,Manufacturing,true
+54131,54,"Professional, Scientific & Technical Services",false
+721120,72,Accommodation & Food Services,false
+445110,44,Retail Trade,false
+32518,32,Manufacturing,false
+333999,33,Manufacturing,false
+327212,32,Manufacturing,false
+926120,92,Public Administration,false
+531210,53,Real Estate & Rental,false
+424480,42,Wholesale Trade,false
+5414,54,"Professional, Scientific & Technical Services",false
+335311,33,Manufacturing,false
+621491,62,Health Care & Social Assistance,false
+221114,22,Utilities,false
+236116,23,Construction,false
+335314,33,Manufacturing,false
+711130,71,"Arts, Entertainment & Recreation",false
+5418,54,"Professional, Scientific & Technical Services",false
+4236,42,Wholesale Trade,false
+811122,81,Other Services,false
+524298,52,Finance & Insurance,false
+54134,54,"Professional, Scientific & Technical Services",false
+813319,81,Other Services,false
+52412,52,Finance & Insurance,false
+813910,81,Other Services,false
+624229,62,Health Care & Social Assistance,false
+335911,33,Manufacturing,false
+5619,56,Administrative & Support Services,false
+62133,62,Health Care & Social Assistance,false
+531311,53,Real Estate & Rental,false
+42351,42,Wholesale Trade,false
+323111,32,Manufacturing,false
+561920,56,Administrative & Support Services,false
+322121,32,Manufacturing,false
+311111,31,Manufacturing,false
+53211,53,Real Estate & Rental,false
+513130,51,Information,true
+326122,32,Manufacturing,false
+311999,31,Manufacturing,false
+22121,22,Utilities,false
+332919,33,Manufacturing,false
+3362,33,Manufacturing,false
+611691,61,Educational Services,false
+32629,32,Manufacturing,false
+4931,49,Transportation & Warehousing,false
+42394,42,Wholesale Trade,false
+451140,45,Retail Trade,false
+62199,62,Health Care & Social Assistance,false
+488119,48,Transportation & Warehousing,false
+81219,81,Other Services,false
+311225,31,Manufacturing,false
+448320,44,Retail Trade,false
+42459,42,Wholesale Trade,false
+922160,92,Public Administration,false
+4413,44,Retail Trade,false
+511199,51,Information,true
+236115,23,Construction,false
+424350,42,Wholesale Trade,false
+713990,71,"Arts, Entertainment & Recreation",false
+44422,44,Retail Trade,false
+562910,56,Administrative & Support Services,false
+6212,62,Health Care & Social Assistance,false
+323120,32,Manufacturing,false
+424990,42,Wholesale Trade,false
+23819,23,Construction,false
+92611,92,Public Administration,false
+621991,62,Health Care & Social Assistance,false
+3159,31,Manufacturing,false
+311919,31,Manufacturing,false
+332710,33,Manufacturing,false
+541922,54,"Professional, Scientific & Technical Services",false
+48599,48,Transportation & Warehousing,false
+3121,31,Manufacturing,false
+51114,51,Information,true
+4411,44,Retail Trade,false
+311514,31,Manufacturing,false
+4571,45,Retail Trade,false
+322291,32,Manufacturing,false
+33661,33,Manufacturing,false
+481219,48,Transportation & Warehousing,false
+336213,33,Manufacturing,false
+4512,45,Retail Trade,false
+332618,33,Manufacturing,false
+812930,81,Other Services,false
+314999,31,Manufacturing,false
+33241,33,Manufacturing,false
+92612,92,Public Administration,false
+49111,49,Transportation & Warehousing,false
+453991,45,Retail Trade,false
+7115,71,"Arts, Entertainment & Recreation",false
+331221,33,Manufacturing,false
+32733,32,Manufacturing,false
+315220,31,Manufacturing,false
+453220,45,Retail Trade,false
+23839,23,Construction,false
+11251,11,"Agriculture, Forestry, Fishing & Hunting",false
+325312,32,Manufacturing,false
+3372,33,Manufacturing,false
+62132,62,Health Care & Social Assistance,false
+32592,32,Manufacturing,false
+44911,44,Retail Trade,false
+513199,51,Information,true
+4539,45,Retail Trade,false
+62331,62,Health Care & Social Assistance,false
+332722,33,Manufacturing,false
+326191,32,Manufacturing,false
+311830,31,Manufacturing,false
+483114,48,Transportation & Warehousing,false
+811490,81,Other Services,false
+424470,42,Wholesale Trade,false
+5232,52,Finance & Insurance,false
+713930,71,"Arts, Entertainment & Recreation",false
+111334,11,"Agriculture, Forestry, Fishing & Hunting",false
+332112,33,Manufacturing,false
+52111,52,Finance & Insurance,false
+4889,48,Transportation & Warehousing,false
+92111,92,Public Administration,false
+212399,21,"Mining, Quarrying, Oil & Gas",false
+313110,31,Manufacturing,false
+31525,31,Manufacturing,false
+811118,81,Other Services,false
+44613,44,Retail Trade,false
+111332,11,"Agriculture, Forestry, Fishing & Hunting",false
+3365,33,Manufacturing,false
+212311,21,"Mining, Quarrying, Oil & Gas",false
+316990,31,Manufacturing,false
+812310,81,Other Services,false
+811114,81,Other Services,false
+32229,32,Manufacturing,false
+42491,42,Wholesale Trade,false
+51225,51,Information,true
+21231,21,"Mining, Quarrying, Oil & Gas",false
+1121,11,"Agriculture, Forestry, Fishing & Hunting",false
+23833,23,Construction,false
+32613,32,Manufacturing,false
+212114,21,"Mining, Quarrying, Oil & Gas",false
+3162,31,Manufacturing,false
+562119,56,Administrative & Support Services,false
+311512,31,Manufacturing,false
+315120,31,Manufacturing,false
+487990,48,Transportation & Warehousing,false
+522210,52,Finance & Insurance,false
+448140,44,Retail Trade,false
+334111,33,Manufacturing,true
+541330,54,"Professional, Scientific & Technical Services",false
+561311,56,Administrative & Support Services,false
+515210,51,Information,true
+621610,62,Health Care & Social Assistance,false
+311412,31,Manufacturing,false
+541614,54,"Professional, Scientific & Technical Services",false
+541720,54,"Professional, Scientific & Technical Services",false
+722310,72,Accommodation & Food Services,false
+33522,33,Manufacturing,false
+3336,33,Manufacturing,false
+221118,22,Utilities,false
+332994,33,Manufacturing,false
+541310,54,"Professional, Scientific & Technical Services",false
+221112,22,Utilities,false
+484230,48,Transportation & Warehousing,false
+541320,54,"Professional, Scientific & Technical Services",false
+561450,56,Administrative & Support Services,false
+48211,48,Transportation & Warehousing,false
+325211,32,Manufacturing,false
+52429,52,Finance & Insurance,false
+561499,56,Administrative & Support Services,false
+48899,48,Transportation & Warehousing,false
+81331,81,Other Services,false
+423430,42,Wholesale Trade,false
+5162,51,Information,true
+44921,44,Retail Trade,false
+327993,32,Manufacturing,false
+335312,33,Manufacturing,false
+237130,23,Construction,false
+334118,33,Manufacturing,true
+33621,33,Manufacturing,false
+3112,31,Manufacturing,false
+335931,33,Manufacturing,false
+6116,61,Educational Services,false
+212230,21,"Mining, Quarrying, Oil & Gas",false
+62431,62,Health Care & Social Assistance,false
+312130,31,Manufacturing,false
+54141,54,"Professional, Scientific & Technical Services",false
+335313,33,Manufacturing,false
+62411,62,Health Care & Social Assistance,false
+337214,33,Manufacturing,false
+33324,33,Manufacturing,false
+33299,33,Manufacturing,false
+213111,21,"Mining, Quarrying, Oil & Gas",false
+335910,33,Manufacturing,false
+333912,33,Manufacturing,false
+81321,81,Other Services,false
+424690,42,Wholesale Trade,false
+44511,44,Retail Trade,false
+335139,33,Manufacturing,false
+53311,53,Real Estate & Rental,false
+525920,52,Finance & Insurance,false
+4238,42,Wholesale Trade,false
+921190,92,Public Administration,false
+2373,23,Construction,false
+212220,21,"Mining, Quarrying, Oil & Gas",false
+333243,33,Manufacturing,false
+6242,62,Health Care & Social Assistance,false
+457110,45,Retail Trade,false
+322120,32,Manufacturing,false
+54138,54,"Professional, Scientific & Technical Services",false
+51711,51,Information,true
+811210,81,Other Services,false
+561520,56,Administrative & Support Services,false
+313230,31,Manufacturing,false
+7211,72,Accommodation & Food Services,false
+56211,56,Administrative & Support Services,false
+42345,42,Wholesale Trade,false
+333612,33,Manufacturing,false
+42311,42,Wholesale Trade,false
+561612,56,Administrative & Support Services,false
+45439,45,Retail Trade,false
+812112,81,Other Services,false
+311821,31,Manufacturing,false
+322220,32,Manufacturing,false
+323113,32,Manufacturing,false
+61162,61,Educational Services,false
+33351,33,Manufacturing,false
+44529,44,Retail Trade,false
+713120,71,"Arts, Entertainment & Recreation",false
+9231,92,Public Administration,false
+3256,32,Manufacturing,false
+459920,45,Retail Trade,false
+22131,22,Utilities,false
+42333,42,Wholesale Trade,false
+337211,33,Manufacturing,false
+44815,44,Retail Trade,false
+62231,62,Health Care & Social Assistance,false
+61141,61,Educational Services,false
+522293,52,Finance & Insurance,false
+562998,56,Administrative & Support Services,false
+31212,31,Manufacturing,false
+4452,44,Retail Trade,false
+313320,31,Manufacturing,false
+561613,56,Administrative & Support Services,false
+71132,71,"Arts, Entertainment & Recreation",false
+42443,42,Wholesale Trade,false
+32522,32,Manufacturing,false
+33361,33,Manufacturing,false
+71141,71,"Arts, Entertainment & Recreation",false
+45521,45,Retail Trade,false
+424520,42,Wholesale Trade,false
+21112,21,"Mining, Quarrying, Oil & Gas",false
+11511,11,"Agriculture, Forestry, Fishing & Hunting",false
+44711,44,Retail Trade,false
+4869,48,Transportation & Warehousing,false
+33243,33,Manufacturing,false
+44134,44,Retail Trade,false
+51219,51,Information,true
+532282,53,Real Estate & Rental,false
+49221,49,Transportation & Warehousing,false
+32222,32,Manufacturing,false
+112512,11,"Agriculture, Forestry, Fishing & Hunting",false
+3116,31,Manufacturing,false
+212322,21,"Mining, Quarrying, Oil & Gas",false
+44424,44,Retail Trade,false
+33242,33,Manufacturing,false
+32614,32,Manufacturing,false
+45613,45,Retail Trade,false
+7131,71,"Arts, Entertainment & Recreation",false
+111120,11,"Agriculture, Forestry, Fishing & Hunting",false
+457100,45,Retail Trade,false
+72121,72,Accommodation & Food Services,false
+42341,42,Wholesale Trade,false
+31699,31,Manufacturing,false
+339994,33,Manufacturing,false
+33511,33,Manufacturing,false
+1113,11,"Agriculture, Forestry, Fishing & Hunting",false
+42431,42,Wholesale Trade,false
+22133,22,Utilities,false
+72112,72,Accommodation & Food Services,false
+541511,54,"Professional, Scientific & Technical Services",true
+5241,52,Finance & Insurance,false
+721110,72,Accommodation & Food Services,false
+5416,54,"Professional, Scientific & Technical Services",false
+518210,51,Information,true
+54171,54,"Professional, Scientific & Technical Services",false
+6113,61,Educational Services,false
+33994,33,Manufacturing,false
+3254,32,Manufacturing,false
+333242,33,Manufacturing,false
+515112,51,Information,true
+334510,33,Manufacturing,true
+532120,53,Real Estate & Rental,false
+446110,44,Retail Trade,false
+541110,54,"Professional, Scientific & Technical Services",false
+522291,52,Finance & Insurance,false
+493110,49,Transportation & Warehousing,false
+51521,51,Information,true
+525910,52,Finance & Insurance,false
+51113,51,Information,true
+8133,81,Other Services,false
+5413,54,"Professional, Scientific & Technical Services",false
+42399,42,Wholesale Trade,false
+522310,52,Finance & Insurance,false
+541613,54,"Professional, Scientific & Technical Services",false
+488510,48,Transportation & Warehousing,false
+449122,44,Retail Trade,false
+5132,51,Information,true
+33639,33,Manufacturing,false
+221122,22,Utilities,false
+44912,44,Retail Trade,false
+3259,32,Manufacturing,false
+51211,51,Information,true
+33993,33,Manufacturing,false
+33411,33,Manufacturing,true
+331410,33,Manufacturing,false
+326291,32,Manufacturing,false
+456110,45,Retail Trade,false
+81341,81,Other Services,false
+561439,56,Administrative & Support Services,false
+458110,45,Retail Trade,false
+424920,42,Wholesale Trade,false
+325199,32,Manufacturing,false
+53139,53,Real Estate & Rental,false
+337920,33,Manufacturing,false
+925120,92,Public Administration,false
+56133,56,Administrative & Support Services,false
+48621,48,Transportation & Warehousing,false
+531190,53,Real Estate & Rental,false
+541820,54,"Professional, Scientific & Technical Services",false
+921110,92,Public Administration,false
+33311,33,Manufacturing,false
+446130,44,Retail Trade,false
+45911,45,Retail Trade,false
+52394,52,Finance & Insurance,false
+71329,71,"Arts, Entertainment & Recreation",false
+458210,45,Retail Trade,false
+52229,52,Finance & Insurance,false
+484110,48,Transportation & Warehousing,false
+112990,11,"Agriculture, Forestry, Fishing & Hunting",false
+327213,32,Manufacturing,false
+4599,45,Retail Trade,false
+23821,23,Construction,false
+311423,31,Manufacturing,false
+339992,33,Manufacturing,false
+813219,81,Other Services,false
+111419,11,"Agriculture, Forestry, Fishing & Hunting",false
+924120,92,Public Administration,false
+923130,92,Public Administration,false
+238350,23,Construction,false
+71394,71,"Arts, Entertainment & Recreation",false
+532490,53,Real Estate & Rental,false
+32551,32,Manufacturing,false
+44419,44,Retail Trade,false
+327211,32,Manufacturing,false
+313210,31,Manufacturing,false
+211130,21,"Mining, Quarrying, Oil & Gas",false
+323117,32,Manufacturing,false
+7139,71,"Arts, Entertainment & Recreation",false
+332216,33,Manufacturing,false
+62419,62,Health Care & Social Assistance,false
+6241,62,Health Care & Social Assistance,false
+81394,81,Other Services,false
+2371,23,Construction,false
+444180,44,Retail Trade,false
+53121,53,Real Estate & Rental,false
+32521,32,Manufacturing,false
+3271,32,Manufacturing,false
+44532,44,Retail Trade,false
+3322,33,Manufacturing,false
+111335,11,"Agriculture, Forestry, Fishing & Hunting",false
+331523,33,Manufacturing,false
+33221,33,Manufacturing,false
+31331,31,Manufacturing,false
+33232,33,Manufacturing,false
+32616,32,Manufacturing,false
+335131,33,Manufacturing,false
+336419,33,Manufacturing,false
+712190,71,"Arts, Entertainment & Recreation",false
+711212,71,"Arts, Entertainment & Recreation",false
+213114,21,"Mining, Quarrying, Oil & Gas",false
+32212,32,Manufacturing,false
+62322,62,Health Care & Social Assistance,false
+5611,56,Administrative & Support Services,false
+4235,42,Wholesale Trade,false
+424120,42,Wholesale Trade,false
+313220,31,Manufacturing,false
+315250,31,Manufacturing,false
+44512,44,Retail Trade,false
+42471,42,Wholesale Trade,false
+92615,92,Public Administration,false
+48832,48,Transportation & Warehousing,false
+513191,51,Information,true
+92213,92,Public Administration,false
+4883,48,Transportation & Warehousing,false
+212111,21,"Mining, Quarrying, Oil & Gas",false
+3324,33,Manufacturing,false
+45951,45,Retail Trade,false
+541600,54,"Professional, Scientific & Technical Services",false
+6222,62,Health Care & Social Assistance,false
+45912,45,Retail Trade,false
+541500,54,"Professional, Scientific & Technical Services",true
+62141,62,Health Care & Social Assistance,false
+5221,52,Finance & Insurance,false
+111140,11,"Agriculture, Forestry, Fishing & Hunting",false
+53132,53,Real Estate & Rental,false
+112320,11,"Agriculture, Forestry, Fishing & Hunting",false
 611310,61,Educational Services,false
-561320,56,Administrative & Support Services,false
-523210,52,Finance & Insurance,false
+515111,51,Information,true
 54121,54,"Professional, Scientific & Technical Services",false
 524114,52,Finance & Insurance,false
 5417,54,"Professional, Scientific & Technical Services",false
-236220,23,Construction,false
-541940,54,"Professional, Scientific & Technical Services",false
-515111,51,Information,true
-23799,23,Construction,false
-511110,51,Information,true
-33341,33,Manufacturing,false
-32511,32,Manufacturing,false
+561320,56,Administrative & Support Services,false
 519130,51,Information,true
-2211,22,Utilities,false
-5251,52,Finance & Insurance,false
-813211,81,Other Services,false
-6221,62,Health Care & Social Assistance,false
-54193,54,"Professional, Scientific & Technical Services",false
-334513,33,Manufacturing,true
-6115,61,Educational Services,false
-33599,33,Manufacturing,false
-238150,23,Construction,false
-541910,54,"Professional, Scientific & Technical Services",false
-541840,54,"Professional, Scientific & Technical Services",false
-4481,44,Retail Trade,false
-32552,32,Manufacturing,false
-54194,54,"Professional, Scientific & Technical Services",false
-238120,23,Construction,false
-32532,32,Manufacturing,false
-623990,62,Health Care & Social Assistance,false
-624410,62,Health Care & Social Assistance,false
-561710,56,Administrative & Support Services,false
-3262,32,Manufacturing,false
-51321,51,Information,true
+236220,23,Construction,false
+523210,52,Finance & Insurance,false
 334512,33,Manufacturing,true
-459130,45,Retail Trade,false
-441110,44,Retail Trade,false
-336510,33,Manufacturing,false
-531320,53,Real Estate & Rental,false
-45831,45,Retail Trade,false
-325193,32,Manufacturing,false
-332311,33,Manufacturing,false
-238320,23,Construction,false
-459110,45,Retail Trade,false
-332510,33,Manufacturing,false
-333241,33,Manufacturing,false
-311941,31,Manufacturing,false
-115112,11,"Agriculture, Forestry, Fishing & Hunting",false
-5621,56,Administrative & Support Services,false
-812990,81,Other Services,false
-21223,21,"Mining, Quarrying, Oil & Gas",false
-327310,32,Manufacturing,false
-62151,62,Health Care & Social Assistance,false
-325413,32,Manufacturing,false
-488190,48,Transportation & Warehousing,false
-325520,32,Manufacturing,false
-331513,33,Manufacturing,false
-424310,42,Wholesale Trade,false
+541940,54,"Professional, Scientific & Technical Services",false
+6221,62,Health Care & Social Assistance,false
+813211,81,Other Services,false
 52413,52,Finance & Insurance,false
-493120,49,Transportation & Warehousing,false
-8134,81,Other Services,false
-311710,31,Manufacturing,false
-81131,81,Other Services,false
-44122,44,Retail Trade,false
-315210,31,Manufacturing,false
-445320,44,Retail Trade,false
-481112,48,Transportation & Warehousing,false
-3333,33,Manufacturing,false
-488310,48,Transportation & Warehousing,false
+62151,62,Health Care & Social Assistance,false
+2211,22,Utilities,false
+541910,54,"Professional, Scientific & Technical Services",false
+51321,51,Information,true
+3262,32,Manufacturing,false
+334513,33,Manufacturing,true
 33251,33,Manufacturing,false
-221116,22,Utilities,false
-311930,31,Manufacturing,false
-332721,33,Manufacturing,false
-42392,42,Wholesale Trade,false
-212312,21,"Mining, Quarrying, Oil & Gas",false
-4431,44,Retail Trade,false
-711219,71,"Arts, Entertainment & Recreation",false
-238170,23,Construction,false
+623990,62,Health Care & Social Assistance,false
 621391,62,Health Care & Social Assistance,false
-42432,42,Wholesale Trade,false
-45322,45,Retail Trade,false
-56291,56,Administrative & Support Services,false
-42461,42,Wholesale Trade,false
-561990,56,Administrative & Support Services,false
-48423,48,Transportation & Warehousing,false
-51912,51,Information,true
-54182,54,"Professional, Scientific & Technical Services",false
-811411,81,Other Services,false
-56152,56,Administrative & Support Services,false
-5171,51,Information,true
-111940,11,"Agriculture, Forestry, Fishing & Hunting",false
-42472,42,Wholesale Trade,false
-112920,11,"Agriculture, Forestry, Fishing & Hunting",false
-311352,31,Manufacturing,false
-445230,44,Retail Trade,false
-487110,48,Transportation & Warehousing,false
-45941,45,Retail Trade,false
-316110,31,Manufacturing,false
-45913,45,Retail Trade,false
-81211,81,Other Services,false
-4422,44,Retail Trade,false
+238170,23,Construction,false
+445320,44,Retail Trade,false
+624410,62,Health Care & Social Assistance,false
+238120,23,Construction,false
+4481,44,Retail Trade,false
+332510,33,Manufacturing,false
+336510,33,Manufacturing,false
+23799,23,Construction,false
+441110,44,Retail Trade,false
+238150,23,Construction,false
+33341,33,Manufacturing,false
+511110,51,Information,true
+45831,45,Retail Trade,false
+32552,32,Manufacturing,false
+488190,48,Transportation & Warehousing,false
+54193,54,"Professional, Scientific & Technical Services",false
+541840,54,"Professional, Scientific & Technical Services",false
+459110,45,Retail Trade,false
+8134,81,Other Services,false
+21223,21,"Mining, Quarrying, Oil & Gas",false
+493120,49,Transportation & Warehousing,false
+212312,21,"Mining, Quarrying, Oil & Gas",false
+33599,33,Manufacturing,false
+711219,71,"Arts, Entertainment & Recreation",false
+3333,33,Manufacturing,false
+812990,81,Other Services,false
 8121,81,Other Services,false
-3169,31,Manufacturing,false
-331222,33,Manufacturing,false
-562219,56,Administrative & Support Services,false
+327310,32,Manufacturing,false
+333241,33,Manufacturing,false
+561990,56,Administrative & Support Services,false
+5251,52,Finance & Insurance,false
+5621,56,Administrative & Support Services,false
+54194,54,"Professional, Scientific & Technical Services",false
+561710,56,Administrative & Support Services,false
+325413,32,Manufacturing,false
+315210,31,Manufacturing,false
+44122,44,Retail Trade,false
+238320,23,Construction,false
+332721,33,Manufacturing,false
+221116,22,Utilities,false
+4431,44,Retail Trade,false
+32532,32,Manufacturing,false
+4422,44,Retail Trade,false
+424310,42,Wholesale Trade,false
+316110,31,Manufacturing,false
+45941,45,Retail Trade,false
+48423,48,Transportation & Warehousing,false
+325520,32,Manufacturing,false
+332311,33,Manufacturing,false
+481112,48,Transportation & Warehousing,false
+81131,81,Other Services,false
+325193,32,Manufacturing,false
+488310,48,Transportation & Warehousing,false
+32511,32,Manufacturing,false
+311941,31,Manufacturing,false
+311930,31,Manufacturing,false
+5171,51,Information,true
 23713,23,Construction,false
+115112,11,"Agriculture, Forestry, Fishing & Hunting",false
+6115,61,Educational Services,false
+54182,54,"Professional, Scientific & Technical Services",false
+81211,81,Other Services,false
+331513,33,Manufacturing,false
+531320,53,Real Estate & Rental,false
+311710,31,Manufacturing,false
 321113,32,Manufacturing,false
-812210,81,Other Services,false
-56192,56,Administrative & Support Services,false
-44413,44,Retail Trade,false
-81141,81,Other Services,false
-48799,48,Transportation & Warehousing,false
+112920,11,"Agriculture, Forestry, Fishing & Hunting",false
+111940,11,"Agriculture, Forestry, Fishing & Hunting",false
 71213,71,"Arts, Entertainment & Recreation",false
+51912,51,Information,true
+56192,56,Administrative & Support Services,false
+562219,56,Administrative & Support Services,false
+81141,81,Other Services,false
+42472,42,Wholesale Trade,false
+812210,81,Other Services,false
+48799,48,Transportation & Warehousing,false
+331222,33,Manufacturing,false
+45322,45,Retail Trade,false
+42392,42,Wholesale Trade,false
+311352,31,Manufacturing,false
+42461,42,Wholesale Trade,false
+56291,56,Administrative & Support Services,false
+56152,56,Administrative & Support Services,false
+3169,31,Manufacturing,false
+459130,45,Retail Trade,false
+811411,81,Other Services,false
+445230,44,Retail Trade,false
+42432,42,Wholesale Trade,false
+487110,48,Transportation & Warehousing,false
+44413,44,Retail Trade,false
 4523,45,Retail Trade,false
+45913,45,Retail Trade,false
+541512,54,"Professional, Scientific & Technical Services",true
+492110,49,Transportation & Warehousing,false
+541690,54,"Professional, Scientific & Technical Services",false
+334517,33,Manufacturing,true
+541420,54,"Professional, Scientific & Technical Services",false
+423940,42,Wholesale Trade,false
+56145,56,Administrative & Support Services,false
+611420,61,Educational Services,false
+423990,42,Wholesale Trade,false
+53131,53,Real Estate & Rental,false
+722513,72,Accommodation & Food Services,false
+541890,54,"Professional, Scientific & Technical Services",false
+92119,92,Public Administration,false
+326150,32,Manufacturing,false
+541513,54,"Professional, Scientific & Technical Services",true
+623110,62,Health Care & Social Assistance,false
+517312,51,Information,true
+519290,51,Information,true
+541199,54,"Professional, Scientific & Technical Services",false
+523930,52,Finance & Insurance,false
+115210,11,"Agriculture, Forestry, Fishing & Hunting",false
+4234,42,Wholesale Trade,false
+237110,23,Construction,false
+2362,23,Construction,false
+6216,62,Health Care & Social Assistance,false
+611430,61,Educational Services,false
+524130,52,Finance & Insurance,false
+713290,71,"Arts, Entertainment & Recreation",false
+51712,51,Information,true
+611610,61,Educational Services,false
+448310,44,Retail Trade,false
+324110,32,Manufacturing,false
+611630,61,Educational Services,false
+336611,33,Manufacturing,false
+3115,31,Manufacturing,false
+22112,22,Utilities,false
+325611,32,Manufacturing,false
+334511,33,Manufacturing,true
+337215,33,Manufacturing,false
+325315,32,Manufacturing,false
+33791,33,Manufacturing,false
+624230,62,Health Care & Social Assistance,false
+923120,92,Public Administration,false
+5259,52,Finance & Insurance,false
+441330,44,Retail Trade,false
+334419,33,Manufacturing,true
+42413,42,Wholesale Trade,false
+5173,51,Information,true
+42449,42,Wholesale Trade,false
+312112,31,Manufacturing,false
+333998,33,Manufacturing,false
+7223,72,Accommodation & Food Services,false
+423460,42,Wholesale Trade,false
+42322,42,Wholesale Trade,false
+483113,48,Transportation & Warehousing,false
+212112,21,"Mining, Quarrying, Oil & Gas",false
+623311,62,Health Care & Social Assistance,false
+561611,56,Administrative & Support Services,false
+92512,92,Public Administration,false
+45111,45,Retail Trade,false
+6223,62,Health Care & Social Assistance,false
+512131,51,Information,true
+52313,52,Finance & Insurance,false
+331313,33,Manufacturing,false
+212299,21,"Mining, Quarrying, Oil & Gas",false
+325612,32,Manufacturing,false
+42344,42,Wholesale Trade,false
+333992,33,Manufacturing,false
+324191,32,Manufacturing,false
+42494,42,Wholesale Trade,false
+5622,56,Administrative & Support Services,false
+4441,44,Retail Trade,false
+325320,32,Manufacturing,false
+811121,81,Other Services,false
+325130,32,Manufacturing,false
+31181,31,Manufacturing,false
+325991,32,Manufacturing,false
+33329,33,Manufacturing,false
+4541,45,Retail Trade,false
+23711,23,Construction,false
+339910,33,Manufacturing,false
+3329,33,Manufacturing,false
+42447,42,Wholesale Trade,false
+33635,33,Manufacturing,false
+42482,42,Wholesale Trade,false
+7111,71,"Arts, Entertainment & Recreation",false
+331511,33,Manufacturing,false
+54184,54,"Professional, Scientific & Technical Services",false
+238160,23,Construction,false
+3345,33,Manufacturing,true
+444130,44,Retail Trade,false
+711110,71,"Arts, Entertainment & Recreation",false
+311212,31,Manufacturing,false
+713210,71,"Arts, Entertainment & Recreation",false
+561492,56,Administrative & Support Services,false
+32742,32,Manufacturing,false
+324121,32,Manufacturing,false
+31131,31,Manufacturing,false
+32411,32,Manufacturing,false
+45991,45,Retail Trade,false
+23816,23,Construction,false
+11292,11,"Agriculture, Forestry, Fishing & Hunting",false
+335929,33,Manufacturing,false
+53113,53,Real Estate & Rental,false
+4842,48,Transportation & Warehousing,false
+23814,23,Construction,false
+1119,11,"Agriculture, Forestry, Fishing & Hunting",false
+42385,42,Wholesale Trade,false
+313240,31,Manufacturing,false
+812113,81,Other Services,false
+92511,92,Public Administration,false
+71212,71,"Arts, Entertainment & Recreation",false
+31324,31,Manufacturing,false
+32531,32,Manufacturing,false
+33272,33,Manufacturing,false
+54136,54,"Professional, Scientific & Technical Services",false
+42481,42,Wholesale Trade,false
+81291,81,Other Services,false
+44719,44,Retail Trade,false
+444240,44,Retail Trade,false
+-4849,-4,Unknown,false
+9271,92,Public Administration,false
+48833,48,Transportation & Warehousing,false
+4453,44,Retail Trade,false
+3379,33,Manufacturing,false
+3212,32,Manufacturing,false
+3131,31,Manufacturing,false
+31183,31,Manufacturing,false
+238300,23,Construction,false
+321215,32,Manufacturing,false
+31323,31,Manufacturing,false
+11213,11,"Agriculture, Forestry, Fishing & Hunting",false
+5415,54,"Professional, Scientific & Technical Services",true
+454110,45,Retail Trade,false
+541519,54,"Professional, Scientific & Technical Services",true
+33911,33,Manufacturing,false
+522220,52,Finance & Insurance,false
+515120,51,Information,true
+3359,33,Manufacturing,false
+621999,62,Health Care & Social Assistance,false
+541612,54,"Professional, Scientific & Technical Services",false
+81299,81,Other Services,false
+316210,31,Manufacturing,false
+512290,51,Information,true
+423490,42,Wholesale Trade,false
+33531,33,Manufacturing,false
+327390,32,Manufacturing,false
+525110,52,Finance & Insurance,false
+311920,31,Manufacturing,false
+2379,23,Construction,false
+62142,62,Health Care & Social Assistance,false
+523940,52,Finance & Insurance,false
+336110,33,Manufacturing,false
+561110,56,Administrative & Support Services,false
+523160,52,Finance & Insurance,false
+56151,56,Administrative & Support Services,false
+561330,56,Administrative & Support Services,false
+541713,54,"Professional, Scientific & Technical Services",false
+21113,21,"Mining, Quarrying, Oil & Gas",false
+3152,31,Manufacturing,false
+312120,31,Manufacturing,false
+711211,71,"Arts, Entertainment & Recreation",false
+531110,53,Real Estate & Rental,false
+44314,44,Retail Trade,false
+561720,56,Administrative & Support Services,false
+44612,44,Retail Trade,false
+48811,48,Transportation & Warehousing,false
+336360,33,Manufacturing,false
+424490,42,Wholesale Trade,false
+51512,51,Information,true
+3339,33,Manufacturing,false
+333511,33,Manufacturing,false
+321213,32,Manufacturing,false
+33991,33,Manufacturing,false
+333996,33,Manufacturing,false
+458310,45,Retail Trade,false
+424430,42,Wholesale Trade,false
+423130,42,Wholesale Trade,false
+311211,31,Manufacturing,false
+326140,32,Manufacturing,false
+321991,32,Manufacturing,false
+51612,51,Information,true
+-3133,-3,Unknown,false
+512191,51,Information,true
+44229,44,Retail Trade,false
+333997,33,Manufacturing,false
+561312,56,Administrative & Support Services,false
+336112,33,Manufacturing,false
+1111,11,"Agriculture, Forestry, Fishing & Hunting",false
+333921,33,Manufacturing,false
+42349,42,Wholesale Trade,false
+3221,32,Manufacturing,false
+424720,42,Wholesale Trade,false
+921120,92,Public Administration,false
+4821,48,Transportation & Warehousing,false
+56142,56,Administrative & Support Services,false
+6219,62,Health Care & Social Assistance,false
+23621,23,Construction,false
+333613,33,Manufacturing,false
+3311,33,Manufacturing,false
+336310,33,Manufacturing,false
+621410,62,Health Care & Social Assistance,false
+4884,48,Transportation & Warehousing,false
+42372,42,Wholesale Trade,false
+326220,32,Manufacturing,false
+311812,31,Manufacturing,false
+488490,48,Transportation & Warehousing,false
+541340,54,"Professional, Scientific & Technical Services",false
+333318,33,Manufacturing,false
+3325,33,Manufacturing,false
+42435,42,Wholesale Trade,false
+71391,71,"Arts, Entertainment & Recreation",false
+48839,48,Transportation & Warehousing,false
+4241,42,Wholesale Trade,false
+316998,31,Manufacturing,false
+926150,92,Public Administration,false
+31499,31,Manufacturing,false
+6112,61,Educational Services,false
+44831,44,Retail Trade,false
+33636,33,Manufacturing,false
+54192,54,"Professional, Scientific & Technical Services",false
+339991,33,Manufacturing,false
+42321,42,Wholesale Trade,false
+424440,42,Wholesale Trade,false
+42331,42,Wholesale Trade,false
+332114,33,Manufacturing,false
+513140,51,Information,true
+92113,92,Public Administration,false
+11121,11,"Agriculture, Forestry, Fishing & Hunting",false
+611692,61,Educational Services,false
+337127,33,Manufacturing,false
+33637,33,Manufacturing,false
+31191,31,Manufacturing,false
+423740,42,Wholesale Trade,false
+213115,21,"Mining, Quarrying, Oil & Gas",false
+44524,44,Retail Trade,false
+42469,42,Wholesale Trade,false
+11531,11,"Agriculture, Forestry, Fishing & Hunting",false
+32712,32,Manufacturing,false
+335932,33,Manufacturing,false
+532411,53,Real Estate & Rental,false
+314994,31,Manufacturing,false
+322130,32,Manufacturing,false
+331524,33,Manufacturing,false
+56121,56,Administrative & Support Services,false
+42362,42,Wholesale Trade,false
+44111,44,Retail Trade,false
+71151,71,"Arts, Entertainment & Recreation",false
+33721,33,Manufacturing,false
+488111,48,Transportation & Warehousing,false
+562212,56,Administrative & Support Services,false
+532283,53,Real Estate & Rental,false
+111211,11,"Agriculture, Forestry, Fishing & Hunting",false
+48411,48,Transportation & Warehousing,false
+113310,11,"Agriculture, Forestry, Fishing & Hunting",false
+814110,81,Other Services,false
+21211,21,"Mining, Quarrying, Oil & Gas",false
+56144,56,Administrative & Support Services,false
+459140,45,Retail Trade,false
+3253,32,Manufacturing,false
+722510,72,Accommodation & Food Services,false
+45331,45,Retail Trade,false
+32213,32,Manufacturing,false
+11411,11,"Agriculture, Forestry, Fishing & Hunting",false
+3321,33,Manufacturing,false
+33149,33,Manufacturing,false
+81233,81,Other Services,false
+3211,32,Manufacturing,false
+3133,31,Manufacturing,false
+812921,81,Other Services,false
+71113,71,"Arts, Entertainment & Recreation",false
+11133,11,"Agriculture, Forestry, Fishing & Hunting",false
+32562,32,Manufacturing,false
+31134,31,Manufacturing,false
+445250,44,Retail Trade,false
+624110,62,Health Care & Social Assistance,false
+33441,33,Manufacturing,true
+51121,51,Information,true
+621111,62,Health Care & Social Assistance,false
+524126,52,Finance & Insurance,false
+52399,52,Finance & Insurance,false
+3363,33,Manufacturing,false
+624120,62,Health Care & Social Assistance,false
+51913,51,Information,true
+3361,33,Manufacturing,false
+524113,52,Finance & Insurance,false
+5419,54,"Professional, Scientific & Technical Services",false
+522294,52,Finance & Insurance,false
+62134,62,Health Care & Social Assistance,false
+522390,52,Finance & Insurance,false
+81111,81,Other Services,false
+334210,33,Manufacturing,true
+5239,52,Finance & Insurance,false
+561510,56,Administrative & Support Services,false
+62121,62,Health Care & Social Assistance,false
+33331,33,Manufacturing,false
+33111,33,Manufacturing,false
+722511,72,Accommodation & Food Services,false
+424820,42,Wholesale Trade,false
+32799,32,Manufacturing,false
+541430,54,"Professional, Scientific & Technical Services",false
+335132,33,Manufacturing,false
+72111,72,Accommodation & Food Services,false
+524292,52,Finance & Insurance,false
+48849,48,Transportation & Warehousing,false
+611620,61,Educational Services,false
+621498,62,Health Care & Social Assistance,false
+488410,48,Transportation & Warehousing,false
+62139,62,Health Care & Social Assistance,false
+4232,42,Wholesale Trade,false
+517810,51,Information,true
+52211,52,Finance & Insurance,false
+541490,54,"Professional, Scientific & Technical Services",false
+334416,33,Manufacturing,true
+423690,42,Wholesale Trade,false
+333249,33,Manufacturing,false
+81121,81,Other Services,false
+334515,33,Manufacturing,true
+336412,33,Manufacturing,false
+423320,42,Wholesale Trade,false
+333618,33,Manufacturing,false
+541360,54,"Professional, Scientific & Technical Services",false
+56143,56,Administrative & Support Services,false
+611699,61,Educational Services,false
+52239,52,Finance & Insurance,false
+337212,33,Manufacturing,false
+713920,71,"Arts, Entertainment & Recreation",false
+42374,42,Wholesale Trade,false
+5182,51,Information,true
+9211,92,Public Administration,false
+61143,61,Educational Services,false
+4248,42,Wholesale Trade,false
+6215,62,Health Care & Social Assistance,false
+561730,56,Administrative & Support Services,false
+492210,49,Transportation & Warehousing,false
+448110,44,Retail Trade,false
+311422,31,Manufacturing,false
+713910,71,"Arts, Entertainment & Recreation",false
+3149,31,Manufacturing,false
+53112,53,Real Estate & Rental,false
+311942,31,Manufacturing,false
+31521,31,Manufacturing,false
+332812,33,Manufacturing,false
+4882,48,Transportation & Warehousing,false
+42342,42,Wholesale Trade,false
+488999,48,Transportation & Warehousing,false
+31171,31,Manufacturing,false
+5111,51,Information,true
+4885,48,Transportation & Warehousing,false
+333994,33,Manufacturing,false
+441320,44,Retail Trade,false
+332117,33,Manufacturing,false
+333923,33,Manufacturing,false
+31161,31,Manufacturing,false
+2122,21,"Mining, Quarrying, Oil & Gas",false
+9241,92,Public Administration,false
+21239,21,"Mining, Quarrying, Oil & Gas",false
+6214,62,Health Care & Social Assistance,false
+3353,33,Manufacturing,false
+459210,45,Retail Trade,false
+444190,44,Retail Trade,false
+115116,11,"Agriculture, Forestry, Fishing & Hunting",false
+92711,92,Public Administration,false
+62422,62,Health Care & Social Assistance,false
+11119,11,"Agriculture, Forestry, Fishing & Hunting",false
+56179,56,Administrative & Support Services,false
+486110,48,Transportation & Warehousing,false
+8210,82,Unknown,false
+51911,51,Information,true
+711190,71,"Arts, Entertainment & Recreation",false
+111421,11,"Agriculture, Forestry, Fishing & Hunting",false
+71121,71,"Arts, Entertainment & Recreation",false
+11212,11,"Agriculture, Forestry, Fishing & Hunting",false
+56221,56,Administrative & Support Services,false
+331420,33,Manufacturing,false
+33131,33,Manufacturing,false
+42493,42,Wholesale Trade,false
+322110,32,Manufacturing,false
+42442,42,Wholesale Trade,false
+23831,23,Construction,false
+311824,31,Manufacturing,false
+11299,11,"Agriculture, Forestry, Fishing & Hunting",false
+92211,92,Public Administration,false
+71393,71,"Arts, Entertainment & Recreation",false
+45114,45,Retail Trade,false
+44421,44,Retail Trade,false
+45121,45,Retail Trade,false
+485410,48,Transportation & Warehousing,false
+56171,56,Administrative & Support Services,false
+5131,51,Information,true
+45832,45,Retail Trade,false
+81232,81,Other Services,false
+31182,31,Manufacturing,false
+311213,31,Manufacturing,false
+326212,32,Manufacturing,false
+561740,56,Administrative & Support Services,false
+452311,45,Retail Trade,false
+517410,51,Information,true
+55111,55,Management of Companies,false
+813920,81,Other Services,false
+52231,52,Finance & Insurance,false
+336111,33,Manufacturing,false
+531390,53,Real Estate & Rental,false
+33641,33,Manufacturing,false
+54191,54,"Professional, Scientific & Technical Services",false
+519190,51,Information,true
+446120,44,Retail Trade,false
+44619,44,Retail Trade,false
+561599,56,Administrative & Support Services,false
+61151,61,Educational Services,false
+336212,33,Manufacturing,false
+333120,33,Manufacturing,false
+62211,62,Health Care & Social Assistance,false
+238220,23,Construction,false
+484121,48,Transportation & Warehousing,false
+811310,81,Other Services,false
+446191,44,Retail Trade,false
+212221,21,"Mining, Quarrying, Oil & Gas",false
+61111,61,Educational Services,false
+523999,52,Finance & Insurance,false
+339114,33,Manufacturing,false
+523910,52,Finance & Insurance,false
+713940,71,"Arts, Entertainment & Recreation",false
+325120,32,Manufacturing,false
+511120,51,Information,true
+51319,51,Information,true
+516210,51,Information,true
+481211,48,Transportation & Warehousing,false
+332321,33,Manufacturing,false
+611210,61,Educational Services,false
+483111,48,Transportation & Warehousing,false
+424590,42,Wholesale Trade,false
+325414,32,Manufacturing,false
+62149,62,Health Care & Social Assistance,false
+238110,23,Construction,false
+325620,32,Manufacturing,false
+541930,54,"Professional, Scientific & Technical Services",false
+6231,62,Health Care & Social Assistance,false
+33999,33,Manufacturing,false
+21311,21,"Mining, Quarrying, Oil & Gas",false
+334417,33,Manufacturing,true
+519120,51,Information,true
+312111,31,Manufacturing,false
+339999,33,Manufacturing,false
+49311,49,Transportation & Warehousing,false
+3364,33,Manufacturing,false
+221210,22,Utilities,false
+33121,33,Manufacturing,false
+2361,23,Construction,false
+561440,56,Administrative & Support Services,false
+238340,23,Construction,false
+31213,31,Manufacturing,false
+5242,52,Finance & Insurance,false
+331110,33,Manufacturing,false
+445210,44,Retail Trade,false
+423520,42,Wholesale Trade,false
+339950,33,Manufacturing,false
+441228,44,Retail Trade,false
+337910,33,Manufacturing,false
+325992,32,Manufacturing,false
+5324,53,Real Estate & Rental,false
+561410,56,Administrative & Support Services,false
+336350,33,Manufacturing,false
+423330,42,Wholesale Trade,false
+333995,33,Manufacturing,false
+424710,42,Wholesale Trade,false
+921130,92,Public Administration,false
+336612,33,Manufacturing,false
+52391,52,Finance & Insurance,false
+54143,54,"Professional, Scientific & Technical Services",false
+23832,23,Construction,false
+45921,45,Retail Trade,false
+813990,81,Other Services,false
+332323,33,Manufacturing,false
+332996,33,Manufacturing,false
+8131,81,Other Services,false
+32561,32,Manufacturing,false
+311411,31,Manufacturing,false
+238330,23,Construction,false
+11141,11,"Agriculture, Forestry, Fishing & Hunting",false
+51741,51,Information,true
+811192,81,Other Services,false
+4881,48,Transportation & Warehousing,false
+7121,71,"Arts, Entertainment & Recreation",false
+532310,53,Real Estate & Rental,false
+927110,92,Public Administration,false
+5616,56,Administrative & Support Services,false
+424100,42,Wholesale Trade,false
+448130,44,Retail Trade,false
+311613,31,Manufacturing,false
+81221,81,Other Services,false
+62423,62,Health Care & Social Assistance,false
+449110,44,Retail Trade,false
+45393,45,Retail Trade,false
+326130,32,Manufacturing,false
+331529,33,Manufacturing,false
+456199,45,Retail Trade,false
+487210,48,Transportation & Warehousing,false
+33261,33,Manufacturing,false
+23812,23,Construction,false
+611519,61,Educational Services,false
+327331,32,Manufacturing,false
+45992,45,Retail Trade,false
+33421,33,Manufacturing,true
+516110,51,Information,true
+33995,33,Manufacturing,false
+44821,44,Retail Trade,false
+339940,33,Manufacturing,false
+561491,56,Administrative & Support Services,false
+512240,51,Information,true
+315280,31,Manufacturing,false
+72119,72,Accommodation & Food Services,false
+327332,32,Manufacturing,false
+327999,32,Manufacturing,false
+2382,23,Construction,false
+721191,72,Accommodation & Food Services,false
+81149,81,Other Services,false
+337126,33,Manufacturing,false
+44525,44,Retail Trade,false
+23835,23,Construction,false
+3132,31,Manufacturing,false
+42448,42,Wholesale Trade,false
+42445,42,Wholesale Trade,false
+42444,42,Wholesale Trade,false
+531200,53,Real Estate & Rental,false
+92313,92,Public Administration,false
+4812,48,Transportation & Warehousing,false
+334413,33,Manufacturing,true
+621340,62,Health Care & Social Assistance,false
+5191,51,Information,true
+3344,33,Manufacturing,true
+611110,61,Educational Services,false
+54161,54,"Professional, Scientific & Technical Services",false
+61131,61,Educational Services,false
+541191,54,"Professional, Scientific & Technical Services",false
+237990,23,Construction,false
+525120,52,Finance & Insurance,false
+54162,54,"Professional, Scientific & Technical Services",false
+335210,33,Manufacturing,false
+332431,33,Manufacturing,false
+541810,54,"Professional, Scientific & Technical Services",false
+5231,52,Finance & Insurance,false
+523150,52,Finance & Insurance,false
+451110,45,Retail Trade,false
+331314,33,Manufacturing,false
+445291,44,Retail Trade,false
+334519,33,Manufacturing,true
+51311,51,Information,true
+551111,55,Management of Companies,false
+541410,54,"Professional, Scientific & Technical Services",false
+813312,81,Other Services,false
+4594,45,Retail Trade,false
+441310,44,Retail Trade,false
+445131,44,Retail Trade,false
+51781,51,Information,true
+62311,62,Health Care & Social Assistance,false
+45999,45,Retail Trade,false
+327991,32,Manufacturing,false
+6213,62,Health Care & Social Assistance,false
+447110,44,Retail Trade,false
+336399,33,Manufacturing,false
+335999,33,Manufacturing,false
+335110,33,Manufacturing,false
+522298,52,Finance & Insurance,false
+51111,51,Information,true
+322212,32,Manufacturing,false
+333914,33,Manufacturing,false
+512250,51,Information,true
+424910,42,Wholesale Trade,false
+326211,32,Manufacturing,false
+23731,23,Construction,false
+622210,62,Health Care & Social Assistance,false
+512230,51,Information,true
+812332,81,Other Services,false
+423120,42,Wholesale Trade,false
+423860,42,Wholesale Trade,false
+459999,45,Retail Trade,false
+621493,62,Health Care & Social Assistance,false
+333131,33,Manufacturing,false
+42313,42,Wholesale Trade,false
+713110,71,"Arts, Entertainment & Recreation",false
+211120,21,"Mining, Quarrying, Oil & Gas",false
+488210,48,Transportation & Warehousing,false
+488320,48,Transportation & Warehousing,false
+52599,52,Finance & Insurance,false
+326113,32,Manufacturing,false
+722410,72,Accommodation & Food Services,false
+314110,31,Manufacturing,false
+485113,48,Transportation & Warehousing,false
+56111,56,Administrative & Support Services,false
+5179,51,Information,true
+32412,32,Manufacturing,false
+443142,44,Retail Trade,false
+454390,45,Retail Trade,false
+31412,31,Manufacturing,false
+44812,44,Retail Trade,false
+238390,23,Construction,false
+48111,48,Transportation & Warehousing,false
+42421,42,Wholesale Trade,false
+62221,62,Health Care & Social Assistance,false
+711120,71,"Arts, Entertainment & Recreation",false
+42369,42,Wholesale Trade,false
+311314,31,Manufacturing,false
+812191,81,Other Services,false
+33451,33,Manufacturing,true
+541850,54,"Professional, Scientific & Technical Services",false
+32622,32,Manufacturing,false
+56132,56,Administrative & Support Services,false
+811111,81,Other Services,false
+541350,54,"Professional, Scientific & Technical Services",false
+541921,54,"Professional, Scientific & Technical Services",false
+445310,44,Retail Trade,false
+33211,33,Manufacturing,false
+115115,11,"Agriculture, Forestry, Fishing & Hunting",false
+51223,51,Information,true
+112511,11,"Agriculture, Forestry, Fishing & Hunting",false
+54187,54,"Professional, Scientific & Technical Services",false
+31122,31,Manufacturing,false
+333112,33,Manufacturing,false
+4831,48,Transportation & Warehousing,false
+444140,44,Retail Trade,false
+53119,53,Real Estate & Rental,false
+71119,71,"Arts, Entertainment & Recreation",false
+485119,48,Transportation & Warehousing,false
+213113,21,"Mining, Quarrying, Oil & Gas",false
+562112,56,Administrative & Support Services,false
+4859,48,Transportation & Warehousing,false
+3343,33,Manufacturing,true
+44418,44,Retail Trade,false
+53228,53,Real Estate & Rental,false
+326100,32,Manufacturing,false
+33634,33,Manufacturing,false
+459930,45,Retail Trade,false
+323119,32,Manufacturing,false
+212313,21,"Mining, Quarrying, Oil & Gas",false
+32791,32,Manufacturing,false
+332993,33,Manufacturing,false
+44523,44,Retail Trade,false
+812220,81,Other Services,false
+92411,92,Public Administration,false

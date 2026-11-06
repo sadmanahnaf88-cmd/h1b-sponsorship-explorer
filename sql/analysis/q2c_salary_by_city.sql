@@ -23,5 +23,5 @@ SELECT
 FROM labeled
 GROUP BY city
 HAVING count(*) >= 300
-ORDER BY data_lcas_fy25 DESC
+ORDER BY data_lcas_fy25 DESC, city
 LIMIT 15;

@@ -53,15 +53,15 @@
 12                                     CITI                     89                  0.83             37         Data Analyst     163238.0                            Finance & Insurance    False
 13                           MORGAN STANLEY                     83                  0.77            142       Data Scientist     150000.0                            Finance & Insurance    False
 14                            ZS ASSOCIATES                     75                  0.70             26         Data Analyst     175000.0  Professional, Scientific & Technical Services    False
-15                            GOLDMAN SACHS                     72                  0.67             40  Business/BI Analyst     121000.0                            Finance & Insurance    False
-16                                BLOOMBERG                     72                  0.67            224         Data Analyst     112112.0                                    Information     True
+15                                BLOOMBERG                     72                  0.67            224         Data Analyst     112112.0                                    Information     True
+16                            GOLDMAN SACHS                     72                  0.67             40  Business/BI Analyst     121000.0                            Finance & Insurance    False
 17                        BOSTON CONSULTING                     69                  0.64             70       Data Scientist     132000.0  Professional, Scientific & Technical Services    False
 18                                     UBER                     65                  0.60             32       Data Scientist     151000.0  Professional, Scientific & Technical Services     True
 19                         WELLS FARGO BANK                     59                  0.55             24         Data Analyst     144400.0                            Finance & Insurance    False
-20                                MICROSOFT                     57                  0.53              4       Data Scientist     172000.0                                    Information     True
-21                        BARCLAYS SERVICES                     57                  0.53             40    Analytics Manager     150000.0                            Finance & Insurance    False
-22                         GROUPM WORLDWIDE                     56                  0.52            166    Analytics Manager     112500.0  Professional, Scientific & Technical Services    False
-23                                 DELOITTE                     56                  0.52             25         Data Analyst      93785.0  Professional, Scientific & Technical Services    False
+20                        BARCLAYS SERVICES                     57                  0.53             40    Analytics Manager     150000.0                            Finance & Insurance    False
+21                                MICROSOFT                     57                  0.53              4       Data Scientist     172000.0                                    Information     True
+22                                 DELOITTE                     56                  0.52             25         Data Analyst      93785.0  Professional, Scientific & Technical Services    False
+23                         GROUPM WORLDWIDE                     56                  0.52            166    Analytics Manager     112500.0  Professional, Scientific & Technical Services    False
 24  ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI                     53                  0.49            327       Data Scientist      86500.0                Health Care & Social Assistance    False
 
 === q2a_salary_by_role_family.sql ===
@@ -175,8 +175,8 @@
 21                                        Unknown   Non-tech             14           0.0         5      0.0
 22       Agriculture, Forestry, Fishing & Hunting   Non-tech             51           0.0         4      0.0
 23                                   Construction       Tech              4           0.0         1      0.0
-24                            Finance & Insurance       Tech              1           0.0         0      0.0
-25                   Mining, Quarrying, Oil & Gas   Non-tech            251           0.1         0      0.0
+24                   Mining, Quarrying, Oil & Gas   Non-tech            251           0.1         0      0.0
+25                            Finance & Insurance       Tech              1           0.0         0      0.0
 
 === q4b_outside_tech_share.sql ===
            role_family  national_lcas  national_pct_non_tech  nyc_lcas  nyc_pct_non_tech
@@ -203,8 +203,8 @@
 11                                   AMGEN  Professional, Scientific & Technical Services              339.0               72      82      72
 12                                    CITI                            Finance & Insurance              338.0               67      68     109
 13                              FORD MOTOR                                  Manufacturing              333.0               52      88     127
-14                           GOLDMAN SACHS                            Finance & Insurance              326.0               65      85      89
-15                       BARCLAYS SERVICES                            Finance & Insurance              326.0               72      72      75
+14                       BARCLAYS SERVICES                            Finance & Insurance              326.0               72      72      75
+15                           GOLDMAN SACHS                            Finance & Insurance              326.0               65      85      89
 16                                    NIKE                                  Manufacturing              296.0               63     102      67
 17                                 WAYFAIR                                   Retail Trade              290.0               38     124      68
 18                   HOME DEPOT MANAGEMENT                                   Retail Trade              273.0               52      52      88
@@ -236,11 +236,11 @@
 11  ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI                Health Care & Social Assistance               53.0                7       Data Scientist      86500.0           87.0
 12                                  POINT72                            Finance & Insurance               50.0                5       Data Scientist     190000.0            8.0
 13                  NEW YORK LIFE INSURANCE                            Finance & Insurance               42.0                5       Data Scientist     126359.5           43.0
-14          NYU GROSSMAN SCHOOL OF MEDICINE                           Educational Services               38.0                3         Data Analyst      94299.5           87.0
-15                           MPG OPERATIONS                            Finance & Insurance               38.0                7       Data Scientist     109491.0           74.0
-16                     MOUNT SINAI HOSPITAL                Health Care & Social Assistance               31.0                4       Data Scientist     104365.0           40.0
-17                            HORIZON MEDIA  Professional, Scientific & Technical Services               31.0                3    Analytics Manager     110983.0           78.0
-18   MEMORIAL SLOAN KETTERING CANCER CENTER                Health Care & Social Assistance               30.0                4        Data Engineer     136500.0           30.0
+14                           MPG OPERATIONS                            Finance & Insurance               38.0                7       Data Scientist     109491.0           74.0
+15          NYU GROSSMAN SCHOOL OF MEDICINE                           Educational Services               38.0                3         Data Analyst      94299.5           87.0
+16                            HORIZON MEDIA  Professional, Scientific & Technical Services               31.0                3    Analytics Manager     110983.0           78.0
+17                     MOUNT SINAI HOSPITAL                Health Care & Social Assistance               31.0                4       Data Scientist     104365.0           40.0
+18   MEMORIAL SLOAN KETTERING CANCER CENTER                Health Care & Social Assistance               30.0                4       Data Scientist     136500.0           30.0
 19                      PELOTON INTERACTIVE                                   Retail Trade               30.0                4         Data Analyst     135782.0           27.0
 20                GLOBAL ATLANTIC FINANCIAL                            Finance & Insurance               27.0                4         Data Analyst     120000.0           77.0
 21                                   PAYPAL                            Finance & Insurance               25.0                4       Data Scientist     167814.0           39.0
@@ -277,15 +277,15 @@
 10                            GOLDMAN SACHS                   31        9  Business/BI Analyst, Data Analyst, Data Scientist     115200.0                            Finance & Insurance    False
 11                           MORGAN STANLEY                   31        2                Business/BI Analyst, Data Scientist     138000.0                            Finance & Insurance    False
 12                                   GOOGLE                   28        0  Business/BI Analyst, Data Analyst, Data Engine...     166000.0  Professional, Scientific & Technical Services     True
-13          NYU GROSSMAN SCHOOL OF MEDICINE                   24       14                       Data Analyst, Data Scientist      92750.0                           Educational Services    False
-14                                 DELOITTE                   24        4  Business/BI Analyst, Data Analyst, Data Engine...      91270.0  Professional, Scientific & Technical Services    False
-15                           JPMORGAN CHASE                   24        2                       Data Analyst, Data Scientist     135000.0                        Management of Companies    False
+13                                 DELOITTE                   24        4  Business/BI Analyst, Data Analyst, Data Engine...      91270.0  Professional, Scientific & Technical Services    False
+14                           JPMORGAN CHASE                   24        2                       Data Analyst, Data Scientist     135000.0                        Management of Companies    False
+15          NYU GROSSMAN SCHOOL OF MEDICINE                   24       14                       Data Analyst, Data Scientist      92750.0                           Educational Services    False
 16  ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI                   19        1  Analytics Manager, Data Analyst, Data Engineer...      90626.0                Health Care & Social Assistance    False
-17                MOODY S INVESTORS SERVICE                   17        4  Business/BI Analyst, Data Analyst, Data Engine...     118000.0              Administrative & Support Services    False
-18                                MICROSOFT                   17        1                       Data Analyst, Data Scientist     165500.0                                    Information     True
-19                        CAPGEMINI AMERICA                   16        0                  Business/BI Analyst, Data Analyst     105559.5  Professional, Scientific & Technical Services     True
-20                           EXLSERVICE COM                   16        9  Business/BI Analyst, Data Analyst, Data Scientist     101842.5  Professional, Scientific & Technical Services    False
-21                                BLOOMBERG                   16        0                       Data Analyst, Data Scientist     112340.5                                    Information     True
+17                                MICROSOFT                   17        1                       Data Analyst, Data Scientist     165500.0                                    Information     True
+18                MOODY S INVESTORS SERVICE                   17        4  Business/BI Analyst, Data Analyst, Data Engine...     118000.0              Administrative & Support Services    False
+19                                BLOOMBERG                   16        0                       Data Analyst, Data Scientist     112340.5                                    Information     True
+20                        CAPGEMINI AMERICA                   16        0                  Business/BI Analyst, Data Analyst     105559.5  Professional, Scientific & Technical Services     True
+21                           EXLSERVICE COM                   16        9  Business/BI Analyst, Data Analyst, Data Scientist     101842.5  Professional, Scientific & Technical Services    False
 22                            HORIZON MEDIA                   16        7  Analytics Manager, Business/BI Analyst, Data A...     105000.0  Professional, Scientific & Technical Services    False
 23                                      PWC                   16        8                Business/BI Analyst, Data Scientist     118500.0  Professional, Scientific & Technical Services    False
 24           BLACKROCK FINANCIAL MANAGEMENT                   15        2  Business/BI Analyst, Data Analyst, Data Scientist     122500.0                            Finance & Insurance    False
